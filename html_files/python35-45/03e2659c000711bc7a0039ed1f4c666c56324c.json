@@ -1,0 +1,80 @@
+{
+    "birth_date": null,
+    "gender": "Мужчина",
+    "area": "Москва",
+    "phone": "",
+    "email": "",
+    "metro": "",
+    "prava": [],
+    "title": "Программист junior python developer",
+    "specialization": [
+        {
+            "name": "Информационные технологии, Интернет, Мультимедиа",
+            "profarea_name": "Начало карьеры, студенты"
+        }
+    ],
+    "salary": {
+        "amount": 20000,
+        "currency": "руб."
+    },
+    "education_level": "Высшее образование",
+    "education": [
+        {
+            "year": 2023,
+            "name": "Московский технический университет связи и информатики, Москва",
+            "faculty, speciality": "Факультет общетехнический-2, Информатика и вычислительная техника"
+        }
+    ],
+    "courses": [
+        {
+            "year": "2020",
+            "institution": "SCHOOL 21",
+            "organization + specialization": "Сбербанк, Программирование"
+        }
+    ],
+    "certificates": [],
+    "language": [
+        {
+            "name": "Русский",
+            "level": "Родной"
+        },
+        {
+            "name": "Английский",
+            "level": "B1 - Средний"
+        }
+    ],
+    "experience": [
+        {
+            "start": "01-01-2020",
+            "end": null,
+            "company": "Самообучаюсь",
+            "position": "junior python developer",
+            "description": "Создание проектов"
+        }
+    ],
+    "skill_set": [
+        "HTML5",
+        "CSS3",
+        "JS",
+        "Git",
+        "PostgreSQL",
+        "Django Framework",
+        "Python",
+        "Linux"
+    ],
+    "skills": "Цель: начать карьеру junior python developer в компании и дорасти до тимлида\nОпыт фронтенд и бэкенд разработки около 1года. В основном занимался разработкой на Python, работал с фреймворком django, с библиотеками POstgesql. Есть опыт веб-разработки на JS/CSS/HTML Имею опыт разработки на C++/C/Pascal\n - Операционные системы: Windows, Linux, macOS\n\n\nЗакончил 11 классов, изучил языки программирования по курсам из интернета, поступил в МТУСИ, недавно закончил обучение (бессейн) в школе21 Подрабатываю на фрилансе, но очень хочу постоянную работу.\n",
+    "recommendations": [
+        {}
+    ],
+    "attestation": [],
+    "dop_info": [
+        {
+            "dop 1": "Гражданство: Россия",
+            "dop 2": "Разрешение на работу: Россия",
+            "dop 3": "Желательное время в пути до работы: Не имеет значения"
+        }
+    ],
+    "portfolio": {},
+    "resume_id": "03e2659c000711bc7a0039ed1f4c666c56324c",
+    "folder": "python35-45"
+}

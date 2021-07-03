@@ -1,0 +1,112 @@
+{
+    "birth_date": null,
+    "gender": "Мужчина",
+    "area": "Москва",
+    "phone": "",
+    "email": "",
+    "metro": "м. Теплый Стан",
+    "prava": [],
+    "title": "Python Developer",
+    "specialization": [
+        {
+            "name": "Программирование, Разработка",
+            "profarea_name": "Информационные технологии, интернет, телеком"
+        },
+        {
+            "name": "Сетевые технологии",
+            "profarea_name": "Информационные технологии, интернет, телеком"
+        },
+        {
+            "name": "Тестирование",
+            "profarea_name": "Информационные технологии, интернет, телеком"
+        }
+    ],
+    "salary": {
+        "amount": 120000,
+        "currency": "руб."
+    },
+    "education_level": "Среднее специальное образование",
+    "education": [
+        {
+            "year": 2019,
+            "name": "МГКИТ",
+            "faculty, speciality": "прикладной информатики, Техник программист"
+        }
+    ],
+    "courses": [
+        {
+            "year": "2019",
+            "institution": "WEBstart",
+            "organization + specialization": "Gloacademy"
+        },
+        {
+            "year": "2017",
+            "institution": "Learn Python",
+            "organization + specialization": "Learn Python, Изучение Python с нуля"
+        }
+    ],
+    "certificates": [],
+    "language": [
+        {
+            "name": "Русский",
+            "level": "Родной"
+        },
+        {
+            "name": "Английский",
+            "level": "B2 - Средне-продвинутый"
+        }
+    ],
+    "experience": [
+        {
+            "start": "01-04-2020",
+            "end": null,
+            "company": "ФГУП «ГлавНИВЦ» Управления делами Президента Российской Федерации",
+            "position": "Программист",
+            "description": "Доработка существующих парсеров, веб-приложений\nРазработка новых.\nНаписание юнит тестов, проведение нагрузочного тестирования.\nНаписание документации к парсерам.\nСборка docker контейнеров к парсерам. \nАктивная работа с git.\nРабота в команде.\nРабота с Airflow, Airflow DAG, Neo4j, MongoDB."
+        },
+        {
+            "start": "01-12-2019",
+            "end": "01-04-2020",
+            "company": "Энергогарант, Страховая компания",
+            "position": "Инженер-программист (специалист)",
+            "description": "Разбор заявок тех.саппорт\nНаписание скриптов, доработка имеющихся.\n(php)\nПолная поддержка и написание адаптивной верстки с использованием JavaScript, jQuery, CSS"
+        },
+        {
+            "start": "01-10-2019",
+            "end": "01-12-2019",
+            "company": "Singapore Project",
+            "position": "Python Developer (НАЙМ ПО ГПХ 2 мес)",
+            "description": "Написание парсеров для различных сингапурских и других стран Азии сайтов, с использованием requests, bs4, scrapy, selenium.\nСоответствие коллективному стилю кода, документирование кода, объединение нескольких парсеров в один скрипт."
+        }
+    ],
+    "skill_set": [
+        "Python",
+        "Linux",
+        "Git",
+        "python-telegram-bot",
+        "Django Framework",
+        "pep8",
+        "docker",
+        "Unit Testing",
+        "Нагрузочное тестирование",
+        "Flask",
+        "Asyncio",
+        "aiohttp",
+        "SQL"
+    ],
+    "skills": "Классный парень",
+    "recommendations": [
+        {}
+    ],
+    "attestation": [],
+    "dop_info": [
+        {
+            "dop 1": "Гражданство: Россия",
+            "dop 2": "Разрешение на работу: Россия",
+            "dop 3": "Желательное время в пути до работы: Не более часа"
+        }
+    ],
+    "portfolio": {},
+    "resume_id": "c774b84c0006e58aa60039ed1f7a526b755971",
+    "folder": "python45-55"
+}

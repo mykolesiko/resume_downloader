@@ -1,0 +1,146 @@
+{
+    "birth_date": "29 февраля 1996",
+    "gender": "Мужчина",
+    "area": "Санкт-Петербург",
+    "phone": "",
+    "email": "",
+    "metro": "м. Площадь Восстания",
+    "prava": [
+        {
+            "prava1": "Права категории B, C"
+        }
+    ],
+    "title": "Junior Python Developer",
+    "specialization": [
+        {
+            "name": "Программирование, Разработка",
+            "profarea_name": "Информационные технологии, интернет, телеком"
+        },
+        {
+            "name": "Инженер",
+            "profarea_name": "Информационные технологии, интернет, телеком"
+        },
+        {
+            "name": "Аналитик",
+            "profarea_name": "Информационные технологии, интернет, телеком"
+        }
+    ],
+    "salary": {
+        "amount": 40000,
+        "currency": "руб."
+    },
+    "education_level": "Высшее образование (Бакалавр)",
+    "education": [
+        {
+            "year": 2017,
+            "name": "Академия гражданской защиты МЧС, Москва",
+            "faculty, speciality": "Командно-инженерный, Информационные системы и технологии (красный диплом)"
+        }
+    ],
+    "courses": [
+        {
+            "year": "2021",
+            "institution": "МФТИ",
+            "organization + specialization": "Coursera, Машинное обучение и анализ данных (Специализация)"
+        },
+        {
+            "year": "2021",
+            "institution": "Stepik.org",
+            "organization + specialization": "IQ Option, \"Поколение Python\": курс для начинающих"
+        },
+        {
+            "year": "2021",
+            "institution": "Stepik.org",
+            "organization + specialization": "Computer Science Center, Алгоритмы: теория и практика. Методы"
+        },
+        {
+            "year": "2021",
+            "institution": "Stepik.org",
+            "organization + specialization": "Институт биоинформатики, Python: основы и применение"
+        },
+        {
+            "year": "2021",
+            "institution": "Stepik.org",
+            "organization + specialization": "МФТИ, Практикум по математике и Python"
+        },
+        {
+            "year": "2021",
+            "institution": "Stepik.org",
+            "organization + specialization": "Институт биоинформатики, Основы статистики"
+        },
+        {
+            "year": "2021",
+            "institution": "Stepik.org",
+            "organization + specialization": "Институт биоинформатики, Введение в Data Science и машинное обучение"
+        },
+        {
+            "year": "2021",
+            "institution": "Stepik.org",
+            "organization + specialization": "Институт биоинформатики, Нейронные сети"
+        },
+        {
+            "year": "2020",
+            "institution": "Высшая школа экономики",
+            "organization + specialization": "Coursera, Основы программирования на Python"
+        },
+        {
+            "year": "2019",
+            "institution": "ФГБОУ ВО \"Санкт-Петербургский университет Государственной противопожарной службы МЧС России\"",
+            "organization + specialization": "МЧС России, Специалист в области государственных закупок"
+        },
+        {
+            "year": "2019",
+            "institution": "ФГБОУ ВО \"Санкт-Петербургский университет Государственной противопожарной службы МЧС России\"",
+            "organization + specialization": "МЧС России, Специалист в области 3D моделирования"
+        },
+        {
+            "year": "2019",
+            "institution": "ФГБОУ ВО \"Санкт-Петербургский университет Государственной противопожарной службы МЧС России\"",
+            "organization + specialization": "МЧС России, Специалист общесистемных и специальных программных средств"
+        }
+    ],
+    "certificates": [],
+    "language": [
+        {
+            "name": "Русский",
+            "level": "Родной"
+        },
+        {
+            "name": "Английский",
+            "level": "B1 - Средний"
+        }
+    ],
+    "experience": [
+        {
+            "start": "01-08-2017",
+            "end": null,
+            "company": "ФГКУ \"Невский СЦ МЧС России\"",
+            "position": "Инженер группы беспилотных летательных аппаратов и робототехнических средств",
+            "description": "Администрирование рабочих мест, настройка рабочей сети, настройка беспилотных воздушных средств, ремонт ПК и офисной техники."
+        }
+    ],
+    "skill_set": [
+        "Администрирование серверов Windows",
+        "Python",
+        "Jupiter",
+        "PostgreSQL",
+        "Big Data",
+        "Data Analysis",
+        "Adobe Photoshop"
+    ],
+    "skills": "Изучаю область Data Science. Основной язык программирования   - Python. Знаю основы ООП. Прохожу специализацию на Coursera - \"Машинное обучение и анализ данных\" от МФТИ и Яндекса. ",
+    "recommendations": [
+        {}
+    ],
+    "attestation": [],
+    "dop_info": [
+        {
+            "dop 1": "Гражданство: Россия",
+            "dop 2": "Разрешение на работу: Россия",
+            "dop 3": "Желательное время в пути до работы: Не имеет значения"
+        }
+    ],
+    "portfolio": {},
+    "resume_id": "e68362280006fcaab40039ed1f6f4535696a50",
+    "folder": "python18-25"
+}

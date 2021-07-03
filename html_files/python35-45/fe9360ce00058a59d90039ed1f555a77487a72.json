@@ -1,0 +1,109 @@
+{
+    "birth_date": "16 июля 1980",
+    "gender": "Мужчина",
+    "area": "Москва",
+    "phone": "",
+    "email": "",
+    "metro": "",
+    "prava": [
+        {
+            "prava1": "Права категории A, B, C"
+        }
+    ],
+    "title": "Python Разработчик Junior",
+    "specialization": [
+        {
+            "name": "Информационные технологии, Интернет, Мультимедиа",
+            "profarea_name": "Начало карьеры, студенты"
+        }
+    ],
+    "salary": {
+        "amount": 50000,
+        "currency": "руб."
+    },
+    "education_level": "Высшее образование",
+    "education": [
+        {
+            "year": 2021,
+            "name": "SkillBox",
+            "faculty, speciality": "Python-разработчик с нуля"
+        }
+    ],
+    "courses": [],
+    "certificates": [],
+    "language": [
+        {
+            "name": "Русский",
+            "level": "Родной"
+        }
+    ],
+    "experience": [
+        {
+            "start": "01-07-2018",
+            "end": "01-08-2020",
+            "company": "X5 RETAIL GROUP",
+            "position": "ETL разработчик",
+            "description": "SAS, SQL develop"
+        },
+        {
+            "start": "01-11-2017",
+            "end": "01-05-2018",
+            "company": "Diasoft",
+            "position": "Ведущий программист",
+            "description": "sql, pl/sql develop"
+        },
+        {
+            "start": "01-08-2016",
+            "end": "01-11-2017",
+            "company": "НПП \"Системные ресурсы\"",
+            "position": "Ведущий пограммист",
+            "description": "sql, pl/sql develop"
+        },
+        {
+            "start": "01-08-2010",
+            "end": "01-10-2016",
+            "company": "ЦНТ Парус",
+            "position": "Ведущий программист, аналитик, консультант",
+            "description": "sql, pl/sql, delphi develop"
+        },
+        {
+            "start": "01-09-2006",
+            "end": "01-06-2010",
+            "company": "ЗАО «СЭЙЛС»",
+            "position": "Программист",
+            "description": "sql, pl/sql, delphi develop"
+        },
+        {
+            "start": "01-08-2005",
+            "end": "01-05-2006",
+            "company": "ГУП Дирекция Единого Заказчика района",
+            "position": "Руководитель",
+            "description": "10 месяцев\n    Руководитель Единого информационно-расчетного центра"
+        }
+    ],
+    "skill_set": [
+        "Python",
+        "SQL",
+        "Oracle Pl/SQL",
+        "PostgreSQL",
+        "VBA",
+        "Git",
+        "XML",
+        "Json",
+        "Delphi"
+    ],
+    "skills": "Хочу программировать на Python. Ответственный, аккуратный, порядочный, образованный. Не в штате. Частичная занятость.",
+    "recommendations": [
+        {}
+    ],
+    "attestation": [],
+    "dop_info": [
+        {
+            "dop 1": "Гражданство: Россия",
+            "dop 2": "Желательное время в пути до работы: Не имеет значения"
+        }
+    ],
+    "portfolio": {},
+    "resume_id": "fe9360ce00058a59d90039ed1f555a77487a72",
+    "folder": "python35-45"
+}

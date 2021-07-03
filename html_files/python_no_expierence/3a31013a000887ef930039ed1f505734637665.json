@@ -1,0 +1,77 @@
+{
+    "birth_date": "21 февраля 2001",
+    "gender": "Мужчина",
+    "area": "Москва",
+    "phone": "",
+    "email": "",
+    "metro": "",
+    "prava": [
+        {
+            "prava1": "Права категории B"
+        }
+    ],
+    "title": "Junior python developer",
+    "specialization": [
+        {
+            "name": "Производство, Технологии",
+            "profarea_name": "Начало карьеры, студенты"
+        }
+    ],
+    "salary": {
+        "amount": null,
+        "currency": null
+    },
+    "education_level": "Неоконченное высшее образование",
+    "education": [
+        {
+            "year": 2024,
+            "name": "Московский гуманитарно-экономический институт, Москва",
+            "faculty, speciality": "Менеджмент , Информационный менеджмент"
+        },
+        {
+            "year": 2020,
+            "name": "Московский гуманитарно-экономический институт, Москва",
+            "faculty, speciality": "СПО, Экономика-бухгалтерский учёт"
+        }
+    ],
+    "courses": [],
+    "certificates": [],
+    "language": [
+        {
+            "name": "Русский",
+            "level": "Родной"
+        },
+        {
+            "name": "Английский",
+            "level": "B1 - Средний"
+        }
+    ],
+    "experience": [],
+    "skill_set": [
+        "Ответственность",
+        "Адаптация",
+        "Python",
+        "HTML5",
+        "SQL",
+        "Django Framework",
+        "Git",
+        "ООП",
+        "PostgreSQL",
+        "golang"
+    ],
+    "skills": "Опыт программирования:\n Python 2.8+: 5 месяцев.\n Go: 2 месяца.\nНавыки:\nGo\nPython 2.8+, Django 2.2+, BeautifulSoup, requests, urllib, datetime, Apache, re.\nУмение написания unittest.\nЯзык SQL, PostgreSQL, SQLite.\nАнглийский язык на уровне чтения технической документации;\nHTML5. \nСистемы-Git: ветки, работа с удаленными репозиториями\nИспользую ОС Windows, Bash-терминал, его основные утилиты\nОпыт разработки в Django framework.",
+    "recommendations": [
+        {}
+    ],
+    "attestation": [],
+    "dop_info": [
+        {
+            "dop 1": "Гражданство: Россия",
+            "dop 2": "Разрешение на работу: Россия",
+            "dop 3": "Желательное время в пути до работы: Не имеет значения"
+        }
+    ],
+    "portfolio": {},
+    "resume_id": "3a31013a000887ef930039ed1f505734637665",
+    "folder": "python_no_expierence"
+}

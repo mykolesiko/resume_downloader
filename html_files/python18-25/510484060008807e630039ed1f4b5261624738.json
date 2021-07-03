@@ -1,0 +1,76 @@
+{
+    "birth_date": "22 января 1999",
+    "gender": "Мужчина",
+    "area": "Грозный",
+    "phone": "",
+    "email": "",
+    "metro": "",
+    "prava": [],
+    "title": "Python backend",
+    "specialization": [
+        {
+            "name": "Программирование, Разработка",
+            "profarea_name": "Информационные технологии, интернет, телеком"
+        }
+    ],
+    "salary": {
+        "amount": null,
+        "currency": null
+    },
+    "education_level": "Образование",
+    "education": [],
+    "courses": [],
+    "certificates": [],
+    "language": [
+        {
+            "name": "Русский",
+            "level": "Родной"
+        },
+        {
+            "name": "Английский",
+            "level": "A1 - Начальный"
+        }
+    ],
+    "experience": [
+        {
+            "start": "01-07-2020",
+            "end": null,
+            "company": "Mnwho",
+            "position": "python backend",
+            "description": "Работаю в Дубайской компании, которая занимается созданием приложение для бизнеса.\n\nСоздаём  фриланс биржу с профилями связанные с YouTube/Instagram/GitHub\n( blogger, programmer, etc ).\n\nupd: Переписываем на REST API ( https://beta.mnwho.com/ )"
+        }
+    ],
+    "skill_set": [
+        "Python1",
+        "Flask1",
+        "Django1",
+        "DRF1",
+        "PyTest1",
+        "PostgreSQL1",
+        "Docker1",
+        "SQLAlchemy1",
+        "Git",
+        "HTML",
+        "CSS",
+        "SOLID",
+        "Nginx",
+        "Celery",
+        "Redis",
+        "Linux"
+    ],
+    "skills": "Я python backend разработчик. Пишу web-сервисы на стэке: Django, DRF, PostgreSQL, умею все это держать в Docker. \n\nЕсть опыт разработки pet-проектов на Flask+PostgreSQL+SQLAlchemy.\n\nМое хобби (для hr'a) — читаю книги по нейробиологии. Пишу абстрактные рассказы, которые пока что никуда не выкладываю.\n\nСсылка на мой GitHub: https://github.com/42musaev/",
+    "recommendations": [
+        {}
+    ],
+    "attestation": [],
+    "dop_info": [
+        {
+            "dop 1": "Гражданство: Россия",
+            "dop 2": "Разрешение на работу: Россия",
+            "dop 3": "Желательное время в пути до работы: Не имеет значения"
+        }
+    ],
+    "portfolio": {},
+    "resume_id": "510484060008807e630039ed1f4b5261624738",
+    "folder": "python18-25"
+}

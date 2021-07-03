@@ -1,0 +1,208 @@
+{
+    "birth_date": "2 October 1985",
+    "gender": "Female",
+    "area": "Moscow",
+    "phone": "",
+    "email": "",
+    "metro": "",
+    "prava": [],
+    "title": "Key account manager",
+    "specialization": [
+        {
+            "name": "Telecommunications",
+            "profarea_name": "IT, Internet, Telecom"
+        },
+        {
+            "name": "E-Commerce",
+            "profarea_name": "IT, Internet, Telecom"
+        },
+        {
+            "name": "Other",
+            "profarea_name": "IT, Internet, Telecom"
+        }
+    ],
+    "salary": {
+        "amount": null,
+        "currency": null
+    },
+    "education_level": "Higher education",
+    "education": [
+        {
+            "year": 2015,
+            "name": "Russian Presidential Academy of National Economy and Public Administration",
+            "faculty, speciality": "Diploma in project  management"
+        },
+        {
+            "year": 2010,
+            "name": "First Professional University, Moscow",
+            "faculty, speciality": "Diploma in management of organization"
+        }
+    ],
+    "courses": [
+        {
+            "year": "2020",
+            "institution": "GeekBrains",
+            "organization + specialization": "GeekBrains, Python.Beginner, Git, Programming basics, English for IT-specialists"
+        },
+        {
+            "year": "2020",
+            "institution": "NETOLOGY",
+            "organization + specialization": "NETOLOGY, HTML, CSS.Basics"
+        },
+        {
+            "year": "2014",
+            "institution": "Training center",
+            "organization + specialization": "\"Sinton\", Effective personnel management"
+        },
+        {
+            "year": "2007",
+            "institution": "Bank",
+            "organization + specialization": "Sobinbank, Personnel training technology"
+        }
+    ],
+    "certificates": [],
+    "language": [
+        {
+            "name": "Russian",
+            "level": "Native"
+        },
+        {
+            "name": "English",
+            "level": "B1 - Intermediate"
+        }
+    ],
+    "experience": [
+        {
+            "start": "01-11-2017",
+            "end": null,
+            "company": "NAU",
+            "position": "Account manager",
+            "description": "The project is closed. Now, I am on maternity leave since June 2018 (I've got 2 children: 13 and 2 years old).\nThe project was a discount service.\n* \"Cold\" calling.\n* Conclusion of contracts."
+        },
+        {
+            "start": "01-08-2017",
+            "end": "01-10-2017",
+            "company": "LLC \"Bianca Premium\" (Limited Liability Company)",
+            "position": "Sales manager",
+            "description": "* Attracting new Partners.\n* Solving problems for current Partners.\n* Launch of joint marketing activities.\n\nObtained results:\n* Joint marketing activities have been launched with the following Companies: the children's store chain \"VINNY\", Wedding salons: \"Aurora\", \"ToBeBride\", etc.\n* Agreements have been reached to resume cooperation with Meucci and Louis Vuitton."
+        },
+        {
+            "start": "01-11-2016",
+            "end": "01-04-2017",
+            "company": "\"Good Choice\" LLC  (Limited Liability Company)",
+            "position": "Key account manager",
+            "description": "Start-up, working without employment contract.\n\n* Building and develop relationship with key clients.\n* Selling courier services to clients.\n* Working with receivables."
+        },
+        {
+            "start": "01-12-2015",
+            "end": "01-02-2016",
+            "company": "\"Reil Continent M\" LLC  (Limited Liability Company)",
+            "position": "Head of sales department",
+            "description": "*  Building working process with clients, including: searching and development.\n* Managing staff of 9 managers.\n* Analysis of market and competitors."
+        },
+        {
+            "start": "01-09-2015",
+            "end": "01-12-2015",
+            "company": "RAPIDA LTD",
+            "position": "Senior manager",
+            "description": "*  Elaboration of business-processing regulations.\n\nThe reason of living company was association with competitor."
+        },
+        {
+            "start": "01-04-2012",
+            "end": "01-04-2015",
+            "company": "NON-BANKING CREDIT ORGANIZATION «MOSCOW CLEARING CENTRE» Joint Stock Company",
+            "position": "Deputy director of corporate clients department",
+            "description": "* Searching clients, including: \"cold\" calls and searching through internet.\n* Building and develop relationship with key clients, such as: Orifleim, mobile operators (MTS, Megafon) and etc.\n* Project activities, including: starting, supporting and developing. Projects in mobile commerce, transport and government systems.\n* Elaborationand approval agreements, orders.\n* Leading department in the absence of director, including: creating regulations of Department, KPI.\n  \nObtained results:\n* Increased financial data for 10%.\n* Launched mobile commerce."
+        },
+        {
+            "start": "01-10-2010",
+            "end": "01-04-2012",
+            "company": "\"Tip-Top Cleaning\" LLC (Limited Liability Company)",
+            "position": "Key account manager",
+            "description": "* Building and develop relationship with key clients, such as: LG, Perfetti Van Melle, EVN and etc.\n* Working with receivables.\n* Operation processes."
+        },
+        {
+            "start": "01-01-2010",
+            "end": "01-10-2010",
+            "company": "\"Trade.Su\" OJSC  (Open Joint-stock Company)",
+            "position": "Manager of internet project",
+            "description": "* Creating micro industries portals"
+        },
+        {
+            "start": "01-02-2009",
+            "end": "01-10-2009",
+            "company": "\"Market Edvaizors\" LLC  (Limited Liability Company)",
+            "position": "Sales manager",
+            "description": "* Selling financial products to clients, including: searching."
+        },
+        {
+            "start": "01-01-2007",
+            "end": "01-10-2008",
+            "company": "Bank \"Finservice\" LLC (Limited Liability Company)",
+            "position": "Senior sales manager",
+            "description": "* Selling financial products to clients.\n* Leading a staff of 2 managers.\n\nObtained results:\n* Won nomination \"Open of the year\""
+        },
+        {
+            "start": "01-07-2004",
+            "end": "01-10-2006",
+            "company": "\"Svyaznoy MC\" OJSC (Open Joint-stock Company)",
+            "position": "Senior manager/ Trainer of sales point",
+            "description": "* Selling mobile phones and accessories.\n* Leading a staff of 20 managers, including: training and strong operational controls.\n\nAwarded a diploma of the 3rd degree for winning the competition of 100 best sales consultants (March-April 2004) from the Partner \" Beeline \"(a copy of the diploma is located in the portfolio)."
+        }
+    ],
+    "skill_set": [
+        "B2B Sales",
+        "Business communication and negotiation skills",
+        "Project management skills: influence, leadership, ability to negotiate, etc",
+        "Skills of analysis of sales / market and competitors ' activities / economic indicators",
+        "Critical thinking, decision-making and problem-solving skills",
+        "The ability to adapt to the conditions",
+        "Organizational skills, ability to prioritize",
+        "Problem analysis, use of judgment, ability to solve problems effectively",
+        "Customer Support",
+        "Development of key clients",
+        "B2C sales",
+        "Payment system",
+        "The launch of new products",
+        "Personnel management and training",
+        "Python.Basics",
+        "Git",
+        "HTML, CSS.Basics"
+    ],
+    "skills": "Good day!\n\nIn addition to my professional activities, currently, I am interested in programming. It is interesting to me because any problem, even the most complex, can be solved with a standard set of characters, and it would be better if you have used less characters in code.\n\nIn ordinary life, we try to express a thought with many words, use synonyms, quotes, abstract examples, and so on. In programming, everything is exactly the opposite. It's really exciting to find solutions to problems by going over the available options in your mind, by the exercise of some ingenuity. Even minor differences in tasks lead to a different set of characters used.\n\nI now devote my free time to solving such problems: https://www.hackerrank.com/zov9262385646 .\n\nI always try to do my job as well as possible, even outside of direct employment, as can be evidenced by some results, such as, for instance: the publication of an article on the website of the RANEPA School of IT Management: http://journal.itmane.ru/node/1920, to the final work, the result of which was noted by the attestation commission.\n\nI sincerely hope that I was able to reflect my experience as accurately as possible and reveal my personal qualities. And it would be a pleasure for me to provide additional information if you need it.\n\nBest regards,\nOlga Zaykovskaya ",
+    "recommendations": [
+        {}
+    ],
+    "attestation": [
+        {
+            "year": "2020",
+            "institution": "GeekBrains",
+            "organization_specialization": "GeekBrains, Programming basics.Beginner."
+        },
+        {
+            "year": "2020",
+            "institution": "GeekBrains",
+            "organization_specialization": "GeekBrains, Programming basics.Beginner."
+        },
+        {
+            "year": "2020",
+            "institution": "GeekBrains",
+            "organization_specialization": "GeekBrains, Python.Beginner"
+        }
+    ],
+    "dop_info": [
+        {
+            "dop 1": "Citizenship: Russia",
+            "dop 2": "Permission to work: Russia",
+            "dop 3": "Desired travel time to work: Doesn't matter"
+        }
+    ],
+    "portfolio": {
+        "portfolio_item 0": "https://hhcdn.ru/photo/501161188.jpeg?t=1613979740&h=fhKNCdVIPpYgiyw2DJw3_Q",
+        "portfolio_item 1": "https://hhcdn.ru/photo/501162052.jpeg?t=1613979740&h=I6LMibUT-qurLJT56VugCA",
+        "portfolio_item 2": "https://hhcdn.ru/photo/589826822.jpeg?t=1613979740&h=bK2eGgsv2LSIvdCe5T__rQ",
+        "portfolio_item 3": "https://hhcdn.ru/photo/589826862.jpeg?t=1613979740&h=9yE1YCQsUa6sjD760pxVkA"
+    },
+    "resume_id": "c1afd68200079d702d0039ed1f734c35515950",
+    "folder": "python_more_6_expierence"
+}

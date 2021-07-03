@@ -1,0 +1,90 @@
+{
+    "birth_date": "25 September 2000",
+    "gender": "Male",
+    "area": "Moscow",
+    "phone": "",
+    "email": "",
+    "metro": "",
+    "prava": [
+        {
+            "prava1": "Driver's license category B"
+        }
+    ],
+    "title": "Python Developer",
+    "specialization": [
+        {
+            "name": "Software Development",
+            "profarea_name": "IT, Internet, Telecom"
+        },
+        {
+            "name": "Engineer",
+            "profarea_name": "IT, Internet, Telecom"
+        }
+    ],
+    "salary": {
+        "amount": null,
+        "currency": null
+    },
+    "education_level": "Secondary special education",
+    "education": [
+        {
+            "year": 2020,
+            "name": "South Ural State College",
+            "faculty, speciality": "Прикладная информатика, Техник-программист"
+        }
+    ],
+    "courses": [],
+    "certificates": [],
+    "language": [
+        {
+            "name": "Russian",
+            "level": "Native"
+        },
+        {
+            "name": "English",
+            "level": "B2 - Upper Intermediate"
+        }
+    ],
+    "experience": [
+        {
+            "start": "01-09-2020",
+            "end": "01-11-2020",
+            "company": "Сбербанк",
+            "position": "Ведущий инженер-программист",
+            "description": "Разрабатывал сервис для получения метрик утилизации кластеров OS (Openstack) через Openstack API. При разработке использовал Djagno, RabbitMQ, Celery и Postgres. В качестве среды использовал docker/docker-compose."
+        },
+        {
+            "start": "01-09-2018",
+            "end": "01-08-2020",
+            "company": "NapoleonIT",
+            "position": "Python Developer",
+            "description": "Работая в NapoleonIT в качестве Python Developer, я:\n- Разработал серверную часть высоконагруженного CV (Computer Vision) приложения.\n- Принимал участие в разработке архитектуры и ее будущих оптимизациях, после вывода проекта в продакшен.\n- Разработал и сконфигурировал систему, основанную на Prometheus, Grafana, Kibana, Fluentd, ElasticSearch для сбора и анализа логов приложения с целью получения оповещений о возможных ошибках. \n- Занимался конфигурацией линукс-серверов на протяжении всего жизненного цикла от покупки до вывода в продакшен. \n- Администрировал 40+ серверов.\n- Внедрил методологию CI / CD в проект, используя gitlab-ci и описал процесс деплоя микросервисов на сервера кластера с помощью ansible.\n- Принимал активное участие в расследовании инцидентов в среде продакшен и оперативно их решал.\n- Разработал телеграм ботов для оповещений об ошибках и формирования ежедневного отчета на основе данных с продакшен среды.\n- Разработал сервис для оптимизации процессов между отделами с помощью ежедневного матчинга данных. \n- Оптимизировал архитектуру проекта для переезда на облачные мощности.\n- Разработал серверную часть одного из внутренних веб-проектов компании на Django.\n\nВо время испытательного срока я занимался разработкой парсеров, предиктивных моделей на основе машинного обучения, анализом данных (pandas)."
+        }
+    ],
+    "skill_set": [
+        "Python1",
+        "Flask1",
+        "Ansible1",
+        "Docker1",
+        "Celery",
+        "RabbitMQ",
+        "MongoDB",
+        "Django",
+        "Git"
+    ],
+    "skills": "Делаю то, что нравится, поэтому мотивирован и энергичен.\nПовседневно использую Linux.\n\nУмею работать в условиях жестких дедлайнов и укладываться в сроки, тесно сотрудничать с другими разработчиками и уверенно коммуницировать. \nПосле понимания базового цикла и целей проекта могу работать самостоятельно с минимальным контролем\n\nВ свободное время увлекаюсь информационной безопасностью и тестированием на проникновение. Знаю основы аудита безопасности информационных систем, используемые инструменты, уязвимости и ошибки, которые к ним приводят и имею навыки их поиска. Есть написанная статья https://dc7495.org/introduction-to-computer-forensics/ и перевод https://dc7495.org/analysis-of-malicious-ransomware-traffic-using-captipper/ для сообщества по информационной безопасности (DEFCON).\nВ составе команды КБСП выступал на соревнованиях по тестированию на проникновению – https://standoff365.com, где мы заняли 18 место.",
+    "recommendations": [
+        {}
+    ],
+    "attestation": [],
+    "dop_info": [
+        {
+            "dop 1": "Citizenship: Russia",
+            "dop 2": "Permission to work: Russia",
+            "dop 3": "Desired travel time to work: Doesn't matter"
+        }
+    ],
+    "portfolio": {},
+    "resume_id": "665f02990003b646fc0039ed1f515a44386c7a",
+    "folder": "python_education_ss"
+}

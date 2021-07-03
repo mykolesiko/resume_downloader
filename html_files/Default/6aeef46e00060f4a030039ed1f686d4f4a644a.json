@@ -1,0 +1,115 @@
+{
+    "birth_date": "26 ноября 1996",
+    "gender": "Мужчина",
+    "area": "Москва",
+    "phone": "",
+    "email": "",
+    "metro": "м. Волжская",
+    "prava": [
+        {
+            "prava1": "Права категории B"
+        }
+    ],
+    "title": "Программист Python",
+    "specialization": [
+        {
+            "name": "Программирование, Разработка",
+            "profarea_name": "Информационные технологии, интернет, телеком"
+        },
+        {
+            "name": "Инженер",
+            "profarea_name": "Информационные технологии, интернет, телеком"
+        },
+        {
+            "name": "Интернет",
+            "profarea_name": "Информационные технологии, интернет, телеком"
+        }
+    ],
+    "salary": {
+        "amount": null,
+        "currency": null
+    },
+    "education_level": "Высшее образование",
+    "education": [
+        {
+            "year": 2018,
+            "name": "Ивановский государственный энергетический университет им. В.И. Ленина, Иваново (Ивановская область)",
+            "faculty, speciality": "ЭЭФ (Электроэнегретический факультет)"
+        }
+    ],
+    "courses": [
+        {
+            "year": "2020",
+            "institution": "Машинное обучение",
+            "organization + specialization": "Специалист"
+        },
+        {
+            "year": "2019",
+            "institution": "frontend - разработчик",
+            "organization + specialization": "Специалист"
+        }
+    ],
+    "certificates": [],
+    "language": [
+        {
+            "name": "Русский",
+            "level": "Родной"
+        },
+        {
+            "name": "Английский",
+            "level": "B2 - Средне-продвинутый"
+        }
+    ],
+    "experience": [
+        {
+            "start": "01-08-2019",
+            "end": "01-09-2020",
+            "company": "ФГУП ЦНИИС",
+            "position": "Програмист",
+            "description": "по началу занимался разработкой приложений на электроне и писал на питоне. в последнее время работал только на питоне."
+        },
+        {
+            "start": "01-08-2018",
+            "end": "01-01-2019",
+            "company": "Центр компьютерного обучения СПЕЦИАЛИСТ при МГТУ им. Н.Э.Баумана",
+            "position": "Програмист",
+            "description": "Front-end back-end разработчик"
+        }
+    ],
+    "skill_set": [
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "jQuery",
+        "Python",
+        "OpenCV",
+        "numpy",
+        "pandas",
+        "GitKraken",
+        "jupyter",
+        "pycharm",
+        "matplotlib",
+        "SQL",
+        "PostgreSQL",
+        "BesutifulSoup",
+        "Selenium",
+        "Docker",
+        "Django Framework",
+        "Linux"
+    ],
+    "skills": "После окончания вуза закончил очно курс по frontend-разработке в Специалисте. Далее устроился программистом в НИИ, в котором приобрел навыки работы с electron. Затем изучил python и писал на нем, а интерфейсы также делал на electron. Также работал, как с популярными библиотеками (numpy, opencv, pandas, matplotlib, bs4, selenium, с tensorflow keras  побалывался немного (машинным зрением)), так и со специфичными.  Есть опыт с Ubuntu. Профиль с гита: https://github.com/AndreyDacenko?tab=repositories . Более подробно показать примеры работы могу при встрече. Также есть и свой проект, который уже приносит доход. Английским владею достаточно для того, чтобы читать и общаться. В настоящее время изучаю django.\nПо всем вопросам (если не отвечу тут) пишите в telegram @AndreyDacenko , либо на почту: andrey_dacenko_job@mail.ru",
+    "recommendations": [
+        {}
+    ],
+    "attestation": [],
+    "dop_info": [
+        {
+            "dop 1": "Гражданство: Россия",
+            "dop 2": "Разрешение на работу: Россия",
+            "dop 3": "Желательное время в пути до работы: Не имеет значения"
+        }
+    ],
+    "portfolio": {},
+    "resume_id": "6aeef46e00060f4a030039ed1f686d4f4a644a",
+    "folder": "Default"
+}

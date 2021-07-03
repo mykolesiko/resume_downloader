@@ -1,0 +1,111 @@
+{
+    "birth_date": "22 сентября 1999",
+    "gender": "Мужчина",
+    "area": "Москва",
+    "phone": "",
+    "email": "",
+    "metro": "",
+    "prava": [],
+    "title": "Разработчик Python",
+    "specialization": [
+        {
+            "name": "Программирование, Разработка",
+            "profarea_name": "Информационные технологии, интернет, телеком"
+        },
+        {
+            "name": "Тестирование",
+            "profarea_name": "Информационные технологии, интернет, телеком"
+        },
+        {
+            "name": "Web инженер",
+            "profarea_name": "Информационные технологии, интернет, телеком"
+        }
+    ],
+    "salary": {
+        "amount": 60000,
+        "currency": "руб."
+    },
+    "education_level": "Среднее специальное образование",
+    "education": [
+        {
+            "year": 2022,
+            "name": "GeekBrains Mail.ru",
+            "faculty, speciality": "IT, Data Science, Искусственный интеллект -Python"
+        },
+        {
+            "year": 2019,
+            "name": "Красноадрский кооперативный техникум",
+            "faculty, speciality": "информационные технологии, программист 1с"
+        }
+    ],
+    "courses": [],
+    "certificates": [],
+    "language": [
+        {
+            "name": "Русский",
+            "level": "Родной"
+        },
+        {
+            "name": "Английский",
+            "level": "C1 - Продвинутый"
+        }
+    ],
+    "experience": [
+        {
+            "start": "01-12-2020",
+            "end": null,
+            "company": "Mail.Ru Group",
+            "position": "Data scientist Python",
+            "description": "Решение рабочих задач, Самообучение"
+        }
+    ],
+    "skill_set": [
+        "Коммуникабельность",
+        "Любовь к своему делу",
+        "Творческие способности",
+        "Обучаемость",
+        "Добросовестность",
+        "Ответственность",
+        "Эмоциональная устойчивость",
+        "Нацеленность на решение задач",
+        "Python",
+        "Git",
+        "ООП",
+        "Linux",
+        "PyCharm",
+        "Googliness",
+        "MS SQL",
+        "HTML",
+        "CSS",
+        "Django Framework",
+        "Django REST Framework",
+        "API",
+        "PostgreSQL"
+    ],
+    "skills": "Развиваюсь в области Data Science, Machine Learning, прохожу курсы по данным и смежным областям. Люблю решать сложные и необычные задачи. Быстро и легко самообучаюсь. Так же я принимаю участие в написании с коллегами серьёзного рабочего проекта на Django. Очень нравится писать код на Django и Django REST framework. \nПланируемый стек:\n- Python (Django Framework)\n- HTML + CSS\n- Git (+ Github или Bitbucket)\n- Jira\n- Docker (+ Docker-compose)\n- RabbitMQ\n- AWS (или аналог)\n- Может быть что-то для логов (Sentry или Prometheus)\n- Postgresql\n- Telegram\nссылка с выполненными работами на GitHub https://github.com/Strang4r/PracticalCases\nВ свободное время увлекаюсь игрой на гитаре",
+    "recommendations": [
+        {}
+    ],
+    "attestation": [
+        {
+            "year": "2022",
+            "institution": "GeekBrains ",
+            "organization_specialization": "Mail.ru, Python Data Science"
+        },
+        {
+            "year": "2022",
+            "institution": "GeekBrains ",
+            "organization_specialization": "Mail.ru, Python Data Science"
+        }
+    ],
+    "dop_info": [
+        {
+            "dop 1": "Гражданство: Россия",
+            "dop 2": "Разрешение на работу: Россия",
+            "dop 3": "Желательное время в пути до работы: Не имеет значения"
+        }
+    ],
+    "portfolio": {},
+    "resume_id": "9ff308c90008a3f4b20039ed1f4d65794a305a",
+    "folder": "python18-25"
+}

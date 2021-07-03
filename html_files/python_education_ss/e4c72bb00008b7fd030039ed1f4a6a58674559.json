@@ -1,0 +1,129 @@
+{
+    "birth_date": "18 октября 2001",
+    "gender": "Женщина",
+    "area": "Краснодар",
+    "phone": "",
+    "email": "",
+    "metro": "",
+    "prava": [],
+    "title": "Junior Python-разработчик‎",
+    "specialization": [
+        {
+            "name": "Информационные технологии, Интернет, Мультимедиа",
+            "profarea_name": "Начало карьеры, студенты"
+        },
+        {
+            "name": "Производство, Технологии",
+            "profarea_name": "Начало карьеры, студенты"
+        },
+        {
+            "name": "Финансы, Банки, Инвестиции",
+            "profarea_name": "Начало карьеры, студенты"
+        }
+    ],
+    "salary": {
+        "amount": null,
+        "currency": null
+    },
+    "education_level": "Среднее специальное образование",
+    "education": [
+        {
+            "year": 2021,
+            "name": "ГБПОУ КК \"Краснодарский колледж электронного приборостроения\"",
+            "faculty, speciality": "Компьютерной техники и технологий, Компьютерные сети"
+        }
+    ],
+    "courses": [
+        {
+            "year": "2020",
+            "institution": "CCNA Routing & Switching 1-4",
+            "organization + specialization": "ККЭП"
+        }
+    ],
+    "certificates": [],
+    "language": [
+        {
+            "name": "Русский",
+            "level": "Родной"
+        },
+        {
+            "name": "Английский",
+            "level": "B1 - Средний"
+        }
+    ],
+    "experience": [
+        {
+            "start": "01-10-2020",
+            "end": null,
+            "company": "Краснодарский колледж электронного приборостроения",
+            "position": "Студент",
+            "description": "Дипломный проект на Django + React JS\nСистема управления отчётов посещаемости для замены того, что сейчас делается на бумажном носителе и в экселе))\nТакже интегрировалась с существующей системой колледжа, чтобы оставить централизованную авторизацию. "
+        },
+        {
+            "start": "01-02-2021",
+            "end": "01-02-2021",
+            "company": "МедРейтинг",
+            "position": "Стажер QA Engineer",
+            "description": "Ручное тестирование, написание автотестов (pytest, selenium)"
+        },
+        {
+            "start": "01-08-2020",
+            "end": "01-10-2020",
+            "company": "ИП Микрюков",
+            "position": "Программист-стажер",
+            "description": "Это была стажировка, успела побывать на двух проектах, хоть и со смежной тематикой, первый - бот для Telegram с панелью управления на Django и второй похожий на API Вконтакте"
+        }
+    ],
+    "skill_set": [
+        "Python",
+        "Linux",
+        "SQL",
+        "Git",
+        "Django Framework",
+        "HTML5",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Администрирование серверов Linux",
+        "ООП",
+        "Ajax",
+        "Bootstrap",
+        "Cisco",
+        "Docker",
+        "Docker Compose",
+        "PostgreSQL",
+        "Networking",
+        "React"
+    ],
+    "skills": "Заканчиваю колледж по сетевому и системному администрированию, но хочу заниматься разработкой и думаю знания инфраструктуры мне пригодятся.\n\nСейчас пишу веб на питоне и реакте.\nОднако, всегда нравилась математика, поэтому в будущем буду двигаться в сторону анализа данных и ML или же наукоёмкого бэка.",
+    "recommendations": [
+        {}
+    ],
+    "attestation": [
+        {
+            "year": "2020",
+            "institution": "Cisco Networking Academy",
+            "organization_specialization": "GBPOU KK KKEP, CCNA: Routing & Switching"
+        },
+        {
+            "year": "2020",
+            "institution": "Cisco Networking Academy",
+            "organization_specialization": "GBPOU KK KKEP, CCNA: Routing & Switching"
+        },
+        {
+            "year": "2020",
+            "institution": "Cisco Networking Academy",
+            "organization_specialization": "GBPOU KK KKEP, CCNA: Security"
+        }
+    ],
+    "dop_info": [
+        {
+            "dop 1": "Гражданство: Россия",
+            "dop 2": "Разрешение на работу: Россия",
+            "dop 3": "Желательное время в пути до работы: Не имеет значения"
+        }
+    ],
+    "portfolio": {},
+    "resume_id": "e4c72bb00008b7fd030039ed1f4a6a58674559",
+    "folder": "python_education_ss"
+}

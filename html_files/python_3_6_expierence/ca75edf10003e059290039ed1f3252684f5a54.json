@@ -1,0 +1,109 @@
+{
+    "birth_date": "11 марта 1997",
+    "gender": "Мужчина",
+    "area": "Москва",
+    "phone": "",
+    "email": "",
+    "metro": "м. Марьина Роща",
+    "prava": [],
+    "title": "Разработчик Unity3D",
+    "specialization": [
+        {
+            "name": "Игровое ПО",
+            "profarea_name": "Информационные технологии, интернет, телеком"
+        }
+    ],
+    "salary": {
+        "amount": null,
+        "currency": null
+    },
+    "education_level": "Высшее образование (Магистр)",
+    "education": [
+        {
+            "year": 2020,
+            "name": "Московский физико-технический институт (Государственный университет), Долгопрудный",
+            "faculty, speciality": "ФИВТ, управление проектами в сфере искусственного интеллекта"
+        },
+        {
+            "year": 2018,
+            "name": "Московский физико-технический институт (Государственный университет), Долгопрудный",
+            "faculty, speciality": "ФОПФ, квантовая радиофизика"
+        }
+    ],
+    "courses": [
+        {
+            "year": "2017",
+            "institution": "МФТИ",
+            "organization + specialization": "Mail.Ru Group, Разработчик мобильных приложений"
+        }
+    ],
+    "certificates": [],
+    "language": [
+        {
+            "name": "Русский",
+            "level": "Родной"
+        },
+        {
+            "name": "Английский",
+            "level": "B2 - Средне-продвинутый"
+        }
+    ],
+    "experience": [
+        {
+            "start": "01-02-2021",
+            "end": null,
+            "company": "МФТИ",
+            "position": "Преподаватель Unity 3D",
+            "description": "Составление учебной программы, проведение семинаров"
+        },
+        {
+            "start": "01-03-2019",
+            "end": null,
+            "company": "Owlcat Games",
+            "position": "Разработчик Unity 3D",
+            "description": "Разработка клиентского кода"
+        },
+        {
+            "start": "01-09-2018",
+            "end": "01-02-2019",
+            "company": "iPavlov",
+            "position": "NLP разработчик python",
+            "description": "Создание скиллов для Алисы на базе iPavlov"
+        },
+        {
+            "start": "01-05-2018",
+            "end": "01-08-2018",
+            "company": "VRDSE",
+            "position": "Разработчик Unity 3D",
+            "description": "VR демонстрация «умный дом». Разработка игровой логики, постановка ТЗ художнику, встраивание 3D моделей, оптимизация графики. Разработано самостоятельно на базе частично готового проекта. Фотографии(https://drive.google.com/drive/folders/1iHWewuIpOFDI7_S-_M0VIhL4NTDSQsVj)"
+        },
+        {
+            "start": "01-08-2017",
+            "end": "01-03-2018",
+            "company": "VRQuest #1",
+            "position": "Разработчик клиентского кода Unity 3D",
+            "description": "Multiplayer VR Quest «Ледяная Валькирия». Разработка клиентской логики. Разработано в команде с нуля. Тизер игры (https://www.youtube.com/watch?v=uSQrnlwycKg&feature=youtu.be).\n\nVR Quest «Культурный слой». Разработка игровой логики, встраивание 3D моделей, настройка графики. Разработано самостоятельно с нуля. Тизер игры(https://www.youtube.com/watch?v=jYd3O745dfQ&feature=youtu.be)."
+        }
+    ],
+    "skill_set": [
+        "Unity",
+        "C#",
+        "HLSL",
+        "Git"
+    ],
+    "skills": "Мои личные Unity проекты:\n\nВизуализация стереометрических чертежей в дополненной реальности (https://github.com/velik97/SolidGeometry)\n\n2D мобильная игра-головоломка “Hubbles”. Разработка игровой логики, создание 2D спрайтов, анимация, ведение проекта. Разработано самостоятельно с нуля, личный проект. Android(goo.gl/3ZyqJL),\niOS(goo.gl/edZ7V4),\nGitHub(https://github.com/velik97/Hubbles).\n\n2D игра-головоломка “15”. Разработка игровой логики, создание 2D спрайтов, анимация. Разработано самостоятельно с нуля, личный проект. GooglePlay(https://play.google.com/store/apps/details?id=com.Nikita_Velikovskiy.pytnashki),\nGitHub(https://github.com/velik97/NIM).\n\n======================\n\nПрактические навыки\nC#; Unity3D; Git; Английский C1-C2; Pythonl; Java; SQL\n\nНавыки Unity3D\nC#; iOS; Android; UI; Editor Scripting; Scriptable Objects; Multiplayer; Shaders; настройка графики; VR; Ads; Analytics.\n\nТеоретические знания\nВекторная математика, теория вероятности; ООП; Алгоритмы; Клиент-серверное взаимодействие; Машинное обучение / нейронные сети",
+    "recommendations": [
+        {}
+    ],
+    "attestation": [],
+    "dop_info": [
+        {
+            "dop 1": "Гражданство: Россия",
+            "dop 2": "Разрешение на работу: Россия",
+            "dop 3": "Желательное время в пути до работы: Не более полутора часов"
+        }
+    ],
+    "portfolio": {},
+    "resume_id": "ca75edf10003e059290039ed1f3252684f5a54",
+    "folder": "python_3_6_expierence"
+}

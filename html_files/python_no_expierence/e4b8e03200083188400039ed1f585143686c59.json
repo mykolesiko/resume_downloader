@@ -1,0 +1,90 @@
+{
+    "birth_date": "10 мая 1999",
+    "gender": "Мужчина",
+    "area": "Москва",
+    "phone": "",
+    "email": "",
+    "metro": "",
+    "prava": [],
+    "title": "Стажёр Python",
+    "specialization": [
+        {
+            "name": "Программирование, Разработка",
+            "profarea_name": "Информационные технологии, интернет, телеком"
+        },
+        {
+            "name": "Системный администратор",
+            "profarea_name": "Информационные технологии, интернет, телеком"
+        },
+        {
+            "name": "Администратор баз данных",
+            "profarea_name": "Информационные технологии, интернет, телеком"
+        }
+    ],
+    "salary": {
+        "amount": null,
+        "currency": null
+    },
+    "education_level": "Неоконченное высшее образование",
+    "education": [
+        {
+            "year": 2021,
+            "name": "Московский государственный университет приборостроения и информатики, Москва",
+            "faculty, speciality": "Информационная безопасность"
+        }
+    ],
+    "courses": [],
+    "certificates": [],
+    "language": [
+        {
+            "name": "Русский",
+            "level": "Родной"
+        },
+        {
+            "name": "Английский",
+            "level": "B1 - Средний"
+        }
+    ],
+    "experience": [
+        {
+            "start": "01-05-2020",
+            "end": null,
+            "company": "ГБУЗ ГП 9 ДЗМ",
+            "position": "Технический специалист",
+            "description": "Компьютерное оборудование, установка ПО, написание базовых программ для нужд поликлиники."
+        }
+    ],
+    "skill_set": [
+        "Python",
+        "C/C++",
+        "SQL",
+        "SQLite",
+        "Английский язык"
+    ],
+    "skills": "Являюсь студентом 4-го курса Информационной Безопасности, совершенствую свой уровень английского языка и свои знания на платформе Coursera.\nКоммуникабельный, исполнительный, ответственный, обучаемый.\n",
+    "recommendations": [
+        {}
+    ],
+    "attestation": [
+        {
+            "year": "2021",
+            "institution": "University of Michigan",
+            "organization_specialization": "Coursera, Python for Everybody(Специализация)"
+        },
+        {
+            "year": "2021",
+            "institution": "University of Michigan",
+            "organization_specialization": "Coursera, Python for Everybody(Специализация)"
+        }
+    ],
+    "dop_info": [
+        {
+            "dop 1": "Гражданство: Россия",
+            "dop 2": "Разрешение на работу: Россия",
+            "dop 3": "Желательное время в пути до работы: Не имеет значения"
+        }
+    ],
+    "portfolio": {},
+    "resume_id": "e4b8e03200083188400039ed1f585143686c59",
+    "folder": "python_no_expierence"
+}

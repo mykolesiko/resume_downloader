@@ -1,0 +1,150 @@
+{
+    "birth_date": "8 апреля 1996",
+    "gender": "Мужчина",
+    "area": "Зеленоград",
+    "phone": "",
+    "email": "",
+    "metro": "",
+    "prava": [],
+    "title": "Python developer",
+    "specialization": [
+        {
+            "name": "Программирование, Разработка",
+            "profarea_name": "Информационные технологии, интернет, телеком"
+        },
+        {
+            "name": "Web инженер",
+            "profarea_name": "Информационные технологии, интернет, телеком"
+        },
+        {
+            "name": "Интернет",
+            "profarea_name": "Информационные технологии, интернет, телеком"
+        }
+    ],
+    "salary": {
+        "amount": 90000,
+        "currency": "руб."
+    },
+    "education_level": "Среднее специальное образование",
+    "education": [
+        {
+            "year": 2015,
+            "name": "ГБОУ СПО Политехнический колледж 50",
+            "faculty, speciality": "Начальная инженерия , Наладчик программного и аппаратного обеспечения "
+        }
+    ],
+    "courses": [],
+    "certificates": [],
+    "language": [
+        {
+            "name": "Русский",
+            "level": "Родной"
+        },
+        {
+            "name": "Английский",
+            "level": "B2 - Средне-продвинутый"
+        }
+    ],
+    "experience": [
+        {
+            "start": "01-12-2019",
+            "end": null,
+            "company": "TON Community Foundation",
+            "position": "TON eco-system developer",
+            "description": "Исследования эко-системы и архитектуры TON, разработка интеграционных решений и приложений для взаимодействия с блокчейн сетью"
+        },
+        {
+            "start": "01-08-2020",
+            "end": "01-11-2020",
+            "company": "ООО \"Театральный эксклюзив\"",
+            "position": "Программист Python",
+            "description": "Разработка бэкенда для агрегации продаж билетов на мероприятия по всей России."
+        },
+        {
+            "start": "01-06-2020",
+            "end": "01-07-2020",
+            "company": "ООО \"HaClever\"",
+            "position": "Full-stack developer",
+            "description": "Занимался разработкой и поддержкой стриминговых сервисов."
+        },
+        {
+            "start": "01-07-2019",
+            "end": "01-04-2020",
+            "company": "OnGrid Systems",
+            "position": "Веб-разработчик",
+            "description": "Разработка бекэнда на Python, исследовательская работа в сфере блокчейна"
+        },
+        {
+            "start": "01-02-2019",
+            "end": "01-05-2019",
+            "company": "VISITECH",
+            "position": "Программист-разработчик",
+            "description": "Разработка бэкенда, автоматизированное тестирование"
+        },
+        {
+            "start": "01-08-2018",
+            "end": "01-11-2018",
+            "company": "OnGrid Systems",
+            "position": "Frontend developer, UI/UX and web services tester.",
+            "description": "Пишу автоматизированные тестирующие решения для веб-приложений на Python в стеке фреймворков и  api: Unittests, Selenium, Robot Framework, Behave, Django."
+        }
+    ],
+    "skill_set": [
+        "Python",
+        "Behave",
+        "Gherkin",
+        "JavaScript",
+        "Testing Framework",
+        "QA",
+        "Git",
+        "XPath",
+        "Unix",
+        "Linux",
+        "Bash",
+        "Jupiter",
+        "Flask",
+        "Docker",
+        "MySQL",
+        "Redis",
+        "Ethereum",
+        "REST",
+        "SQLite",
+        "ООП",
+        "Asyncio",
+        "Aiohttp",
+        "Starlette",
+        "RabbitMQ",
+        "Microservices",
+        "TON",
+        "Администрирование серверов Linux",
+        "FASTApi",
+        "PostgreSQL",
+        "SQL"
+    ],
+    "skills": "Аналитический ум, стрессоустойчивость, работа в команде, готовность к сложным проектам, требующим самостоятельного поиска информации и самообучения.\nВсегда стараюсь принести максимально качественный результат своей деятельности. \nУмею творить и создавать.\nЯвляюсь полноправным членом TON community foundation: https://ton-foundation.org/members.html . Занимался исследованиями эко-системы Telegram Open Network и разработкой для работы с ней.\nИмею опыт в разработке платежного шлюза фиатные валюты / криптовалюты.\nСтатья на эту тему (раздел GeniePay Merchant Payment System): https://medium.com/@geniepaylightning/introducing-geniepay-the-smart-way-to-accept-crypto-payments-a45010a33b89",
+    "recommendations": [
+        {}
+    ],
+    "attestation": [
+        {
+            "year": "2017",
+            "institution": "OnGrid Blockchain course ",
+            "organization_specialization": "OnGrid Systems, Blockchain technology "
+        },
+        {
+            "year": "2017",
+            "institution": "OnGrid Blockchain course ",
+            "organization_specialization": "OnGrid Systems, Blockchain technology "
+        }
+    ],
+    "dop_info": [
+        {
+            "dop 1": "Гражданство: Россия",
+            "dop 2": "Разрешение на работу: Россия",
+            "dop 3": "Желательное время в пути до работы: Не более часа"
+        }
+    ],
+    "portfolio": {},
+    "resume_id": "e54f6b3d0005d43c4c0039ed1f4b3870625644",
+    "folder": "python18-25"
+}

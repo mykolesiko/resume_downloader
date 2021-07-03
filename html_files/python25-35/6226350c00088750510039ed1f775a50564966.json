@@ -1,0 +1,176 @@
+{
+    "birth_date": "20 июня 1990",
+    "gender": "Мужчина",
+    "area": "Москва",
+    "phone": "",
+    "email": "",
+    "metro": "",
+    "prava": [
+        {
+            "prava1": "Имеется собственный автомобильПрава категории B",
+            "prava2": "Имеется собственный автомобиль"
+        }
+    ],
+    "title": "Преподаватель программирования",
+    "specialization": [
+        {
+            "name": "Информатика, Информационные системы",
+            "profarea_name": "Наука, образование"
+        },
+        {
+            "name": "Начальный уровень, Мало опыта",
+            "profarea_name": "Наука, образование"
+        },
+        {
+            "name": "Преподавание",
+            "profarea_name": "Наука, образование"
+        }
+    ],
+    "salary": {
+        "amount": 40000,
+        "currency": "руб."
+    },
+    "education_level": "Высшее образование",
+    "education": [
+        {
+            "year": 2012,
+            "name": "Первый Московский государственный медицинский университет им. И.М. Сеченова, Москва",
+            "faculty, speciality": "Фармацевтический, Фармация, провизор"
+        }
+    ],
+    "courses": [
+        {
+            "year": "2020",
+            "institution": "Школа Beegeek",
+            "organization + specialization": "Stepik.org, «Поколение Python: курс для начинающих»"
+        },
+        {
+            "year": "2020",
+            "institution": "Технологический колледж",
+            "organization + specialization": "Stepik.org, «Основы теории информации»"
+        },
+        {
+            "year": "2020",
+            "institution": "GeekBrains",
+            "organization + specialization": "GeekBrains, «Основы языка Python»"
+        },
+        {
+            "year": "2019",
+            "institution": "Педкампус",
+            "organization + specialization": "Педкампус, профессиональная переподготовка «Информатика в общеобразовательных организациях и организациях профессионального образования»"
+        },
+        {
+            "year": "2019",
+            "institution": "Learn Python",
+            "organization + specialization": "learn.python.ru, Python"
+        },
+        {
+            "year": "2019",
+            "institution": "Stepik.org",
+            "organization + specialization": "Stepik.org, Основы Git"
+        },
+        {
+            "year": "2018",
+            "institution": "GeekBrains",
+            "organization + specialization": "GeekBrains, «Python для чайников: интенсив \"Обучение программированию на python\". Первое знакомство с языком Python»"
+        },
+        {
+            "year": "2018",
+            "institution": "GeekBrains",
+            "organization + specialization": "GeekBrains, «Основы программирования. Онлайн-курс»"
+        },
+        {
+            "year": "2017",
+            "institution": "Bioinformatics institute",
+            "organization + specialization": "Stepik.org, Программирование на Python"
+        },
+        {
+            "year": "2017",
+            "institution": "Bioinformatics institute",
+            "organization + specialization": "Stepik.org, Основы статистики, 2017"
+        },
+        {
+            "year": "2017",
+            "institution": "SoloLearn",
+            "organization + specialization": "SoloLearn, JavaScript"
+        },
+        {
+            "year": "2017",
+            "institution": "SoloLearn",
+            "organization + specialization": "SoloLearn, jQuery"
+        },
+        {
+            "year": "2017",
+            "institution": "SoloLearn",
+            "organization + specialization": "SoloLearn, SQL"
+        },
+        {
+            "year": "2017",
+            "institution": "SoloLearn",
+            "organization + specialization": "SoloLearn, Python"
+        }
+    ],
+    "certificates": [],
+    "language": [
+        {
+            "name": "Русский",
+            "level": "Родной"
+        },
+        {
+            "name": "Английский",
+            "level": "A2 - Элементарный"
+        }
+    ],
+    "experience": [
+        {
+            "start": "01-06-2012",
+            "end": null,
+            "company": "ФГБУ НЦЭСМП ИЦЭКЛС МЗ РФ",
+            "position": "Ведущий эксперт",
+            "description": "Контроль качества лекарственных средств."
+        },
+        {
+            "start": "01-01-2020",
+            "end": "01-03-2020",
+            "company": "Частная практика",
+            "position": "Репетитор Python",
+            "description": "Обучение взрослых языку программирования Python "
+        }
+    ],
+    "skill_set": [
+        "Исполнительность",
+        "Ответственность",
+        "Python",
+        "Обучаемость",
+        "Вежливость",
+        "Стрессоустойчивость",
+        "Программирование",
+        "Пунктуальность"
+    ],
+    "skills": "В последние годы работал по другой специальности (химик-аналитик).\nСмена места жительства, рождение ребенка и эпидемиологическая обстановка стали причиной смены специальности.\nКомпьютерами и различными технологиями интересовался всю жизнь. \nПрограммирование стало моим хобби с 2015 года. За это время совершенствовал навыки и использовал приобретенные знания для решения бытовых и рабочих задач. \nСчитаю, что мир изменился и сейчас мы «общаемся» с техникой чаще, чем с кем-то еще. Так почему мы не говорим на её языке?\nНа прошлом месте работы получил хорошие soft skills.\nРаботал в команде и индивидуально, планировал свое время, распределял задачи между сотрудниками и контролировал выполнение, вел отчетную документацию, отвечал за работу с отделом кадров.",
+    "recommendations": [
+        {}
+    ],
+    "attestation": [
+        {
+            "year": "2020",
+            "institution": "TestProvider",
+            "organization_specialization": "TestProvider.com, Python Starter"
+        },
+        {
+            "year": "2020",
+            "institution": "TestProvider",
+            "organization_specialization": "TestProvider.com, Python Starter"
+        }
+    ],
+    "dop_info": [
+        {
+            "dop 1": "Гражданство: Россия",
+            "dop 2": "Разрешение на работу: Россия",
+            "dop 3": "Желательное время в пути до работы: Не имеет значения"
+        }
+    ],
+    "portfolio": {},
+    "resume_id": "6226350c00088750510039ed1f775a50564966",
+    "folder": "python25-35"
+}

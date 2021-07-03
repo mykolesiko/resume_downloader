@@ -1,0 +1,176 @@
+{
+    "birth_date": "31 January 1995",
+    "gender": "Male",
+    "area": "Moscow",
+    "phone": "",
+    "email": "",
+    "metro": "metro station Izmailovskaya",
+    "prava": [],
+    "title": "Data scientist",
+    "specialization": [
+        {
+            "name": "IT, Internet, Multimedia",
+            "profarea_name": "Career Starters, Students"
+        },
+        {
+            "name": "Manufacturing, Technology",
+            "profarea_name": "Career Starters, Students"
+        },
+        {
+            "name": "Science, Education",
+            "profarea_name": "Career Starters, Students"
+        }
+    ],
+    "salary": {
+        "amount": null,
+        "currency": null
+    },
+    "education_level": "Higher education (bachelor)",
+    "education": [
+        {
+            "year": 2022,
+            "name": "National Research University 'Higher School of Economics', Moscow",
+            "faculty, speciality": "Computer Science, Data Science"
+        },
+        {
+            "year": 2020,
+            "name": "Moscow Bauman State Technical University, Moscow",
+            "faculty, speciality": "Informatics And Control Systems, Computer Systems, Complexes and Networks"
+        },
+        {
+            "year": 2019,
+            "name": "Technopark Mail.ru",
+            "faculty, speciality": "BMSTU, Applied Python"
+        },
+        {
+            "year": 2019,
+            "name": "Huawei ARK Lab",
+            "faculty, speciality": "Certificate in Computer Vision"
+        },
+        {
+            "year": 2016,
+            "name": "Moscow Power Engineering Institute",
+            "faculty, speciality": "Faculty of Pre-University Training, Foundational Course"
+        },
+        {
+            "year": 2014,
+            "name": "Oxford College of Business",
+            "faculty, speciality": "Business, Diploma"
+        }
+    ],
+    "courses": [
+        {
+            "year": "2019",
+            "institution": "Data Science Bootcamp 2019",
+            "organization + specialization": "Udemy"
+        },
+        {
+            "year": "2019",
+            "institution": "Machine Learning",
+            "organization + specialization": "Coursera"
+        },
+        {
+            "year": "2019",
+            "institution": "Computer Vision",
+            "organization + specialization": "Huawei, Certificate"
+        },
+        {
+            "year": "2019",
+            "institution": "Neural Networks",
+            "organization + specialization": "BMSTU"
+        },
+        {
+            "year": "2019",
+            "institution": "Urban Tech Moscow 2019",
+            "organization + specialization": "Правительство Москвы, Хакатон"
+        },
+        {
+            "year": "2019",
+            "institution": "Применению Систем Искусственного Интеллекта в Медицине",
+            "organization + specialization": "IBM/ МГМУ им Сеченова/ МГТУ им Баумана, Хакатон"
+        }
+    ],
+    "certificates": [],
+    "language": [
+        {
+            "name": "English",
+            "level": "Native"
+        },
+        {
+            "name": "Russian",
+            "level": "C2 - Proficiency"
+        }
+    ],
+    "experience": [
+        {
+            "start": "01-12-2020",
+            "end": null,
+            "company": "Siemens",
+            "position": "Intern Automation Engineering Processes",
+            "description": "Mesh modelling, FE mesh morphing, 3D modeling, C++, Python, NURBS modeling, Tensorflow"
+        },
+        {
+            "start": "01-09-2018",
+            "end": null,
+            "company": "British International School Moscow",
+            "position": "Python Programming Teacher",
+            "description": "Cambridge Advanced Level Computer Science \nPython Programming"
+        },
+        {
+            "start": "01-09-2018",
+            "end": "01-08-2020",
+            "company": "Инжинириум МГТУ",
+            "position": "Преподаватель по программированию",
+            "description": "Программирование"
+        }
+    ],
+    "skill_set": [
+        "Python",
+        "Web Application Development",
+        "Django Framework",
+        "C++",
+        "Data Analysis",
+        "Machine learning",
+        "JavaScript",
+        "HTML5",
+        "CSS",
+        "PostgreSQL",
+        "Neural Networks",
+        "Data Analytics",
+        "Data science Technologies:",
+        "Tensorflow",
+        "Pytorch",
+        "Computer Vision",
+        "Docker/Kubernetes",
+        "Linux",
+        "NLP",
+        "NLU",
+        "GraphNets"
+    ],
+    "skills": "Graduate student with a keen interest in AI, Machine Learning and Neural Networks.Really enjoy applying sophisticated projects into life. Always willing to step out of my comfort zone and meet new challenges with passion and fervor.",
+    "recommendations": [
+        {}
+    ],
+    "attestation": [
+        {
+            "year": "2019",
+            "institution": "Huawei Russia Research Institute & Noah's Ark Lab and BMSTU",
+            "organization_specialization": "Huawei Russia Research Institute & Noah's Ark Lab, Computer Vision"
+        },
+        {
+            "year": "2019",
+            "institution": "Huawei Russia Research Institute & Noah's Ark Lab and BMSTU",
+            "organization_specialization": "Huawei Russia Research Institute & Noah's Ark Lab, Computer Vision"
+        }
+    ],
+    "dop_info": [
+        {
+            "dop 1": "Citizenship: Sri Lanka",
+            "dop 2": "Permission to work: Russia",
+            "dop 3": "Desired travel time to work: Doesn't matter"
+        }
+    ],
+    "portfolio": {},
+    "resume_id": "d541f13d000622f52b0039ed1f6a71614c544f",
+    "folder": "python_1_3_expierence"
+}

@@ -1,0 +1,134 @@
+{
+    "birth_date": "4 сентября 1992",
+    "gender": "Мужчина",
+    "area": "Москва",
+    "phone": "",
+    "email": "",
+    "metro": "",
+    "prava": [],
+    "title": "Программист Python",
+    "specialization": [
+        {
+            "name": "Программирование, Разработка",
+            "profarea_name": "Информационные технологии, интернет, телеком"
+        }
+    ],
+    "salary": {
+        "amount": 160000,
+        "currency": "руб."
+    },
+    "education_level": "Высшее образование",
+    "education": [
+        {
+            "year": 2014,
+            "name": "Волжский университет им. В.Н. Татищева, Тольятти",
+            "faculty, speciality": "Экономический, Бухгалтерский учет, анализ и аудит"
+        }
+    ],
+    "courses": [
+        {
+            "year": "2018",
+            "institution": "itProger",
+            "organization + specialization": "itProger, Курс Django"
+        },
+        {
+            "year": "2018",
+            "institution": "Oleg Molchanov",
+            "organization + specialization": "Django 2.0 (Oleg Molchanov), Курс Django"
+        },
+        {
+            "year": "2017",
+            "institution": "Moscow Python",
+            "organization + specialization": "Moscow Python, Junior Python"
+        }
+    ],
+    "certificates": [],
+    "language": [
+        {
+            "name": "Русский",
+            "level": "Родной"
+        },
+        {
+            "name": "Английский",
+            "level": "A1 - Начальный"
+        }
+    ],
+    "experience": [
+        {
+            "start": "01-10-2019",
+            "end": null,
+            "company": "Alar Studios",
+            "position": "Backend-developer",
+            "description": "Базы:\n- PostgreSQL\n\nFrameworks:\n - Flask + SQLAlchemy\n - PyTest\n - Aiohttp\n - FastAPI\n - Flask RESTful\n - Starlette\n\nVCS:\n- Git/Git Flow\n\n\nOther:\nAsyncio, Redis. Celery. Elasticsearch. Sendgrid. Push Notifications (iOS/Android). Socket's, Code review."
+        },
+        {
+            "start": "01-04-2019",
+            "end": "01-10-2019",
+            "company": "ООО Ветер Перемен",
+            "position": "Python разработчик",
+            "description": "Базы:\n- SQLite3\n- PostgreSQL (SQLAlchemy)\n\nFrameworks:\n - Django 2.2\n - Flask\n\nJS (не основное, сделал 2 проекта с документацией)\n- jQuery/JS\n- Vue.js/Vue-cli/Vuex\n\nVCS:\n- Git\n\nDevOps tools:\n- Docker/Docker-Compose\n- Nginx+UWSGI\n\nOther:\n- PWA (Progressive Web Applications), Webview/TWA\n- Bootstrap 4, HTML, CSS, SCSS.\n- Django Haystack: Solr, PostgreSQL\n- Ubuntu Server/CentOS/Ubuntu"
+        },
+        {
+            "start": "01-02-2019",
+            "end": "01-03-2019",
+            "company": "Seendex (Синдекс)",
+            "position": "Младший разработчик",
+            "description": "Поддержка и развитие текущих проектов (микросервисы) на Python 3:\n- SQLAlchemy/psycopg2\n- Mutliprocessing\n- Data Scraping\n- Code Review\n- PyTest\n\nФреймворки:\n- Tornado Web Server\n- Flask\n\nБазы:\n- PostgreSQL\n- Redis\n\nDevOps:\n- Docker, написание docker-compose, Dockerfile\n- Gitlab, типовые операции при командной разработке.\n- Gitlab CI/CD (gitlab-ci.yml), автодеплой по веткам test/stage/production.\n\nOther:\n- ElasticSearch (query)\n- Pillow"
+        },
+        {
+            "start": "01-10-2018",
+            "end": "01-02-2019",
+            "company": "Cyberstar Inc",
+            "position": "Python developer (ML-отдел/Веб-разработка, удаленно).",
+            "description": "Дата-майнинг.\n- Парсинг крупных сайтов отелей (tripadvisor, yelp, booking) с использованием библиотек: bs4 (lxml), multiprocessing.\n- Агрегирование в базе (PostgreSQL) (формирование структуры и наполнение, доработка).\n- взаимодействие с отделом машинного обучения и контент-отделом.\n- работа в команде (gitlab).\n- создание на базе flask rest-api (для выдачи и обновления данных в приложение компании)."
+        },
+        {
+            "start": "01-08-2017",
+            "end": "01-01-2019",
+            "company": "Wepster (удаленно)",
+            "position": "Программист Python (удаленно)",
+            "description": "1. Работа с Doc2vec (создание векторов на основе выборке 170 тысяч твитов, разбитых по тегам Positive/Negative) \n2. Создание на Flask'e API, выдающего на основе POST-запроса ответ, в котором содержится тональность текста. \n3. Поднятие сервера на Vultr (Ubuntu) (настройка cron для автообновления).\n4. Написание на Tornado Web server небольшого сервера для отдачи данных.\n5. Работа с Django+Celery+Redis - отложенная отправка email через сервис Sendgrid (рассылки по условиям).\n\nПрочие:\n - Написание парсеров (beautiful soup + multithreading + csv)\n - Написание кластеризатора ключевых слов (K-Means + Flask)\n - Работа с API (Yandex Metrika, Yandex Speller)"
+        },
+        {
+            "start": "01-12-2017",
+            "end": "01-06-2018",
+            "company": "Kvadracom",
+            "position": "Python Web Developer",
+            "description": "Создание информационного сайта на Django 2/SQLite\nНатяжка верстки\nCode Review\n\nСоздавали небольшой внутренний блог (с системой тегов, админ-панели), с разграничением доступа (только админам (staff only)\n\nПрочее: регулярные выражения, написание SQL запросов, парсинг через прокси + bs4, мультипоточность."
+        }
+    ],
+    "skill_set": [
+        "Python",
+        "Ubuntu",
+        "Git",
+        "Flask",
+        "PostgreSQL",
+        "SQL",
+        "SQLite",
+        "HTML",
+        "CSS",
+        "Bootstrap",
+        "MySQL",
+        "ООП",
+        "Redis",
+        "REST",
+        "JSON API",
+        "Unit Testing",
+        "Ubuntu Server"
+    ],
+    "skills": "Python:\n- OOP\n- Flask, Django (2/3), FastAPI, Flask-Restful, Tornado Web Framework\n- PyTest (unit-тесты)\n- Psycopg2/Asyncpg/SQLAlchemy\n- Requests\n- Celery\n- API REST\n- Multiprocessing\n- Code Review\n- Telegram (bot)\n- JSON\n- Pillow\n- Regexp\n\nDevOps:\n- Docker, Docker Compose, Dockerfile\n- Gitlab\n- Gitlab CI/CD\n\nDB:\n- Postgresql\n- MySQL\n- SQLite3\n- Redis\n\nOther:\n- ElastiSearch (query)\n- Twitch API\n- VK Api (testing)\n- Yandex.Metrika API, Yandex.Speller API, Yandex.Webmaster API.\n\nПарсинг (I like it!):\n- Booking.com (галереи, фото, отзывы, услуги)\n- Yelp.com (галереи, фото, отзывы, услуги)\n- Tripadvisor.com (галереи, фото, отзывы, услуги)\n- ModulDengi.ru (событии по компаниям, для отдела аналитики)\n- Jargon.ru (полностью весь словарь)\n- Efremova.info (полностью весь словарь)\n- Salamander.ru (парсер товаров)\n- Мультипроцессорный парсер проксей, чекер проксей (socks/https/http)\n- HeadHunter.ru (парсер вакансий по ключам, рассылка по Cron'у, парсер сайтов компании на предмет наличия номера телефона (regexp)\n- Printdirect.ru (парсер товаров)\n- 2gis.ru (парсер организаций)\n\n\nhttps://github.com/infnetdanpro\n\n\n2018:\nhttps://post-blog-habr.herokuapp.com/blog/ - Блог на Django + PostgreSQL \nhttps://seo-cluster.herokuapp.com/ - Кластеризация списка запросов методом K-Means\nhttps://seo-spellchecker.herokuapp.com/ - Работа с API Speller Yandex\nhttp://negative-positive.herokuapp.com/api/1.0/tone/ - API для проверки тональности текста, для теста посылать необходимо JSON с query, token: test_token\nНапример так: {\"query\": \"сегодня действительно плохой день\", \"token\": \"test_token\"}\n\nhttps://medical-guider.ru/ - написание парсера 2gis (информация, галереи, комментарии и т.п.), написание API Backend'a (Flask + MySQL).\n\n2019:\nhttps://github.com/infnetdanpro/short-linker-django2/\n\nVue.js:\nhttp://vuejs-play.herokuapp.com/",
+    "recommendations": [
+        {}
+    ],
+    "attestation": [],
+    "dop_info": [
+        {
+            "dop 1": "Гражданство: Россия",
+            "dop 2": "Разрешение на работу: Россия",
+            "dop 3": "Желательное время в пути до работы: Не имеет значения"
+        }
+    ],
+    "portfolio": {},
+    "resume_id": "27aaf4c30005c31f490039ed1f69486f6d4e4d",
+    "folder": "python_3_6_expierence"
+}

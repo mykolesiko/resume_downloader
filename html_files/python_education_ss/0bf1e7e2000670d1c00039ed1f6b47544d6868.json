@@ -1,0 +1,67 @@
+{
+    "birth_date": "5 декабря 1981",
+    "gender": "Женщина",
+    "area": "Москва",
+    "phone": "",
+    "email": "",
+    "metro": "",
+    "prava": [],
+    "title": "Python/Django Developer",
+    "specialization": [
+        {
+            "name": "Программирование, Разработка",
+            "profarea_name": "Информационные технологии, интернет, телеком"
+        }
+    ],
+    "salary": {
+        "amount": null,
+        "currency": null
+    },
+    "education_level": "Среднее специальное образование",
+    "education": [
+        {
+            "year": 2005,
+            "name": "Техникум Комерции",
+            "faculty, speciality": "Техник- технолог кулинарного производства"
+        }
+    ],
+    "courses": [],
+    "certificates": [],
+    "language": [
+        {
+            "name": "Русский",
+            "level": "Родной"
+        },
+        {
+            "name": "Английский",
+            "level": "A1 - Начальный"
+        }
+    ],
+    "experience": [
+        {
+            "start": "01-02-2013",
+            "end": null,
+            "company": "5карманов",
+            "position": "Начальник склада",
+            "description": "Собирать товар по накладной отправлять по сети магазинов."
+        }
+    ],
+    "skill_set": [
+        "Комунекабельность , целеустремленность"
+    ],
+    "skills": "Веселая приветливая люблю людей ",
+    "recommendations": [
+        {}
+    ],
+    "attestation": [],
+    "dop_info": [
+        {
+            "dop 1": "Гражданство: Россия",
+            "dop 2": "Разрешение на работу: Россия",
+            "dop 3": "Желательное время в пути до работы: Не имеет значения"
+        }
+    ],
+    "portfolio": {},
+    "resume_id": "0bf1e7e2000670d1c00039ed1f6b47544d6868",
+    "folder": "python_education_ss"
+}

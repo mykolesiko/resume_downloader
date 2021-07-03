@@ -1,0 +1,75 @@
+{
+    "birth_date": "1 мая 1993",
+    "gender": "Мужчина",
+    "area": "Москва",
+    "phone": "",
+    "email": "",
+    "metro": "",
+    "prava": [],
+    "title": "Junior Python developer",
+    "specialization": [
+        {
+            "name": "Программирование, Разработка",
+            "profarea_name": "Информационные технологии, интернет, телеком"
+        }
+    ],
+    "salary": {
+        "amount": 50000,
+        "currency": "руб."
+    },
+    "education_level": "Высшее образование",
+    "education": [
+        {
+            "year": 2019,
+            "name": "Московский финансово-промышленный университет \"Синергия\", Москва",
+            "faculty, speciality": "Информационные системы и технологии, Информационные системы и технологии"
+        }
+    ],
+    "courses": [],
+    "certificates": [],
+    "language": [
+        {
+            "name": "Русский",
+            "level": "Родной"
+        }
+    ],
+    "experience": [
+        {
+            "start": "01-08-2018",
+            "end": "01-05-2020",
+            "company": "ООО \"Хеншел - Восток\"",
+            "position": "IT-менеджер",
+            "description": "Разработка приложений на Python с использованием  Flask, JavaScript, SQL и пр., расширений в Chrome Extensions, автоматизация бизнес процессов, сбора и анализа данных."
+        }
+    ],
+    "skill_set": [
+        "Python",
+        "JavaScript",
+        "SQL",
+        "REST",
+        "CSS",
+        "Flask",
+        "HTML5",
+        "Adobe Photoshop",
+        "ООП",
+        "Adobe Flash",
+        "Английский — B2 — Средне-продвинутый",
+        "VBA",
+        "Selenium IDE"
+    ],
+    "skills": "Имею опыт в разработке на Python, JavaScript, c Flask, SQL и в Chrome Extensions, VBA.",
+    "recommendations": [
+        {}
+    ],
+    "attestation": [],
+    "dop_info": [
+        {
+            "dop 1": "Гражданство: Россия",
+            "dop 2": "Разрешение на работу: Россия",
+            "dop 3": "Желательное время в пути до работы: Не имеет значения"
+        }
+    ],
+    "portfolio": {},
+    "resume_id": "9157347e0008327d520039ed1f6f446b51356c",
+    "folder": "python_1_3_expierence"
+}

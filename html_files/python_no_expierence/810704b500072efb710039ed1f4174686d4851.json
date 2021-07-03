@@ -1,0 +1,86 @@
+{
+    "birth_date": "4 августа 1999",
+    "gender": "Мужчина",
+    "area": "Москва",
+    "phone": "",
+    "email": "",
+    "metro": "",
+    "prava": [],
+    "title": "Python Разработчик",
+    "specialization": [
+        {
+            "name": "Программирование, Разработка",
+            "profarea_name": "Информационные технологии, интернет, телеком"
+        },
+        {
+            "name": "Инженер",
+            "profarea_name": "Информационные технологии, интернет, телеком"
+        }
+    ],
+    "salary": {
+        "amount": null,
+        "currency": null
+    },
+    "education_level": "Высшее образование (Бакалавр)",
+    "education": [
+        {
+            "year": 2022,
+            "name": "Московский государственный технический университет им. Н.Э. Баумана, Москва",
+            "faculty, speciality": "Факультет информатики и систем управления, Информационные системы и телекоммуникации"
+        },
+        {
+            "year": 2020,
+            "name": "Московский государственный технический университет им. Н.Э. Баумана, Москва",
+            "faculty, speciality": "Факультет информатики и систем управления, Информационные системы (магистр информационных систем)"
+        }
+    ],
+    "courses": [],
+    "certificates": [],
+    "language": [
+        {
+            "name": "Русский",
+            "level": "Родной"
+        },
+        {
+            "name": "Английский",
+            "level": "B1 - Средний"
+        }
+    ],
+    "experience": [
+        {
+            "start": "01-09-2019",
+            "end": "01-02-2020",
+            "company": "SAS Institute ",
+            "position": "Developer intern",
+            "description": "Написание python скриптов для решения прикладных задач\nСбор и обработка данных\nРасчет промежуточных показателей риска транзакционных операций"
+        }
+    ],
+    "skill_set": [
+        "Python",
+        "Django Framework",
+        "PostgreSQL",
+        "SQL",
+        "Git",
+        "TCP/IP",
+        "MS SQL Server",
+        "Linux",
+        "Django REST Framework",
+        "Алгоритмы и структуры данных",
+        "Java"
+    ],
+    "skills": "GitHub: https://github.com/prostomusa",
+    "recommendations": [
+        {}
+    ],
+    "attestation": [],
+    "dop_info": [
+        {
+            "dop 1": "Гражданство: Россия",
+            "dop 2": "Разрешение на работу: Россия",
+            "dop 3": "Желательное время в пути до работы: Не имеет значения"
+        }
+    ],
+    "portfolio": {},
+    "resume_id": "810704b500072efb710039ed1f4174686d4851",
+    "folder": "python_no_expierence"
+}

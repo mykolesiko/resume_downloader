@@ -1,0 +1,104 @@
+{
+    "birth_date": "24 декабря 1997",
+    "gender": "Мужчина",
+    "area": "Москва",
+    "phone": "",
+    "email": "",
+    "metro": "м. Царицыно",
+    "prava": [],
+    "title": "Python backend developer",
+    "specialization": [
+        {
+            "name": "Программирование, Разработка",
+            "profarea_name": "Информационные технологии, интернет, телеком"
+        },
+        {
+            "name": "Web инженер",
+            "profarea_name": "Информационные технологии, интернет, телеком"
+        },
+        {
+            "name": "Интернет",
+            "profarea_name": "Информационные технологии, интернет, телеком"
+        }
+    ],
+    "salary": {
+        "amount": null,
+        "currency": null
+    },
+    "education_level": "Высшее образование (Бакалавр)",
+    "education": [
+        {
+            "year": 2020,
+            "name": "Московский государственный технический университет им. Н.Э. Баумана, Москва",
+            "faculty, speciality": "Машиностроительные технологии, Электроника и наноэлектроника в машиностроении"
+        }
+    ],
+    "courses": [
+        {
+            "year": "2021",
+            "institution": "МФТИ & Mail.ru",
+            "organization + specialization": "Coursera group, Создание WEB-сервисов на Python"
+        },
+        {
+            "year": "2020",
+            "institution": "МФТИ & Mail.ru",
+            "organization + specialization": "Coursera group, Погружение в Python"
+        },
+        {
+            "year": "2019",
+            "institution": "CS50",
+            "organization + specialization": "Harvard University, Beginner backend developer "
+        }
+    ],
+    "certificates": [],
+    "language": [
+        {
+            "name": "Русский",
+            "level": "Родной"
+        },
+        {
+            "name": "Английский",
+            "level": "B1 - Средний"
+        }
+    ],
+    "experience": [
+        {
+            "start": "01-11-2020",
+            "end": "01-02-2021",
+            "company": "Coursera group: МФТИ & Mail.ru",
+            "position": "Студент",
+            "description": "Создание WEB-сервисов на Python:\n1. Парсинг данных (requests, BeatifulSoup)\n2. Работа с Web-API\n3. Хранение данных и проектирование базы данных\n4. Написание сырых SQL запросов.\n5. Реализация CRUD, пагинации, фильтрации и поиска (Python3, Django)\n6. Валидация данных (Python3, Django Forms) \n7. Настройка системы аутентификации, разграничение прав доступа (Python3, Django)\n8. Внедрение в проекты: Git, Git-flow. \n9. Реализация WEB-приложения для управления \"умным домом\" (Python3, Django, Django Forms, Celery)\n* Ссылка: https://github.com/Auranoz/smart_home_app \n10. Написание новостного интернет- блога (Python3, Django, Django Forms)\n* Ссылка: https://github.com/Auranoz/news_blog"
+        },
+        {
+            "start": "01-08-2020",
+            "end": "01-10-2020",
+            "company": "Coursera group: МФТИ & Mail.ru",
+            "position": "Студент",
+            "description": "Погружение в Python:\n1. ООП\n2. Многопоточное программирование\n3. Асинхронное программирование (asyncio)\n4. Реалиация синхронного клиента (Python3) и асинхронного сервера (Python3, asyncio) для отправки и приема метрик. \n* Ссылка: https://github.com/Auranoz/metrics"
+        }
+    ],
+    "skill_set": [
+        "Python",
+        "Django Framework",
+        "SQL",
+        "Алгоритмы и структуры данных",
+        "Git",
+        "ООП",
+        "Linux"
+    ],
+    "skills": "Основные знания и навыки:\n1. Базовые алгоритмы и структуры данных\n2. Объектно-ориентированное программирование (ООП)\n3. SQL (написание сырых запросов) \n4. Принципы: DRY, KISS\n5. Сетевые протоколы: HTTP(s), FTP, DNS, TCP, IP\n6. Форматы обмена данных: JSON, CSV, XML.\n7. Linux (Debian), владение командным интерпретатором. \n8. Английский язык Intermediate (на уровне чтения технической документации) \n\nОпыт работы со следующими языками и технологиями:\n1. Python3, Django 2.x\n2. SQL, MySQL\n3. HTML5, CSS3, Bootstrap 3, 4\n4. Javascript на уровне знания синтаксиса\n5. Git, Git-flow\n6. Базовые знания С\n\nЛичностные качества:\nОбучаемость, ответственность, заинтересованность",
+    "recommendations": [
+        {}
+    ],
+    "attestation": [],
+    "dop_info": [
+        {
+            "dop 1": "Гражданство: Россия",
+            "dop 2": "Разрешение на работу: Россия",
+            "dop 3": "Желательное время в пути до работы: Не имеет значения"
+        }
+    ],
+    "portfolio": {},
+    "resume_id": "9dda2fca0005e179480039ed1f6a6a64645439",
+    "folder": "python_no_expierence"
+}

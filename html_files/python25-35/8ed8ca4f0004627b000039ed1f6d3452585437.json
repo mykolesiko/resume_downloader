@@ -1,0 +1,100 @@
+{
+    "birth_date": "2 мая 1989",
+    "gender": "Мужчина",
+    "area": "Москва",
+    "phone": "",
+    "email": "",
+    "metro": "м. Новокосино",
+    "prava": [
+        {
+            "prava1": "Права категории B"
+        }
+    ],
+    "title": "Python developer",
+    "specialization": [
+        {
+            "name": "Начальный уровень, Мало опыта",
+            "profarea_name": "Информационные технологии, интернет, телеком"
+        },
+        {
+            "name": "Программирование, Разработка",
+            "profarea_name": "Информационные технологии, интернет, телеком"
+        },
+        {
+            "name": "Другое",
+            "profarea_name": "Информационные технологии, интернет, телеком"
+        }
+    ],
+    "salary": {
+        "amount": null,
+        "currency": null
+    },
+    "education_level": "Образование",
+    "education": [],
+    "courses": [
+        {
+            "year": "2020",
+            "institution": "Geekbrains",
+            "organization + specialization": "Mail.ru group, Python-developer"
+        },
+        {
+            "year": "2019",
+            "institution": "Университет \"Синергия\"",
+            "organization + specialization": "Университет \"Синергия\", WEB-разработка"
+        }
+    ],
+    "certificates": [],
+    "language": [
+        {
+            "name": "Русский",
+            "level": "Родной"
+        },
+        {
+            "name": "Английский",
+            "level": "A2 - Элементарный"
+        }
+    ],
+    "experience": [
+        {
+            "start": "01-09-2019",
+            "end": null,
+            "company": "Индивидуальное предпринимательство / частная практика / фриланс",
+            "position": "Python Developer",
+            "description": "Разработка скриптов и парсеров.\nРазработка приложений на Python3\nМакетная верстка"
+        }
+    ],
+    "skill_set": [
+        "Python",
+        "Linux",
+        "Git",
+        "Django Framework",
+        "ООП",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Vue.js",
+        "SQL"
+    ],
+    "skills": "    Познакомился с IT, когда родилась мысль написать торгового бота. Изучая информационные технологии, появился интерес развиваться и строить карьеру в данной сфере.\n    Не зациклен на стеке технологий и с удовольствием изучу новое для полной интеграции в команду. Сейчас я готов влиться в команду сильных специалистов, где можно перенять опыт и проявить себя.\n\n\nBinance-trading-strategy-checker:\nТестирование торговых стратегий MACD/MA на криптовалютной бирже Binance.\nИспользуемый стек: python3, requests\nhttps://github.com/GregoryVins/Binance-trading-strategy-checker\n\nИнтернет-магазин:\nУчебный и первый проект магазина на Django. Знакомство с функциональным подходом и CBV, а так же использованием родных ORM, OAuth, JsonResponse, Paginator, Forms etc.\nИспользуемый стек: python3, django, postgresql, jquery/ajax\nhttps://github.com/GregoryVins/django-project\n\nMessenger:\nПроект с курса GeekBrains, знакомство с клиент-серверной архитектурой, логированием, разработкой десктопных приложений, ORM, метаклассами и декораторами\nИспользуемый стек: python3, PyQt5, sqlalchemy, logging\nhttps://github.com/GregoryVins/Messenger\nhttps://pypi.org/user/GregoryVins/\n\nTelegramBot:\nТелеграм бот-парсер, который на сообщения \"коронавирус\" сообщает актуальную статистику, \"<город>\" - текущую погоду, \"крипта\" - цены топ 5 криптовалют, а так же вёдёт статистику рейтинга пользователей в чатах, где находится.\nИспользуемый стек: python3, pyTelegramBotAPI, bs4, requests, pickle\nhttps://github.com/GregoryVins/Python/tree/master/My%20first%20Telegram%20Bot\n\nName's checker facebook&instagram:\nСкрипт проверяет заданный список никнеймов на занятость в социальных сетях Facebook и Instagram.\nИспользуемый стек: python3, selenium\nhttps://github.com/GregoryVins/Page-checker-fb-inst\n\n-Знание Linux на уровне пользователя\n-Git/Github\n-HTML5/CSS3\n-JavaScript / Vue.js базовый\n",
+    "recommendations": [
+        {}
+    ],
+    "attestation": [],
+    "dop_info": [
+        {
+            "dop 1": "Гражданство: Россия",
+            "dop 2": "Разрешение на работу: Россия",
+            "dop 3": "Желательное время в пути до работы: Не имеет значения"
+        }
+    ],
+    "portfolio": {
+        "portfolio_item 0": "https://hhcdn.ru/photo/595147297.jpeg?t=1613943331&h=5HATzAU7546cUuT_c5k21Q",
+        "portfolio_item 1": "https://hhcdn.ru/photo/595147305.jpeg?t=1613943331&h=OKO-uuTvuQnzMZ0L8tD1ww",
+        "portfolio_item 2": "https://hhcdn.ru/photo/595147321.jpeg?t=1613943331&h=Q_lI34NK_ew16NSheuadeA",
+        "portfolio_item 3": "https://hhcdn.ru/photo/595147325.jpeg?t=1613943331&h=ZM3b1zUNeW9aBU1K_GZX7w",
+        "portfolio_item 4": "https://hhcdn.ru/photo/595147337.jpeg?t=1613943331&h=14n-Qa8SmRt2eZ6xd6kT4g",
+        "portfolio_item 5": "https://hhcdn.ru/photo/595147353.jpeg?t=1613943331&h=_82GTyGWfdhUhnDPsaYWmQ"
+    },
+    "resume_id": "8ed8ca4f0004627b000039ed1f6d3452585437",
+    "folder": "python25-35"
+}

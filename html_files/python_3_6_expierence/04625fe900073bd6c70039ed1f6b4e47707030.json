@@ -1,0 +1,125 @@
+{
+    "birth_date": "31 August 1992",
+    "gender": "Male",
+    "area": "Baku",
+    "phone": "",
+    "email": "",
+    "metro": "",
+    "prava": [
+        {
+            "prava1": "Driver's license category B"
+        }
+    ],
+    "title": "C++ Разработчик",
+    "specialization": [
+        {
+            "name": "Software Development",
+            "profarea_name": "IT, Internet, Telecom"
+        },
+        {
+            "name": "Engineer",
+            "profarea_name": "IT, Internet, Telecom"
+        },
+        {
+            "name": "Telecommunications",
+            "profarea_name": "IT, Internet, Telecom"
+        }
+    ],
+    "salary": {
+        "amount": 120000,
+        "currency": "RUB"
+    },
+    "education_level": "Higher education (bachelor)",
+    "education": [
+        {
+            "year": 2014,
+            "name": "Азербайджанская Государственная Нефтяная Академия",
+            "faculty, speciality": "Разработка нефтяных и газовых скважин, Разработка и эксплуатация нефтяных и газовых месторождений"
+        }
+    ],
+    "courses": [],
+    "certificates": [],
+    "language": [
+        {
+            "name": "Russian",
+            "level": "Native"
+        },
+        {
+            "name": "Danish",
+            "level": "A1 - Basic"
+        },
+        {
+            "name": "English",
+            "level": "C2 - Proficiency"
+        },
+        {
+            "name": "German",
+            "level": "A1 - Basic"
+        },
+        {
+            "name": "Norwegian",
+            "level": "A2 - Elementary"
+        },
+        {
+            "name": "Turkish",
+            "level": "B2 - Upper Intermediate"
+        }
+    ],
+    "experience": [
+        {
+            "start": "01-07-2018",
+            "end": null,
+            "company": "Freelance",
+            "position": "Freelance Developer",
+            "description": "Development of desktop/web applications, bots and websites for clients. \nUsing for this: C++, OpenCV, Yandex Catboost, Python Flask, Python Django, Flask-Restplus, Django-Admin, TelegramAPI, Laravel, Vue.js, Angular, React."
+        },
+        {
+            "start": "01-04-2019",
+            "end": "01-01-2020",
+            "company": "PRONET MMC",
+            "position": "Software/Fullstack Developer",
+            "description": "Built software for different fields for different companies. Depending on the task used to develop various data visualisation, data mining, cv and ML subprojects. Main tools are C/C++, Typescript+Node+React, MongoDB"
+        },
+        {
+            "start": "01-05-2016",
+            "end": "01-07-2018",
+            "company": "SEFT Consulting",
+            "position": "Программист С++, Java",
+            "description": "В обязанности входит разработка программного обеспечения с использованием Java, C/C++, Python и веб-приложений с использованием PHP (Laravel) в соответствии с требованиями клиента.\nРазработал приложение для управления проектами на основе Gantt/Java"
+        }
+    ],
+    "skill_set": [
+        "C++",
+        "ООП",
+        "C",
+        "Qt",
+        "STL",
+        "Boost",
+        "Git",
+        "dlib",
+        "OpenCV",
+        "C++11",
+        "C++14",
+        "C++17",
+        "Linux",
+        "Data Mining",
+        "REST API",
+        "PostgreSQL",
+        "MariaDB"
+    ],
+    "skills": "\"Личность разработчика можно определить по Github\":\nhttps://github.com/AlvinAhmadov\nСвязь только по телеграму.\n \nТехнологический стек (по C/C++):\n - аудио-видео разработка;\n - сетевые приложения;\n - GUI (Qt5, wxWidgets, gtk+);\n - разработка DB API (ORM-like);\n - Embedded (мало опыта);\n - ML + нейронные сети - Dlib, Shogun, mlpack (мало опыта, но область интереса - активно изучаю);\n - Утилиты поисковики для текста, изображения;\n - Trading Apps/Bots\n - Компьютерное зрение - OpenCV (3.2+);\n - RestAPI (CppRestSDK);\n - Бэкэнд;\n - Boost (1.65);\n - STL (11-17);\n - Qt5 (+ Qml);\n - ASIO (async/event-driven);\n - CuDNN 7;\n - CUDA 10.0;\n - Websocket C++;\n - JSON\n - CppUnit, Boost.Test;\n\nСистемы сборки: \n - CMake;\n\nДополнительно:\n - Docker;\n - Heroku;\n\nТехнологические интересы: \n - Rust;\n - IoT;\n - Machine Learning;\n - Data Science;\n - AI;\n - Криптография, криптовалюты.\n\n\tСреды разработки: CLion (основной), Idea (основной), Visual Studio 2017 (C++, C#, .NET), \nVisual Studio Code (анализ кода, веб-разработка, code-review);\n\n\tРаботал в различных областях, включая программирование потоков видео/изображений (OpenCV), \nCUDA C++ для проектов, критичных к производительности, многопоточность с использованием C++ Standard Thread Library, разработка нагруженного сервер-клиентного ПО. Работаю в основном \nc современным C++ (11-17 если Вы не работаете с последними версиями, не тратьте свое и мое время). \nИногда использую только Python3+ (можете ознакомиться в другом резюме) для написания вспомогательных скриптов/ПО, а иногда только на нем (медленная штука, так что постоянно приходится  оптимизировать). \nЗнаком с паттернами проектирования, TDD, Unit/Integration Tests, алгоритмами обработки данных, \nBigO notation;\n\nО себе:\nРазработчик-самоучка с более чем 3-летним опытом работы. \nОсновной ЯП: C/C++\nОсновной IDE: JetBrains (CLion)\n\nО личных характеристиках:\n * самоучка полиглот;\n * нестандартное (абстрактное) и аналитическое мышление, видение картины в общем, чем в частном;\n * развитые навыки решения проблем (составление проблемы, анализ, решение и реализация) иногда с нетривиальным подходом\n * быстрое обучение к новым технологиям (методом проб-ошибок);\n * анализ кода (т.к. начал программировать, изучая работы выдающихся разработчиков).\n\nСвободное время провожу читая книги и статьи связанные с технологиями, с наукой и фентези.\nУмею работать в сотрудничестве с другими разработчиками команды (более предпочтительнее, т.к. могу \nвидеть результаты своей работы намного быстрее и могу сосредоточиться только в определенной части), \nа также могу работать в одиночку. \nХорошее понимание процессов, происходящих за кулисами программирования (структуры данных, работа памяти/ЦПУ ЭВМ, чистый \nкод и оптимизированная разработка).",
+    "recommendations": [
+        {}
+    ],
+    "attestation": [],
+    "dop_info": [
+        {
+            "dop 1": "Citizenship: Azerbaijan",
+            "dop 2": "Permission to work: Russia",
+            "dop 3": "Desired travel time to work: Doesn't matter"
+        }
+    ],
+    "portfolio": {},
+    "resume_id": "04625fe900073bd6c70039ed1f6b4e47707030",
+    "folder": "python_3_6_expierence"
+}

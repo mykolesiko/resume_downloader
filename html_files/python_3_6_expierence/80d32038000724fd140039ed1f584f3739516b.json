@@ -1,0 +1,107 @@
+{
+    "birth_date": "16 декабря 1998",
+    "gender": "Мужчина",
+    "area": "Москва",
+    "phone": "",
+    "email": "",
+    "metro": "",
+    "prava": [],
+    "title": "Backend python developer",
+    "specialization": [
+        {
+            "name": "Программирование, Разработка",
+            "profarea_name": "Информационные технологии, интернет, телеком"
+        },
+        {
+            "name": "Интернет",
+            "profarea_name": "Информационные технологии, интернет, телеком"
+        }
+    ],
+    "salary": {
+        "amount": 200000,
+        "currency": "руб."
+    },
+    "education_level": "Неоконченное высшее образование",
+    "education": [
+        {
+            "year": 2020,
+            "name": "Российский университет дружбы народов, Москва",
+            "faculty, speciality": "Естественных наук, Математика"
+        },
+        {
+            "year": 2018,
+            "name": "Национальный исследовательский университет \"Высшая школа экономики\", Москва",
+            "faculty, speciality": "МИЭМ, Компьютерная безопасность"
+        }
+    ],
+    "courses": [],
+    "certificates": [],
+    "language": [
+        {
+            "name": "Английский",
+            "level": "B2 - Средне-продвинутый"
+        }
+    ],
+    "experience": [
+        {
+            "start": "01-05-2020",
+            "end": null,
+            "company": "Сбербанк",
+            "position": "Программист",
+            "description": "Fullstack разработчик в отделе ипотечного кредитования."
+        },
+        {
+            "start": "01-04-2019",
+            "end": "01-05-2020",
+            "company": "Ростелеком",
+            "position": "Backend developer",
+            "description": "Разработка backend для ресурсов отдела информационной безопасности.\nИнструменты: python, django, flask, postgresql, elasticsearch."
+        },
+        {
+            "start": "01-04-2019",
+            "end": "01-07-2019",
+            "company": "Сбербанк",
+            "position": "Backend python developer",
+            "description": "Создание backend для многих спринтов банка."
+        },
+        {
+            "start": "01-08-2018",
+            "end": "01-02-2019",
+            "company": "DLine media",
+            "position": "Backend python/php developer",
+            "description": "Создание backend сайта vc.team"
+        },
+        {
+            "start": "01-03-2017",
+            "end": "01-11-2018",
+            "company": "Индивидуальное предпринимательство / частная практика / фриланс",
+            "position": "Backend python developer",
+            "description": "Разработка back-end на python."
+        }
+    ],
+    "skill_set": [
+        "Python3, SQL, NoSQL.",
+        "Docker, docker-compose, git",
+        "Django Framework",
+        "Nginx",
+        "Django Rest Framework",
+        "aiohttp, asyncio",
+        "elasticsearch",
+        "Flask"
+    ],
+    "skills": "",
+    "recommendations": [
+        {}
+    ],
+    "attestation": [],
+    "dop_info": [
+        {
+            "dop 1": "Гражданство: Россия",
+            "dop 2": "Разрешение на работу: Россия",
+            "dop 3": "Желательное время в пути до работы: Не имеет значения"
+        }
+    ],
+    "portfolio": {},
+    "resume_id": "80d32038000724fd140039ed1f584f3739516b",
+    "folder": "python_3_6_expierence"
+}

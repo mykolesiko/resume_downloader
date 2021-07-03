@@ -1,0 +1,85 @@
+{
+    "birth_date": "21 марта 1998",
+    "gender": "Мужчина",
+    "area": "Москва",
+    "phone": "",
+    "email": "",
+    "metro": "м. Кузьминки",
+    "prava": [],
+    "title": "Backend Python",
+    "specialization": [
+        {
+            "name": "Программирование, Разработка",
+            "profarea_name": "Информационные технологии, интернет, телеком"
+        }
+    ],
+    "salary": {
+        "amount": null,
+        "currency": null
+    },
+    "education_level": "Высшее образование",
+    "education": [
+        {
+            "year": 2017,
+            "name": "Государственный университет управления, Москва",
+            "faculty, speciality": "Прикладная информатика"
+        }
+    ],
+    "courses": [],
+    "certificates": [],
+    "language": [
+        {
+            "name": "Русский",
+            "level": "Родной"
+        },
+        {
+            "name": "Английский",
+            "level": "B2 - Средне-продвинутый"
+        }
+    ],
+    "experience": [
+        {
+            "start": "01-12-2020",
+            "end": null,
+            "company": "FoodEX",
+            "position": "Middle Backend",
+            "description": "backend'жу"
+        },
+        {
+            "start": "01-03-2016",
+            "end": "01-03-2019",
+            "company": "Фриланс",
+            "position": "Fullstack разработчик",
+            "description": "Python/Django + React/Vue"
+        }
+    ],
+    "skill_set": [
+        "Python",
+        "JavaScript",
+        "Linux",
+        "Git",
+        "Django Framework",
+        "SQL",
+        "PostgreSQL",
+        "React JS",
+        "Celery",
+        "Apache Solr/Lucene",
+        "Docker",
+        "REST"
+    ],
+    "skills": "Есть опыт в виде Fullstack и Backend:\n\nВ профиле github есть несколько показательных тестовых заданий для вакансий\n",
+    "recommendations": [
+        {}
+    ],
+    "attestation": [],
+    "dop_info": [
+        {
+            "dop 1": "Гражданство: Россия",
+            "dop 2": "Разрешение на работу: Россия",
+            "dop 3": "Желательное время в пути до работы: Не имеет значения"
+        }
+    ],
+    "portfolio": {},
+    "resume_id": "a0d9b1d100070de6570039ed1f634873704167",
+    "folder": "python18-25"
+}

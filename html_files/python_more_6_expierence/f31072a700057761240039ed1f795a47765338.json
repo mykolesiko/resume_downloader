@@ -1,0 +1,181 @@
+{
+    "birth_date": "2 ноября 1980",
+    "gender": "Мужчина",
+    "area": "Москва",
+    "phone": "",
+    "email": "",
+    "metro": "м. Царицыно",
+    "prava": [
+        {
+            "prava1": "Имеется собственный автомобильПрава категории B, C",
+            "prava2": "Имеется собственный автомобиль"
+        }
+    ],
+    "title": "CTO, Технический директор, Руководитель IT проектво, Product Owner",
+    "specialization": [
+        {
+            "name": "Программирование, Разработка",
+            "profarea_name": "Информационные технологии, интернет, телеком"
+        },
+        {
+            "name": "CTO, CIO, Директор по IT",
+            "profarea_name": "Информационные технологии, интернет, телеком"
+        },
+        {
+            "name": "Развитие бизнеса",
+            "profarea_name": "Информационные технологии, интернет, телеком"
+        }
+    ],
+    "salary": {
+        "amount": 400000,
+        "currency": "руб."
+    },
+    "education_level": "Высшее образование (Кандидат наук)",
+    "education": [
+        {
+            "year": 2006,
+            "name": "Национальный исследовательский ядерный университет \"МИФИ\", Москва",
+            "faculty, speciality": "Вычислительная техника, Математическое обеспечение и администрирование информационных систем"
+        },
+        {
+            "year": 2001,
+            "name": "Национальный исследовательский ядерный университет \"МИФИ\", Москва",
+            "faculty, speciality": "Вычислительная техника, Вычислительные машины, комплексы, системы и сети"
+        }
+    ],
+    "courses": [
+        {
+            "year": "2020",
+            "institution": "Московская школа управления СКОЛКОВО",
+            "organization + specialization": "Московская школа управления СКОЛКОВО, Стартап Академия"
+        },
+        {
+            "year": "2015",
+            "institution": "БМ",
+            "organization + specialization": "Бизнес Молодость, Маркетинг и продажи"
+        }
+    ],
+    "certificates": [],
+    "language": [
+        {
+            "name": "Русский",
+            "level": "Родной"
+        },
+        {
+            "name": "Английский",
+            "level": "C2 - В совершенстве"
+        },
+        {
+            "name": "Немецкий",
+            "level": "A1 - Начальный"
+        }
+    ],
+    "experience": [
+        {
+            "start": "01-09-2019",
+            "end": null,
+            "company": "DeepHeads - разработка SW на заказ",
+            "position": "Founder/CTO",
+            "description": "Созданы MVP для стартапов на заказ: fastamy.com; aQube.io; prometeus.io\nPython, Django, JavaScript, Hyperledger; Etherrium\n\n\n"
+        },
+        {
+            "start": "01-07-2018",
+            "end": "01-06-2019",
+            "company": "Частный хедж-фонд - стартап",
+            "position": "Со-Founder/CTO",
+            "description": "Разработка платформы кросс-биржевой торговли обеспечивающая анализ данных и\nисполнение автоматических стратегий. Python, Pandas, ZeroMQ, Django, React."
+        },
+        {
+            "start": "01-01-2018",
+            "end": "01-07-2018",
+            "company": "Latoken",
+            "position": "Директор R&D",
+            "description": "Проектирование и прототипирование ядра криптобиржи. Управление командой разработки: Python, ZeroMq, Pandas"
+        },
+        {
+            "start": "01-09-2015",
+            "end": "01-01-2017",
+            "company": "MERA",
+            "position": "C.T.O., Технический директор подразделения",
+            "description": "IoT, M2M, Cloud, Embedded, Wireless\\Wired sensors\n\nУправление процессом разработки (500 чел.) и внедрение IoT проектов"
+        },
+        {
+            "start": "01-04-2014",
+            "end": "01-03-2015",
+            "company": "Qligent",
+            "position": "Главный архитектор",
+            "description": "Управление разработкой прототипа. Определение стека технологий продукта и архитектуры."
+        },
+        {
+            "start": "01-11-2013",
+            "end": "01-04-2014",
+            "company": "BOSCH",
+            "position": "Главный инженер",
+            "description": "Создание firmware микросхемы SoC. Разработка архитектуры firmware с нуля, используя asm и С. Создание build системы проекта. Написание модулей на C для поддержки SPI, I2C, DMA связь. "
+        },
+        {
+            "start": "01-10-2010",
+            "end": "01-03-2013",
+            "company": "Intel",
+            "position": "Главный инженер",
+            "description": "Внедрение системы автоматического тестирования SoC модема 3G\\4G"
+        },
+        {
+            "start": "01-05-2006",
+            "end": "01-03-2009",
+            "company": "Samsung Semiconductor",
+            "position": "Team Leader",
+            "description": "Проектирование SoC и разработка firmware для применения цифрового телевидения DVB. Управлял постановкой задач в команде из 4х человек."
+        },
+        {
+            "start": "01-09-2000",
+            "end": "01-12-2005",
+            "company": "Intel",
+            "position": "инженер-программист C++",
+            "description": "Должность: инженер-программист в проекте \"Intel ® Integrated Performance Primitives\""
+        }
+    ],
+    "skill_set": [
+        "CTO",
+        "Python",
+        "Linux",
+        "Blockchian",
+        "PostgreSQL",
+        "Git",
+        "Bash",
+        "Scrum",
+        "Django Framework",
+        "Agile Project Management",
+        "Unit Testing",
+        "Software Development",
+        "Управление проектами",
+        "Redis",
+        "C/C++"
+    ],
+    "skills": "https://docs.google.com/document/d/1WOCIkA_NuDmZEE3kVuRyuF85DY5VaN6VeLme_rmWoZU/edit?usp=sharing",
+    "recommendations": [
+        {}
+    ],
+    "attestation": [
+        {
+            "year": "2020",
+            "institution": "Udemy",
+            "organization_specialization": "Udemy, Big Data для руководителей"
+        },
+        {
+            "year": "2020",
+            "institution": "Udemy",
+            "organization_specialization": "Udemy, Big Data для руководителей"
+        }
+    ],
+    "dop_info": [
+        {
+            "dop 1": "Гражданство: Россия",
+            "dop 2": "Разрешение на работу: Россия",
+            "dop 3": "Желательное время в пути до работы: Не имеет значения"
+        }
+    ],
+    "portfolio": {},
+    "resume_id": "f31072a700057761240039ed1f795a47765338",
+    "folder": "python_more_6_expierence"
+}

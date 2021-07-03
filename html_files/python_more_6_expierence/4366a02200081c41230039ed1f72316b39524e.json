@@ -1,0 +1,132 @@
+{
+    "birth_date": "25 April 1962",
+    "gender": "Male",
+    "area": "Moscow",
+    "phone": "",
+    "email": "",
+    "metro": "",
+    "prava": [],
+    "title": "System Administrator",
+    "specialization": [
+        {
+            "name": "System Administrator",
+            "profarea_name": "IT, Internet, Telecom"
+        }
+    ],
+    "salary": {
+        "amount": null,
+        "currency": null
+    },
+    "education_level": "Higher education",
+    "education": [
+        {
+            "year": 1991,
+            "name": "Moscow Institute of Electronic Machine Building (МИЭМ)",
+            "faculty, speciality": "Computing machines, сomputer systems and networks"
+        }
+    ],
+    "courses": [],
+    "certificates": [],
+    "language": [
+        {
+            "name": "Russian",
+            "level": "Native"
+        },
+        {
+            "name": "Chinese",
+            "level": "A1 - Basic"
+        },
+        {
+            "name": "English",
+            "level": "C1 - Advanced"
+        },
+        {
+            "name": "French",
+            "level": "A1 - Basic"
+        }
+    ],
+    "experience": [
+        {
+            "start": "01-02-2008",
+            "end": null,
+            "company": "JS  Еlеctrорrоm",
+            "position": "System Administrator",
+            "description": "All  levels of hardware and software systems: Windows 2003-2008 Server (SuperMicro), VMWare ESXi v5.5; support for 5 printers, plotters and scanners, 100 + hosts used for development of power circuit and mechanic devices, Ethernet 802.3, TCP/IP, DHCP, DNS, WINS, AD, FTP, WebDAV. \nMaintaining file archive, backup, alerts and reporting (SyncBackPro, Syncovery with scripting,  Acronis, Veritas Backup Exec), NAS Thekus. \nMail server (HMail Server + PostgreSQL and VBS event managing scripting), POP3, SMTP, IMAP and event managing and notification scripting  - VBS, Mdaemon and clients (Outlook, WindowsLive, TheBat!, DreamMail, Sylpheed, other clients), IIS, local messenger and forum. Scripting: VBScript+HTA; C++.\nAdministrating and maintaining network security. Antivirus (AVG, Symantec, ESET Nod32), H.I.P.S. (Malware Defender, EQ Secure, Comodo, DefenseWall, ProcessGuard, Faronics DeepFreeze, other proactive defence and sandboxing software).\nSupport for engineering 3D design software: AutoCAD, SolidWorks, Kompas-3D, ANSYS for simulation. Image processing software: CorelDRAW, Adobe bundle.\nSupport for accounting software:, 1Cv8.3, 1Cv7, Taxcom Referent, etc. Crypto providers: CryptoPro CSP, CryptoARM. \nResponsible for Panasonic KX-TDA100 Hybrid IP-PBX System, Sphynx network access control and DVRs.\nBuilding and support for trouble-free power supply network (double conversion units: Eaton, Merlin Gerin, others), power electrical and low-voltage works (UTP, phoneline and alarm), tesing and repair of hardware, PSU & UPS with soldering and replacing comonents. \nOccasional correspondence in English and translation work."
+        },
+        {
+            "start": "01-10-1985",
+            "end": "01-02-2008",
+            "company": "JV Еlectrоprivod",
+            "position": "System Administrator",
+            "description": "The same as above, in the mechanical design dept. and occasional service works in other departments. About 40 computers, Internet access gateway, file server (archive), 1C server. \nSupport for AutoCAD, SolidWorks, word and image processing software: CorelDRAW, Adobe Suite, etc. Raster-vector conversion tools, server based and workstation PDF processing and optimization.\nSupport for archive: file server, RAID, access rights, backup.\nAccounting software support: 1Cv8, and other (obsolete) products. Excel+VBA programing.\nPCB developing and manufacturing: all related issues, troubleshooting.\n\nTechincal translation/edit work and correspondence."
+        }
+    ],
+    "skill_set": [
+        "All-in-one",
+        "Windows Server",
+        "Active Directory",
+        "SCCM",
+        "Networking",
+        "DHCP",
+        "DNS",
+        "VPN",
+        "VMware",
+        "Hyper-V",
+        "Kerio Winroute Firewall",
+        "Backup",
+        "Embarcadero Delphi",
+        "VBScript",
+        "HTA",
+        "SQL",
+        "AutoCAD",
+        "Adobe CS",
+        "Written Translation",
+        "Business Correspondence",
+        "Technical Editing",
+        "中文",
+        "1C bundle",
+        "MS Excel",
+        "VBA"
+    ],
+    "skills": "- 30 + years of experience as the all-in-one computer man in a company/department. \n- Building Windows network with multiple network devices from the ground up, troubleshooting and upgrade.\n- Administrating all Windows versions.\n- Script programming for data process automation - VBS, HTA, SQL.\n- Troubleshooting and support of engineering 2D/3D design software, esp. AutoCAD, and other  products.\n- Antivirus and (esp.) tailor-made proactive defence software - HIPS.\n- Hardware and PSU tesing and repair, parts replacement, soldering.\n- Building trouble-free power supply network, electrical works up to 1000V\n- Basic knowledge of Ubuntu, CentOS\n\n- Familiar with the developing, manufacturing and certification of power electronic devices, printed circuit boards (PCB), (former electronics engineer).\n\nTRANSLATION WORK WELCOMED !\n- English - Upper Intermediate Level / 英语中高级,中文较差.\n- Translation from English, French into Russian and from Russian into English (years of freelance job), engineering, science, medicine and humanities - history, etc.\n- Business correspondence.",
+    "recommendations": [
+        {}
+    ],
+    "attestation": [
+        {
+            "year": "2020",
+            "institution": "Coursera",
+            "organization_specialization": "University of Colorado System, Computer Security and Systems Management"
+        },
+        {
+            "year": "2020",
+            "institution": "Coursera",
+            "organization_specialization": "University of Colorado System, Computer Security and Systems Management"
+        },
+        {
+            "year": "2020",
+            "institution": "Coursera",
+            "organization_specialization": "University of Colorado System, Applied Cryptography"
+        },
+        {
+            "year": "2020",
+            "institution": "Coursera",
+            "organization_specialization": "University of Michigan, Python for Everybody [Json, Xml, Web Scraping, DBMS, Sqlite, SQL, data analysis]"
+        },
+        {
+            "year": "2020",
+            "institution": "Coursera",
+            "organization_specialization": "MIPS, Mathematics and Python for Data Analysis"
+        }
+    ],
+    "dop_info": [
+        {
+            "dop 1": "Citizenship: Russia",
+            "dop 2": "Permission to work: Russia",
+            "dop 3": "Desired travel time to work: Doesn't matter"
+        }
+    ],
+    "portfolio": {},
+    "resume_id": "4366a02200081c41230039ed1f72316b39524e",
+    "folder": "python_more_6_expierence"
+}

@@ -1,0 +1,62 @@
+{
+    "birth_date": "10 декабря 1998",
+    "gender": "Мужчина",
+    "area": "Москва",
+    "phone": "",
+    "email": "",
+    "metro": "",
+    "prava": [],
+    "title": "Junior Python Developer",
+    "specialization": [
+        {
+            "name": "Информационные технологии, Интернет, Мультимедиа",
+            "profarea_name": "Начало карьеры, студенты"
+        }
+    ],
+    "salary": {
+        "amount": 70000,
+        "currency": "руб."
+    },
+    "education_level": "Неоконченное высшее образование",
+    "education": [
+        {
+            "year": 2021,
+            "name": "Московский авиационный институт (национальный исследовательский университет), Москва",
+            "faculty, speciality": "7, Системы управления летательными аппаратами"
+        }
+    ],
+    "courses": [],
+    "certificates": [],
+    "language": [
+        {
+            "name": "Русский",
+            "level": "Родной"
+        },
+        {
+            "name": "Английский",
+            "level": "C1 - Продвинутый"
+        }
+    ],
+    "experience": [],
+    "skill_set": [
+        "Python (Flask, Pandas)",
+        "Docker",
+        "Математическая статистика",
+        "Machine Learning (ML)"
+    ],
+    "skills": "",
+    "recommendations": [
+        {}
+    ],
+    "attestation": [],
+    "dop_info": [
+        {
+            "dop 1": "Гражданство: Россия",
+            "dop 2": "Разрешение на работу: Россия",
+            "dop 3": "Желательное время в пути до работы: Не имеет значения"
+        }
+    ],
+    "portfolio": {},
+    "resume_id": "a6c339350008adcad90039ed1f7358384b4b4b",
+    "folder": "python18-25"
+}

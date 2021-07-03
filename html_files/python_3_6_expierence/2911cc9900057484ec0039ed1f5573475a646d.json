@@ -1,0 +1,166 @@
+{
+    "birth_date": "26 ноября 1996",
+    "gender": "Мужчина",
+    "area": "Москва",
+    "phone": "",
+    "email": "",
+    "metro": "м. Новые Черемушки",
+    "prava": [
+        {
+            "prava1": "Имеется собственный автомобильПрава категории B",
+            "prava2": "Имеется собственный автомобиль"
+        }
+    ],
+    "title": "Python Developer",
+    "specialization": [
+        {
+            "name": "Программирование, Разработка",
+            "profarea_name": "Информационные технологии, интернет, телеком"
+        },
+        {
+            "name": "Администратор баз данных",
+            "profarea_name": "Информационные технологии, интернет, телеком"
+        },
+        {
+            "name": "Управление проектами",
+            "profarea_name": "Информационные технологии, интернет, телеком"
+        }
+    ],
+    "salary": {
+        "amount": 5000,
+        "currency": "USD"
+    },
+    "education_level": "Высшее образование",
+    "education": [
+        {
+            "year": 2018,
+            "name": "Queen Mary, University of London",
+            "faculty, speciality": "Computer Science, Computer Science"
+        }
+    ],
+    "courses": [],
+    "certificates": [],
+    "language": [
+        {
+            "name": "Русский",
+            "level": "Родной"
+        },
+        {
+            "name": "Английский",
+            "level": "C2 - В совершенстве"
+        },
+        {
+            "name": "Японский",
+            "level": "A1 - Начальный"
+        }
+    ],
+    "experience": [
+        {
+            "start": "01-10-2019",
+            "end": null,
+            "company": "РобоФинанс",
+            "position": "Старший Риск-технолог",
+            "description": "Разработка микросервисов для антифрод систем\nPython 3\nPostgre SQL / MySQL / MSSQL (Microsoft SQL Server)\nDocker\nApache NiFi\nKubernates\nDebian / CentOS 7\nGitlab CI/CD\nDjango\nNginx\nMongo db"
+        },
+        {
+            "start": "01-01-2016",
+            "end": null,
+            "company": "Индивидуальное предпринимательство / частная практика / фриланс",
+            "position": "Фотограф",
+            "description": "Портретная, архитектурная съемка\nМонтаж видео\nСъемка видео"
+        },
+        {
+            "start": "01-10-2018",
+            "end": "01-06-2020",
+            "company": "Индивидуальное предпринимательство / частная практика / фриланс",
+            "position": "Индивидуальный предприниматель",
+            "description": "Управление проектами (product manager / product owner)\nДизайн и архитектура внутренних систем\nРазработка сайтов и информационных систем с нуля\nСовершенствование внешнего вида (доработка) сайта, оптимизация интерфейса, юзабилити.\nПоддержка работоспособности сайтов, создание и хранение резервных копий сайтов, настройка серверов. \nНаполнение (обновление) контентом, создание новых разделов, страниц на сайтах.\nПоддержка и развертывание сетей (Vlan, Switches, IPTV)\nАдаптация веб-окружения под определенный проект. \nАудит, выявляющий эксплуатационные свойства сайта.\nПоддержка и создание веб-сайтов на WordPress и иных CMS\nНастройка и поддержка платежных систем\nНастройка и администрирования Google Apps for Work (G Suite)\nНастройка и поддержка OpenCart\nРазработка скриптов и приложений на Python 3\nНастройка и администрирование Docker контейнеров и Docker Compose\nРазработка сайтов и приложений на Flask, Vue.JS, Node.JS\nСоздание и поддержка системной архитектуры на AWS / GCP \nСоздание Telegram Bots (телеграм боты)\nБухгалтерия"
+        },
+        {
+            "start": "01-04-2015",
+            "end": "01-10-2019",
+            "company": "Группа компаний Электроника, ООО",
+            "position": "Программист-разработчик",
+            "description": "● Администрирование MS-SQL Database\n\n● Разработка и поддержка API на PHP\n\n● Поддержка пользователей\n\n● Разработка внутренних приложений \n\n○ Прототипирование на React Native \n\n○ Swift & Java\n\n○ Создание интерактивных таблиц и графиков для мобильных приложений\n\n○ Начальный анализ данных для последующего отображения в приложениях - Python\n\n○ Создание SQL запросов\n\n● Разработка Telegram ботов для поддержки пользователей\n\n• Product Management/ Product owner"
+        },
+        {
+            "start": "01-07-2018",
+            "end": "01-09-2019",
+            "company": "Crypto Resource Management",
+            "position": "Программист Python",
+            "description": "Python 3\nНастройка и администрирование Docker контейнеров и Docker Compose\nДизайн и архитектура внутренних систем\nСоздание Telegram Bots (телеграм боты) в Python на Python-Telegram-Bot\nСоздание и поддержка архитектуры на Elastic Stack (Elasticsearch, Kibana)\nFlask\nVue.JS, Node\nУправление проектами (product manager/ product owner)\nСоздание и поддержка системной архитектуры на AWS (Amazon Web Services; ec2, code-commit, elastic search service)\nАвтоматизация сбора, обработки и хранения рыночных данных с разных бирж (Bitmex, Bitfinex, Kraken, Binance, Bitstamp, Bittrex, Coinbase, Gemini, Hitbtc, Huobi, Okex, Poloniex)\nРазработка и создание алгоритмов трейдинга\nРазработка асинхронной системы (asyncio, aiohttp)\nИспользование и написание WebSocket клиентов\nРефакторинг и переработка legacy кода\nРабота с Криптовалютами (Bitcoin, Etherium) и Биржами (Bitmex, Bitfinex, Kraken)\nРазработка Rest API (Axios)\nVCS - git / AWS CodeCommit\nДизайн приложений и сайтов с использованием Framer X\nНастройка и использование систем логгирования: Sentry, Rollbar, Logstash\nОптимизация запросов, улучшение производительности систем (до 10х)\nОптимизация кода для обработки данных на Pandas\nAnsible"
+        },
+        {
+            "start": "01-02-2018",
+            "end": "01-05-2018",
+            "company": "AweTrip",
+            "position": "Программист-разработчик",
+            "description": "Создание и администрирование NoSQL Database (mongodb)\nFrontend - Ember.js (изначальное решение), Vue.Js (последующее решение)\nBackend - Node.js (изначальное решение),  Django (последующее решение)\nПоддержка веб-сайта на PHP + Apache + MySQL \nРазработка Rest API\nVCS - git\nСоздание и поддержка системной архитектуры на GCP (Google Cloud Platform)"
+        },
+        {
+            "start": "01-08-2017",
+            "end": "01-10-2017",
+            "company": "Prestige Lettings",
+            "position": "Программист-разработчик",
+            "description": "● Разработка внутреннего мобильного приложения (React Native) и веб-сайта (React.JS) на Node.JS\n\n● Авто постинг объявлений на Gumtree (аналог Avito) и специализированных сайтов аренды жилья\n\n○ Автовход на сайты и обход Google ReCaptcha\n\n○ Автоматическая генерация объявлений с фото и текстом\n\n○ Обход ограничений на автопостинг\n\n○ 1-3 секунды на пост\n\n○ Python + Selenium\n\n● JobToday & Email автоматическая система рассылки сообщений для рассылки предложений о работе\n\n○ Разбор веб-запросов сервиса JobToday для автоматического поиска кандидатов\n\n○ Автоматическая генерация текста для конкретного кандидата\n\n○ До 300 сообщений в секунду через GMail API\n\n○ Python 3\n\n● Автоматические лайки и комментарии в социальных сетях\n\n○ Автоматический вход в соц. сеть\n\n○ Автоматические лайки и комментарии под фото/видео\n\n○ Автоматический подбор контента по тегам, пользователям и иным запросам\n\n○ Обход ограничений на автопостинг\n\n○ 0.1 секунда на действие\n\n○ Python"
+        }
+    ],
+    "skill_set": [
+        "Python",
+        "Linux",
+        "MySQL",
+        "HTML",
+        "Git",
+        "JavaScript",
+        "Django Framework",
+        "SQL",
+        "Bash",
+        "Администрирование серверов Linux",
+        "MS SQL",
+        "Английский язык",
+        "MongoDB",
+        "MS Excel",
+        "NoSQL",
+        "Базы данных",
+        "Анализ данных",
+        "SQLite",
+        "Node.js",
+        "Unix Shell Scripts",
+        "Unix",
+        "Разработка ПО",
+        "Flask",
+        "Web Application Development",
+        "Docker",
+        "JSON",
+        "Elasticsearch",
+        "API",
+        "Веб-программирование",
+        "PostgreSQL"
+    ],
+    "skills": "Опыт разработки собственных проектов с использованием CI/CD методик (Github Actions) на Vue.JS, React, с использованием различных библиотек (Momentjs, telebot, etc) c backend на Node.JS или Flask. Опыт разработки микросервисов и скриптов автоматизации на Bash, Python. В большинстве проектов были задействованы Docker, Docker-compose, Git (github).\n\nОкончил высшее образование в Лондоне по специальности Computer Science в Queen Mary, University of London. Профильные предметы: Data Mining, Big Data Engineering, Security Engineering, Artificial Intellegence, Web Development, Digital Media and Social Networks.\n\nТема диплома: A Gamified Virtual Lab for Learning Common OS Vulnerabilities. \nСтек технологий, использованный, для написания диплома: Ubuntu Linux, Docker, Python, C, VirtualBox, Django, Bash, Perl.\n\nВ лабораторных и курсовых работах были зайдествованы: Hadoop, Apache Spark, Django REST, Django, Oracle SQL \n\nХобби-проекты\n● visas by aleks - Интеллектуальный визовый ассистент на базе Vue.js (vuex, vue-router) и Firebase (https://visas.alekskuznetsov.com/)\n● wish.surf - список желаний (https://wish.surf/)\n● money by aleks - Personal money assistant based on Vue.JS\n● Elasticsearch deduplicator - script to remove repeating results from indices\n● Instagram Tags Generator \n● Bonds Monthly Calculator - generates a calendar with monthly income from bonds\n● LinkedIn Auto Endorse - JS Script to endorse all skills on LinkedIn\n● Kinopoisk IT - JS Plugin for Chrome to find a movie on kinopoisk.ru\n\nНавыки:\n● Python 2/3\n● Опыт настройки и администрирования Docker, Docker compose - 1 Год\n● Опыт настройки и администрирования AWS (Amazon Web Services: ec2, code-commit, elastic search service), Google Cloud - 1 год\n● Опыт настройки и администрирования Elastic Search и Kibana - 1 год\n● Опыт настройки и администрирования Linux систем (Ubuntu, CentOS, Linux AMI)\n● SQL (MySQL, MSSQL, Postgres) \n● Django \n● Flask \n● Bash / Shell \n● Git\n● NoSQL (MongoDB)\n● Node.JS\n● Vue.JS\n● Опыт настройки CI/CD (Travis.CI)\n● React.JS\n● HTML5, CSS3\n● Знание REST, опыт тестирования и разработки API\n● Знание XPath, RegExp\n● Опыт настройки и администрирования Google Apps for Work\n● Автоматическое тестирование веб-сайтов Browser automation (Selenium)\n● Опыт web crawling и scraping techniques\n● Опыт работы, настройки и администрирования виртуальных машин (Virtual Machines: VM VirtualBox)\n● Знакомство с Hadoop, Spark, Nifi\n● Знакомство с техниками машинного обучения\n● Знакомство с техниками Agile/Scrum\n● Являюсь опытным пользователем консоли linux/macos\n● Опыт многопоточного программирования\n● Опыт многопроцессорного программирования\n● Опыт асинхронного программирования (asyncio)\n● Опыт работы с AIOHTTP\n",
+    "recommendations": [
+        {}
+    ],
+    "attestation": [
+        {
+            "year": "2018",
+            "institution": "IELTS",
+            "organization_specialization": "IELTS, English Language 7.5"
+        },
+        {
+            "year": "2018",
+            "institution": "IELTS",
+            "organization_specialization": "IELTS, English Language 7.5"
+        }
+    ],
+    "dop_info": [
+        {
+            "dop 1": "Гражданство: Россия",
+            "dop 2": "Разрешение на работу: Россия",
+            "dop 3": "Желательное время в пути до работы: Не имеет значения"
+        }
+    ],
+    "portfolio": {},
+    "resume_id": "2911cc9900057484ec0039ed1f5573475a646d",
+    "folder": "python_3_6_expierence"
+}

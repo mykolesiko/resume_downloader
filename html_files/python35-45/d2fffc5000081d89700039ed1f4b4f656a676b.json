@@ -1,0 +1,75 @@
+{
+    "birth_date": "11 апреля 1983",
+    "gender": "Женщина",
+    "area": "Москва",
+    "phone": "",
+    "email": "",
+    "metro": "",
+    "prava": [],
+    "title": "Программист Python (парсинг данных, обработка данных)",
+    "specialization": [
+        {
+            "name": "Программирование, Разработка",
+            "profarea_name": "Информационные технологии, интернет, телеком"
+        }
+    ],
+    "salary": {
+        "amount": null,
+        "currency": null
+    },
+    "education_level": "Высшее образование",
+    "education": [
+        {
+            "year": 2006,
+            "name": "Национальный исследовательский ядерный университет \"МИФИ\", Москва",
+            "faculty, speciality": "Автоматики"
+        }
+    ],
+    "courses": [
+        {
+            "year": "2018",
+            "institution": "SKILLFACTORY",
+            "organization + specialization": "ООО «Скилфэктори», Python для анализа данных"
+        }
+    ],
+    "certificates": [],
+    "language": [
+        {
+            "name": "Русский",
+            "level": "Родной"
+        },
+        {
+            "name": "Английский",
+            "level": "B1 - Средний"
+        }
+    ],
+    "experience": [
+        {
+            "start": "01-08-2017",
+            "end": null,
+            "company": "oContent",
+            "position": "Программист Python",
+            "description": "Разработка скриптов для нормализации данных (приведение исходных данных Excel, XML, JSON к единому формату). Обогащение данных. Дистрибуция данных. Создание и поддержка сервера нормализации данных. Создание и поддержка парсеров сайтов."
+        }
+    ],
+    "skill_set": [
+        "SQL, C, HTML, Linux, BASH",
+        "Scrapy",
+        "Python (Pandas, Beautifulsoup, SqLite3, Requests, lxml, json)"
+    ],
+    "skills": "Ответственная, самостоятельная, спокойная, неконфликтная, умею работать в команде. Технический английский язык. ",
+    "recommendations": [
+        {}
+    ],
+    "attestation": [],
+    "dop_info": [
+        {
+            "dop 1": "Гражданство: Россия",
+            "dop 2": "Разрешение на работу: Россия",
+            "dop 3": "Желательное время в пути до работы: Не имеет значения"
+        }
+    ],
+    "portfolio": {},
+    "resume_id": "d2fffc5000081d89700039ed1f4b4f656a676b",
+    "folder": "python35-45"
+}

@@ -1,0 +1,176 @@
+{
+    "birth_date": "7 August 1987",
+    "gender": "Male",
+    "area": "Kazan",
+    "phone": "",
+    "email": "",
+    "metro": "metro station Sukonnaya Sloboda",
+    "prava": [
+        {
+            "prava1": "Own carDriver's license category B",
+            "prava2": "Own car"
+        }
+    ],
+    "title": "Engineer/programmer, programmer, system administrator, Sysadmin",
+    "specialization": [
+        {
+            "name": "Software Development",
+            "profarea_name": "IT, Internet, Telecom"
+        },
+        {
+            "name": "Engineer",
+            "profarea_name": "IT, Internet, Telecom"
+        }
+    ],
+    "salary": {
+        "amount": 500,
+        "currency": "USD"
+    },
+    "education_level": "Higher education",
+    "education": [
+        {
+            "year": 2010,
+            "name": "Bashkir State University, Ufa",
+            "faculty, speciality": "Mathematician System programmer, Applied Mathematics and Informatics"
+        }
+    ],
+    "courses": [
+        {
+            "year": "2021",
+            "institution": "Skillbox",
+            "organization + specialization": "Skillbox, python developer"
+        }
+    ],
+    "certificates": [],
+    "language": [
+        {
+            "name": "Russian",
+            "level": "Native"
+        },
+        {
+            "name": "Bashkir",
+            "level": "C2 - Proficiency"
+        },
+        {
+            "name": "Chinese",
+            "level": "A1 - Basic"
+        },
+        {
+            "name": "English",
+            "level": "C1 - Advanced"
+        },
+        {
+            "name": "Tatar",
+            "level": "C2 - Proficiency"
+        }
+    ],
+    "experience": [
+        {
+            "start": "01-10-2020",
+            "end": null,
+            "company": "Gradient CJSC",
+            "position": "engineer/programmer, python developer",
+            "description": "Python, Matlab programming. Study of the sound spectrum emitted during hydraulic fracturing, as well as by the method of low-frequency seismic building."
+        },
+        {
+            "start": "01-03-2020",
+            "end": "01-10-2020",
+            "company": "Ufanet",
+            "position": "Service engineer",
+            "description": "Connecting and maintenance of home networks, cable TV, telephone, intercom systems and other services to private and legal subscribers."
+        },
+        {
+            "start": "01-02-2019",
+            "end": "01-01-2020",
+            "company": "Private kindergarten",
+            "position": "English teacher",
+            "description": "Teaching 3-7 years old children"
+        },
+        {
+            "start": "01-01-2017",
+            "end": "01-01-2018",
+            "company": "Ltd Unitent",
+            "position": "Process engineer of the tent frame workshop",
+            "description": "Participation in developing and producing of tent frames"
+        },
+        {
+            "start": "01-05-2016",
+            "end": "01-01-2017",
+            "company": "Individual Enterpreneur Mustaeva O.N.",
+            "position": "Anhydrous products workshop specialist",
+            "description": "Worked in production of cosmetics and detergents."
+        },
+        {
+            "start": "01-09-2013",
+            "end": "01-11-2014",
+            "company": "KER-Avtomatika, branch of KER-Engineering OJSC",
+            "position": "Engineer/programmer",
+            "description": "Worked in applications' developers group who automated and controlled the work of electrical and hydraulic turbines. Used Siemens PCS7 development environment."
+        },
+        {
+            "start": "01-08-2011",
+            "end": "01-06-2013",
+            "company": "Neftekamsk Oil field equipment factory",
+            "position": "Engineer/programmer",
+            "description": "Independent software development for the automation of technological processes in production. Debugging third-party software used on the equipment of the enterprise."
+        }
+    ],
+    "skill_set": [
+        "Adobe Photoshop",
+        "MS PowerPoint",
+        "MS Excel",
+        "AutoCAD",
+        "CSS",
+        "HTML",
+        "MS Outlook",
+        "Driving Licence B",
+        "English",
+        "Delphi",
+        "C/C++",
+        "Windows API",
+        "Linux",
+        "Siemens PCS7",
+        "Python",
+        "CorelDRAW",
+        "Mathematical Programming",
+        "MS Word",
+        "Mathcad",
+        "Maple",
+        "Wifi networks",
+        "Ethernet",
+        "Internet",
+        "GPON",
+        "AON",
+        "Electrical",
+        "MATLAB",
+        "Qt",
+        "Git",
+        "JSON API"
+    ],
+    "skills": "Sociability, quick wits. Served in the army.",
+    "recommendations": [
+        {}
+    ],
+    "attestation": [
+        {
+            "year": "2020",
+            "institution": "ratatype",
+            "organization_specialization": "ratatype.com, English typing"
+        },
+        {
+            "year": "2020",
+            "institution": "ratatype",
+            "organization_specialization": "ratatype.com, English typing"
+        }
+    ],
+    "dop_info": [
+        {
+            "dop 1": "Citizenship: Russia",
+            "dop 2": "Permission to work: Russia",
+            "dop 3": "Desired travel time to work: Doesn't matter"
+        }
+    ],
+    "portfolio": {},
+    "resume_id": "6a29bfcb0007c2e8da0039ed1f575066575877",
+    "folder": "python_more_6_expierence"
+}

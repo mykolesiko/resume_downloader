@@ -1,0 +1,88 @@
+{
+    "birth_date": "15 мая 1986",
+    "gender": "Мужчина",
+    "area": "Москва",
+    "phone": "",
+    "email": "",
+    "metro": "м. Выхино",
+    "prava": [],
+    "title": "Python developer",
+    "specialization": [
+        {
+            "name": "Программирование, Разработка",
+            "profarea_name": "Информационные технологии, интернет, телеком"
+        }
+    ],
+    "salary": {
+        "amount": 100000,
+        "currency": "руб."
+    },
+    "education_level": "Неоконченное высшее образование",
+    "education": [
+        {
+            "year": 2023,
+            "name": "Московский технический университет связи и информатики, Москва",
+            "faculty, speciality": "Информационные технологии, Информационные системы и технологии"
+        },
+        {
+            "year": 2007,
+            "name": "Российский химико-технологический университет им. Д.И. Менделеева, Москва",
+            "faculty, speciality": "ТОХФ, Тонкий органический синтез"
+        }
+    ],
+    "courses": [],
+    "certificates": [],
+    "language": [
+        {
+            "name": "Русский",
+            "level": "Родной"
+        },
+        {
+            "name": "Английский",
+            "level": "B2 - Средне-продвинутый"
+        }
+    ],
+    "experience": [
+        {
+            "start": "01-08-2019",
+            "end": null,
+            "company": "Индивидуальное предпринимательство / частная практика / фриланс",
+            "position": "Программист-разработчик",
+            "description": "Backend programming\nWeb Scraping Projects\nBuilding chat bots\nAlgorithms, DS and ML projects for students"
+        }
+    ],
+    "skill_set": [
+        "Python",
+        "Django Framework",
+        "Flask",
+        "PostgreSQL",
+        "MySQL",
+        "MongoDB",
+        "Асинхронное программирование",
+        "ООП",
+        "Numpy",
+        "Pandas",
+        "Matplotlib",
+        "TensorFlow",
+        "PyTorch",
+        "Алгоритмы и структуры данных",
+        "Git",
+        "Pytest",
+        "Unit Testing"
+    ],
+    "skills": "Hard-skills:\n\n- Знание Python 3.x на уровне advanced.\n- Опыт работы с фреймворками Django и Flask, умение перевода приложений на асинхронный Quart.\n- Работа с Django REST и Flask-Restless\n- Опыт применения многопоточности и многопроцессности, работа с asyncio и concurrent.futures\n- Опыт работы с реляционными и нереляционными БД: MySQL, Postgresql, MongoDB\n- Знание библиотек Numpy, Pandas и Matplotlib\n- Опыт работы с TensorFlow и PyTorch\n- Знание основ верстки с HTML, CSS. Опыт верстки c Bootstrap.\n- Отлично разбираюсь в основным алгоритмах Computer \n  Science и их реализациях на языке Python.\n- Умение писать правильные тесты, опыт работы с фреймворками тестирования unittest, doctest и pytest\n- Базовые знания Linux и Bash\n- Английским язык на уровне upper-intermediate.\n\nSoft-skills:\n\n- Активная жизненная позиция, проактивность\n- Целеустремлённость, привычка добиваться результата \n  несмотря ни на какие преграды;\n- Организаторские способности, коммуникабельность;\n- Ответственность, оперативность, оптимизм;\n- Аналитический склад ума, быстрая обучаемость;\n- Креативен, инициативен, всесторонне развит.",
+    "recommendations": [
+        {}
+    ],
+    "attestation": [],
+    "dop_info": [
+        {
+            "dop 1": "Гражданство: Россия",
+            "dop 2": "Разрешение на работу: Россия",
+            "dop 3": "Желательное время в пути до работы: Не имеет значения"
+        }
+    ],
+    "portfolio": {},
+    "resume_id": "cd3ddf380008144ded0039ed1f334b36694966",
+    "folder": "Default"
+}

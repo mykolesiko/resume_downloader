@@ -1,0 +1,57 @@
+{
+    "birth_date": "16 июня 2001",
+    "gender": "Мужчина",
+    "area": "Москва",
+    "phone": "",
+    "email": "",
+    "metro": "",
+    "prava": [],
+    "title": "Junior Java/Python разработчик.",
+    "specialization": [
+        {
+            "name": "Информационные технологии, Интернет, Мультимедиа",
+            "profarea_name": "Начало карьеры, студенты"
+        }
+    ],
+    "salary": {
+        "amount": null,
+        "currency": null
+    },
+    "education_level": "Образование",
+    "education": [],
+    "courses": [],
+    "certificates": [],
+    "language": [
+        {
+            "name": "Русский",
+            "level": "Родной"
+        },
+        {
+            "name": "Английский",
+            "level": "A2 - Элементарный"
+        },
+        {
+            "name": "Туркменский",
+            "level": "B1 - Средний"
+        }
+    ],
+    "experience": [],
+    "skill_set": [
+        "Обучаемость"
+    ],
+    "skills": "В данный момент обучаюсь в университете МТУСИ поэтому не имел возможности работать до этого.\n",
+    "recommendations": [
+        {}
+    ],
+    "attestation": [],
+    "dop_info": [
+        {
+            "dop 1": "Гражданство: Туркменистан",
+            "dop 2": "Разрешение на работу: Россия",
+            "dop 3": "Желательное время в пути до работы: Не имеет значения"
+        }
+    ],
+    "portfolio": {},
+    "resume_id": "1f5b1cb7000892c5480039ed1f32316c6f6479",
+    "folder": "python_no_expierence"
+}

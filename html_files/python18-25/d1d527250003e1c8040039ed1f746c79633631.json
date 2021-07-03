@@ -1,0 +1,152 @@
+{
+    "birth_date": "5 января 1996",
+    "gender": "Мужчина",
+    "area": "Москва",
+    "phone": "",
+    "email": "",
+    "metro": "м. Водный стадион",
+    "prava": [
+        {
+            "prava1": "Права категории B, C"
+        }
+    ],
+    "title": "Python/C++ Engineer",
+    "specialization": [
+        {
+            "name": "Программирование, Разработка",
+            "profarea_name": "Информационные технологии, интернет, телеком"
+        },
+        {
+            "name": "Инженер",
+            "profarea_name": "Информационные технологии, интернет, телеком"
+        }
+    ],
+    "salary": {
+        "amount": null,
+        "currency": null
+    },
+    "education_level": "Высшее образование (Магистр)",
+    "education": [
+        {
+            "year": 2019,
+            "name": "Московский институт электронной техники, Москва",
+            "faculty, speciality": "Микроприборов и технической кибернетики, Цифровая обработка сигналов и изображений"
+        },
+        {
+            "year": 2017,
+            "name": "Московский институт электронной техники, Москва",
+            "faculty, speciality": "Микроприборов и технической кибернетики, Математика. Прикладная математика"
+        }
+    ],
+    "courses": [
+        {
+            "year": "2018",
+            "institution": "Samsung RnD Institute Russia",
+            "organization + specialization": "Samsung RnD Institute Russia, Samsung software certification, Professional"
+        },
+        {
+            "year": "2017",
+            "institution": "Машинное обучение",
+            "organization + specialization": "Coursera, Машинное обучение"
+        },
+        {
+            "year": "2017",
+            "institution": "Deep learning",
+            "organization + specialization": "Udacity, Deep learning"
+        },
+        {
+            "year": "2016",
+            "institution": "Промышленная разработка программного обеспечения",
+            "organization + specialization": "CQG, Промышленная разработка программного обеспечения"
+        }
+    ],
+    "certificates": [],
+    "language": [
+        {
+            "name": "Русский",
+            "level": "Родной"
+        },
+        {
+            "name": "Английский",
+            "level": "B2 - Средне-продвинутый"
+        }
+    ],
+    "experience": [
+        {
+            "start": "01-12-2019",
+            "end": null,
+            "company": "HUAWEI",
+            "position": "Consumers Business Group, Multimedia Lab, Engineer",
+            "description": "Работал в проектах связанных с задачами Super Resolution, GAN, AutoML и Computational Optics. Разрабатывались модели по топовым статьям в соответствующих областях. Основные технологии: Python, TensorFlow, PyTorch."
+        },
+        {
+            "start": "01-09-2018",
+            "end": "01-11-2019",
+            "company": "Samsung R&D Institute Russia",
+            "position": "Software Engineer",
+            "description": "Работал в проекте Neural Network Compiler & Runtime с такими частями как frontend (чтение файлов моделей из популярных фреймворков, как Tensorflow, Caffe, ONNX и др.), backend (создание бинарных файлов для определенных архитектур, как arm, x86), оптимизации (трансформирование промежуточного представления) и runtime (исполнение исходного кода на устройстве, используя различные реализации вычислительных ядер).\nОсновная разработка происходила на С++11/14, а также использовались скрипты Python"
+        },
+        {
+            "start": "01-10-2017",
+            "end": "01-05-2018",
+            "company": "Junto",
+            "position": "Computer Vision developer",
+            "description": "Компания занимается веб и мобильной разработкой. Я был более вовлечен в проекты с мобильными решениями. Там я разрабатывал индивидуальные библиотеки для задач компьютерного зрения с использованием библиотеки OpenCV, например, на мобильном устройстве фреймворк, написанный на C ++, и на сервере, написанный на Python. В проектах в основном использовались классические алгоритмы компьютерного зрения, как feature detection, feature description, feature matching, homography calculation, image transformation, image filtering, contours detection, histogram transformation, background subtraction, optical flow, face landmarks. Также внедрялись современные нейросетевые подходы, такие как классификация, обнаружение лиц, распознавание лиц и другие."
+        }
+    ],
+    "skill_set": [
+        "Python",
+        "Linux",
+        "SQL",
+        "C++",
+        "Git",
+        "HTML",
+        "Objective-C",
+        "MS SQL",
+        "Ajax",
+        "Bash",
+        "MVC",
+        "Bootstrap",
+        "ООП",
+        "OpenGL",
+        "JSON API",
+        "MATLAB",
+        "tensorflow",
+        "pandas",
+        "sklearn",
+        "OpenCV",
+        "keras1",
+        "Neural Networks1",
+        "Swift1",
+        "ONNX",
+        "MongoDB",
+        "Caffe/Caffe2",
+        "PyTorch"
+    ],
+    "skills": "https://github.com/Pol22",
+    "recommendations": [
+        {}
+    ],
+    "attestation": [
+        {
+            "year": "2016",
+            "institution": "CQG",
+            "organization_specialization": "CQG, Промышленная разработка программного обеспечения"
+        },
+        {
+            "year": "2016",
+            "institution": "CQG",
+            "organization_specialization": "CQG, Промышленная разработка программного обеспечения"
+        }
+    ],
+    "dop_info": [
+        {
+            "dop 1": "Гражданство: Россия",
+            "dop 2": "Разрешение на работу: Россия",
+            "dop 3": "Желательное время в пути до работы: Не имеет значения"
+        }
+    ],
+    "portfolio": {},
+    "resume_id": "d1d527250003e1c8040039ed1f746c79633631",
+    "folder": "python18-25"
+}

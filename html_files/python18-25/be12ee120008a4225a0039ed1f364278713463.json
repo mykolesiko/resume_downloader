@@ -1,0 +1,92 @@
+{
+    "birth_date": "20 марта 2001",
+    "gender": "Мужчина",
+    "area": "Иннополис",
+    "phone": "",
+    "email": "",
+    "metro": "",
+    "prava": [],
+    "title": "Python developer",
+    "specialization": [
+        {
+            "name": "Программирование, Разработка",
+            "profarea_name": "Информационные технологии, интернет, телеком"
+        },
+        {
+            "name": "Web инженер",
+            "profarea_name": "Информационные технологии, интернет, телеком"
+        },
+        {
+            "name": "Аналитик",
+            "profarea_name": "Информационные технологии, интернет, телеком"
+        }
+    ],
+    "salary": {
+        "amount": 80000,
+        "currency": "руб."
+    },
+    "education_level": "Неоконченное высшее образование",
+    "education": [
+        {
+            "year": 2023,
+            "name": "Innopolis University",
+            "faculty, speciality": "Computer since, Computer since"
+        }
+    ],
+    "courses": [],
+    "certificates": [],
+    "language": [
+        {
+            "name": "Русский",
+            "level": "Родной"
+        },
+        {
+            "name": "Английский",
+            "level": "B2 - Средне-продвинутый"
+        }
+    ],
+    "experience": [
+        {
+            "start": "01-11-2020",
+            "end": null,
+            "company": "Schwarzthal tech",
+            "position": "Программист Python",
+            "description": "Работа с фреймворком Scrapy.\nНаписание быстро-работающих парсеров. Правки и улучшения существующих парсеров."
+        },
+        {
+            "start": "01-03-2019",
+            "end": "01-11-2020",
+            "company": "Индивидуальное предпринимательство / частная практика / фриланс",
+            "position": "Программист Python",
+            "description": "Разработка парсеров. \nРазработка асинхронных телеграм ботов, подключение оплаты, базы данных, работа с API и разными модулями python."
+        }
+    ],
+    "skill_set": [
+        "Python",
+        "Git",
+        "PostgreSQL",
+        "Java",
+        "MongoDB",
+        "Django Framework",
+        "Linux",
+        "ООП",
+        "Scrapy",
+        "Коммуникабельность",
+        "Ответственность"
+    ],
+    "skills": "Работаю с языком Python с начала 2019 года.\n\nТекущий стэк технологий: Scrapy, Django, aiogram, asyncio, aiohttp, Postgresql(Gino), selenium, BeautifulSoup, requests, MongoDB, Docker, Docker-Compose, Git, Git-Hub\n\nДва месяца опыта работы с языком Java.\nСтэк технологий: Postgresql, Spring, Apache POI, REST API\n\nОпыт работы с языком C++ 2014-2019 год.\nЗанимался спортивным программированием.\n\nЕсть опыт работы по методологии agile.\nЗнание как сложных, так и простых алгоритмов, умение искать нужную информацию и быстрая обучаемость. ",
+    "recommendations": [
+        {}
+    ],
+    "attestation": [],
+    "dop_info": [
+        {
+            "dop 1": "Гражданство: Казахстан, Россия",
+            "dop 2": "Разрешение на работу: Россия",
+            "dop 3": "Желательное время в пути до работы: Не более часа"
+        }
+    ],
+    "portfolio": {},
+    "resume_id": "be12ee120008a4225a0039ed1f364278713463",
+    "folder": "python18-25"
+}

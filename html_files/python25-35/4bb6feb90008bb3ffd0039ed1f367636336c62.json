@@ -1,0 +1,89 @@
+{
+    "birth_date": "22 августа 1990",
+    "gender": "Мужчина",
+    "area": "Москва",
+    "phone": "",
+    "email": "",
+    "metro": "",
+    "prava": [
+        {
+            "prava1": "Права категории B"
+        }
+    ],
+    "title": "Разработчик Telegram-ботов",
+    "specialization": [
+        {
+            "name": "Программирование, Разработка",
+            "profarea_name": "Информационные технологии, интернет, телеком"
+        },
+        {
+            "name": "Консалтинг, Аутсорсинг",
+            "profarea_name": "Информационные технологии, интернет, телеком"
+        },
+        {
+            "name": "Системный администратор",
+            "profarea_name": "Информационные технологии, интернет, телеком"
+        }
+    ],
+    "salary": {
+        "amount": null,
+        "currency": null
+    },
+    "education_level": "Образование",
+    "education": [],
+    "courses": [],
+    "certificates": [],
+    "language": [
+        {
+            "name": "Русский",
+            "level": "Родной"
+        },
+        {
+            "name": "Английский",
+            "level": "C2 - В совершенстве"
+        }
+    ],
+    "experience": [
+        {
+            "start": "01-11-2017",
+            "end": null,
+            "company": "Индивидуальное предпринимательство / частная практика / фриланс",
+            "position": "Программист Python",
+            "description": "Работа с Telegram Bot API, написание рабочего кода для ботов на telebot, разработка ботов по ТЗ клиентов (подробности лично), потенциально включение алгоритмов машинного обучения (TensorFlow, Keras) в код ботов при адекватном техническом оснащении со стороны клиента"
+        }
+    ],
+    "skill_set": [
+        "Python",
+        "Python 3",
+        "HTML5",
+        "JS",
+        "CSS3",
+        "Objective C",
+        "Swift",
+        "C++",
+        "TensorFlow",
+        "Keras",
+        "Greylog",
+        "Elasticsearch",
+        "Docker",
+        "Ubuntu Server",
+        "Microsoft Server",
+        "Azure",
+        "AWS"
+    ],
+    "skills": "",
+    "recommendations": [
+        {}
+    ],
+    "attestation": [],
+    "dop_info": [
+        {
+            "dop 1": "Гражданство: Россия",
+            "dop 2": "Разрешение на работу: Россия",
+            "dop 3": "Желательное время в пути до работы: Не имеет значения"
+        }
+    ],
+    "portfolio": {},
+    "resume_id": "4bb6feb90008bb3ffd0039ed1f367636336c62",
+    "folder": "python25-35"
+}

@@ -1,0 +1,154 @@
+{
+    "birth_date": "3 мая 1989",
+    "gender": "Мужчина",
+    "area": "Москва",
+    "phone": "",
+    "email": "",
+    "metro": "",
+    "prava": [],
+    "title": "Python Developer / Data Engineer",
+    "specialization": [
+        {
+            "name": "Программирование, Разработка",
+            "profarea_name": "Информационные технологии, интернет, телеком"
+        }
+    ],
+    "salary": {
+        "amount": null,
+        "currency": null
+    },
+    "education_level": "Высшее образование",
+    "education": [
+        {
+            "year": 2015,
+            "name": "Калининградский институт управления, Калининград",
+            "faculty, speciality": "Менеджмент, Менеджмент организации"
+        },
+        {
+            "year": 2011,
+            "name": "Балтийский федеральный университет им. И. Канта, Калининград",
+            "faculty, speciality": "Математический, Прикладная математика и информатика"
+        }
+    ],
+    "courses": [
+        {
+            "year": "2021",
+            "institution": "Bioinformatics Institute",
+            "organization + specialization": "Stepik, Введение в Linux"
+        },
+        {
+            "year": "2021",
+            "institution": "ВШЭ & Computer Science Center",
+            "organization + specialization": "Stepik, Введение в базы данных"
+        },
+        {
+            "year": "2020",
+            "institution": "Bioinformatics Institute",
+            "organization + specialization": "Stepik, Программирование на Python"
+        },
+        {
+            "year": "2020",
+            "institution": "Bioinformatics Institute",
+            "organization + specialization": "Stepik, Основы и применение Python"
+        },
+        {
+            "year": "2020",
+            "institution": "МФТИ & MAIL.RU",
+            "organization + specialization": "Coursera, Погружение в Python"
+        },
+        {
+            "year": "2020",
+            "institution": "МФТИ & MAIL.RU",
+            "organization + specialization": "Coursera, Разработка WEB-сервисов на Python"
+        }
+    ],
+    "certificates": [],
+    "language": [
+        {
+            "name": "Русский",
+            "level": "Родной"
+        },
+        {
+            "name": "Английский",
+            "level": "B1 - Средний"
+        }
+    ],
+    "experience": [
+        {
+            "start": "01-02-2017",
+            "end": null,
+            "company": "АО \"Янтарьэнерго\"",
+            "position": "Инженер информационно-аналитической службы",
+            "description": "- Администрирование сервера ВКС;\n- Взаимодействие с сотрудниками других организаций и структурных подразделений в рамках подготовки и настройки системы для проведения сеансов;\n- Проведение профилактических работ с оборудованием для поддержания работоспособности.\n- Ведение журналов и отчетности по проведенным мероприятиям."
+        },
+        {
+            "start": "01-04-2014",
+            "end": "01-02-2017",
+            "company": "Системные технологии",
+            "position": "Специалист отдела внедрений",
+            "description": "- установка, настройка ПО для автоматического обмена данными между учетной системой заказчика(дистрибьютора) и базой данных центрального офиса производителя (службы репликации, модуль интеграции с учетной системой)\n- организация, проведение обучения пользователей работе с мобильной(ST-Мобильная Торговля) и офисной частью комплекса(ST-Чикаго)\n- поддержка работы системы/пользователей на этапе опытной эксплуатации\n- работа с базой SQL, XML файлами\n- сверка данных по отчетам из учетной системы дистрибьютора и БД Чикаго(Excel), поиск и устранение расхождений\n- выездные внедрения по России\n- ведение переговоров и решение вопросов с ЦО заказчика, дистрибьютором, техническим руководителем проекта, интегратором\n- заполнение данных по клиентам в CRM\n- регрессионное тестирование новых билдов ST-Мобильная Торговля и ST-Чикаго"
+        }
+    ],
+    "skill_set": [
+        "Python",
+        "PostgreSQL",
+        "Git",
+        "Linux",
+        "Flask",
+        "HTML",
+        "CSS",
+        "SQL",
+        "Beautifulsoup4"
+    ],
+    "skills": "В данный момент разрабатываю pet-project \"aggrejob\" - веб-сервис для агрегации вакансий из различных источников, последующей их выдачи с расчетом релевантности на основании введенных пользователем данных.\nВ проекте использую Flask, Postgres,  SQLalchemy, Headhunter API, JavaScript. \nhttps://github.com/radomir89i/aggrejob",
+    "recommendations": [
+        {}
+    ],
+    "attestation": [
+        {
+            "year": "2021",
+            "institution": "Bioinformatics Institute",
+            "organization_specialization": "Stepik, Введение в Linux"
+        },
+        {
+            "year": "2021",
+            "institution": "Bioinformatics Institute",
+            "organization_specialization": "Stepik, Введение в Linux"
+        },
+        {
+            "year": "2021",
+            "institution": "ВШЭ & Computer Science Center",
+            "organization_specialization": "Stepik, Введение в базы данных"
+        },
+        {
+            "year": "2020",
+            "institution": "Bioinformatics Institute",
+            "organization_specialization": "Stepik, Программирование на Python"
+        },
+        {
+            "year": "2020",
+            "institution": "Bioinformatics Institute",
+            "organization_specialization": "Stepik, Основы и применение Python"
+        },
+        {
+            "year": "2020",
+            "institution": "МФТИ & MAIL.RU",
+            "organization_specialization": "Coursera, Погружение в Python"
+        },
+        {
+            "year": "2020",
+            "institution": "МФТИ & MAIL.ru",
+            "organization_specialization": "Coursera, Разработка WEB-сервисов на Python"
+        }
+    ],
+    "dop_info": [
+        {
+            "dop 1": "Гражданство: Россия",
+            "dop 2": "Разрешение на работу: Россия",
+            "dop 3": "Желательное время в пути до работы: Не имеет значения"
+        }
+    ],
+    "portfolio": {},
+    "resume_id": "ecd569b500084d0b400039ed1f515a4f703968",
+    "folder": "python_more_6_expierence"
+}

@@ -1,0 +1,112 @@
+{
+    "birth_date": "23 July 1996",
+    "gender": "Male",
+    "area": "Moscow",
+    "phone": "",
+    "email": "",
+    "metro": "",
+    "prava": [],
+    "title": "Junior Python developer",
+    "specialization": [
+        {
+            "name": "IT, Internet, Multimedia",
+            "profarea_name": "Career Starters, Students"
+        }
+    ],
+    "salary": {
+        "amount": null,
+        "currency": null
+    },
+    "education_level": "Higher education",
+    "education": [
+        {
+            "year": 2014,
+            "name": "Украинская инженерно-педагогическая академия, Харьков",
+            "faculty, speciality": "Автоматизация, Автоматизация и управление"
+        }
+    ],
+    "courses": [
+        {
+            "year": "2021",
+            "institution": "School 21",
+            "organization + specialization": "Sberbank, Piscine "
+        },
+        {
+            "year": "2020",
+            "institution": "Hexlet",
+            "organization + specialization": "Hexlet, Python programmer"
+        },
+        {
+            "year": "2020",
+            "institution": "HTML Academy",
+            "organization + specialization": "HTML Academy, Front-End Developer"
+        },
+        {
+            "year": "2020",
+            "institution": "Санкт-Петербургский Политехнический Университет Петра Великого",
+            "organization + specialization": "Санкт-Петербургский Политехнический Университет Петра Великого, Python"
+        },
+        {
+            "year": "2019",
+            "institution": "Python ",
+            "organization + specialization": "Level-UP, Python programmer "
+        }
+    ],
+    "certificates": [],
+    "language": [
+        {
+            "name": "Russian",
+            "level": "Native"
+        },
+        {
+            "name": "English",
+            "level": "B2 - Upper Intermediate"
+        },
+        {
+            "name": "Ukrainian",
+            "level": "C2 - Proficiency"
+        }
+    ],
+    "experience": [],
+    "skill_set": [
+        "Слепая печать",
+        "Деловая коммуникация",
+        "Навыки презентации",
+        "Навыки межличностного общения",
+        "Высокая скорость печати",
+        "Публичные выступления",
+        "Аналитическое мышление",
+        "Аттестация персонала",
+        "Адаптация персонала",
+        "Обучение персонала",
+        "Python",
+        "Пользователь ПК",
+        "Базы данных",
+        "HTML",
+        "Английский язык",
+        "Деловое общение",
+        "Работа в команде",
+        "Грамотная речь",
+        "JavaScript",
+        "CSS",
+        "Git",
+        "Linux",
+        "SQL",
+        "Django Framework"
+    ],
+    "skills": "Технический стек знаний :\nPython 3.6 + \nSQL\nGit\nHTML\nCSS\nJS\nDjango\n\nПрошел бассейн в школе 21 в Москве на языке С. Изучаю Python более года. Ежедневно решаю задачи на Leetcode. Опыт использования Unix подобных систем на уровне продвинутого пользователя. Живой опыт использования английского языка на протяжении 3-х лет с носителями.  Развитые soft-skills как следствие работы в ресторанной сфере. \nЛегкий в общении, социальный, трудолюбивый. Хобби - спортзал, танцы, путешествия. \n\nПри возможности, было бы здорово получить обратную связь в случае отказа, чтоб я более детально понимал свои минусы и работал над ними. Заранее огромное спасибо!\n\n\nGitHub: https://github.com/sweardial\n\n\nCompleted Piscine at School 21 in Moscow using the C programming language. I've been studying Python for more than a year. I daily write algorithms on Leetcode. I have three years of experience using English in a professional setting with native speakers. I have well-developed soft skills, as I worked in the service industry, in relation to that I am also skilled at finding common ground with people.\nI am easy to talk to, sociably, and hardworking. My hobbies include: lifting weights, dancing and traveling.",
+    "recommendations": [
+        {}
+    ],
+    "attestation": [],
+    "dop_info": [
+        {
+            "dop 1": "Citizenship: Russia, Ukraine",
+            "dop 2": "Permission to work: Russia",
+            "dop 3": "Desired travel time to work: Up to 90 minutes"
+        }
+    ],
+    "portfolio": {},
+    "resume_id": "441cf41800076183e30039ed1f4e7057613256",
+    "folder": "python18-25"
+}

@@ -1,0 +1,113 @@
+{
+    "birth_date": "7 августа 2000",
+    "gender": "Мужчина",
+    "area": "Москва",
+    "phone": "",
+    "email": "",
+    "metro": "м. Юго-Восточная",
+    "prava": [
+        {
+            "prava1": "Права категории B"
+        }
+    ],
+    "title": "Стажер-разработчик Python",
+    "specialization": [
+        {
+            "name": "Информационные технологии, Интернет, Мультимедиа",
+            "profarea_name": "Начало карьеры, студенты"
+        },
+        {
+            "name": "Производство, Технологии",
+            "profarea_name": "Начало карьеры, студенты"
+        },
+        {
+            "name": "Финансы, Банки, Инвестиции",
+            "profarea_name": "Начало карьеры, студенты"
+        }
+    ],
+    "salary": {
+        "amount": 40000,
+        "currency": "руб."
+    },
+    "education_level": "Неоконченное высшее образование",
+    "education": [
+        {
+            "year": 2022,
+            "name": "Московский авиационный институт (национальный исследовательский университет), Москва",
+            "faculty, speciality": "Системы управления, информатика и электроэнергетика, Программная инженерия"
+        }
+    ],
+    "courses": [
+        {
+            "year": "2021",
+            "institution": "ODS Russia",
+            "organization + specialization": "ODS Russia, Mail.ru Group, Data Science"
+        },
+        {
+            "year": "2020",
+            "institution": "НГУ",
+            "organization + specialization": "НГУ, ODS Russia, Deep learning"
+        }
+    ],
+    "certificates": [],
+    "language": [
+        {
+            "name": "Русский",
+            "level": "Родной"
+        },
+        {
+            "name": "Английский",
+            "level": "B1 - Средний"
+        }
+    ],
+    "experience": [
+        {
+            "start": "01-11-2020",
+            "end": null,
+            "company": "Школа программирования Kodland",
+            "position": "Преподаватель курса \"Python\"",
+            "description": "Проведение вебинаров по курсу \"Python\", проверка домашних заданий, работа с учениками"
+        }
+    ],
+    "skill_set": [
+        "Python",
+        "C++",
+        "Oracle Pl/SQL",
+        "Data Analysis",
+        "Machine learning",
+        "Git",
+        "PyTorch",
+        "Django Framework"
+    ],
+    "skills": "На данный момент обучаюсь на 3 курсе в Московском авиационном институте по специальности \"Программная инженерия\". Владею языком программирования Python (его применение в анализе данных, а также backend-разработки), однако готов развиваться и в других направлениях. Готов уделять работе/стажировке 40 часов в неделю с гибким графиком.\n\nПолное резюме находится по ссылке - https://drive.google.com/file/d/1XAdfOXO3sBLUxR3WNJnXVUSOpKoRa_79/view?usp=sharing",
+    "recommendations": [
+        {}
+    ],
+    "attestation": [
+        {
+            "year": "2020",
+            "institution": "Coursera",
+            "organization_specialization": "Coursera, Математика и Python для анализа данных"
+        },
+        {
+            "year": "2020",
+            "institution": "Coursera",
+            "organization_specialization": "Coursera, Математика и Python для анализа данных"
+        },
+        {
+            "year": "2020",
+            "institution": "Coursera",
+            "organization_specialization": "Coursera, Введение в машинное обучение"
+        }
+    ],
+    "dop_info": [
+        {
+            "dop 1": "Гражданство: Россия",
+            "dop 2": "Разрешение на работу: Россия",
+            "dop 3": "Желательное время в пути до работы: Не имеет значения"
+        }
+    ],
+    "portfolio": {},
+    "resume_id": "eb9cbc7500080778810039ed1f386d52693159",
+    "folder": "python18-25"
+}

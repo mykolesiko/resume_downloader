@@ -1,0 +1,134 @@
+{
+    "birth_date": "27 февраля 1990",
+    "gender": "Мужчина",
+    "area": "Москва",
+    "phone": "",
+    "email": "",
+    "metro": "м. Селигерская",
+    "prava": [
+        {
+            "prava1": "Права категории B"
+        }
+    ],
+    "title": "Junior python разработчик",
+    "specialization": [
+        {
+            "name": "Программирование, Разработка",
+            "profarea_name": "Информационные технологии, интернет, телеком"
+        },
+        {
+            "name": "Web инженер",
+            "profarea_name": "Информационные технологии, интернет, телеком"
+        }
+    ],
+    "salary": {
+        "amount": null,
+        "currency": null
+    },
+    "education_level": "Высшее образование",
+    "education": [
+        {
+            "year": 2012,
+            "name": "Московский государственный университет печати им. И. Федорова, Москва",
+            "faculty, speciality": "информационные системы и технологии, информационные технологии в медиаиндустрии"
+        }
+    ],
+    "courses": [
+        {
+            "year": "2021",
+            "institution": " Python - разработчик",
+            "organization + specialization": "GeekBrains"
+        }
+    ],
+    "certificates": [],
+    "language": [
+        {
+            "name": "Русский",
+            "level": "Родной"
+        },
+        {
+            "name": "Английский",
+            "level": "B2 - Средне-продвинутый"
+        }
+    ],
+    "experience": [
+        {
+            "start": "01-09-2020",
+            "end": null,
+            "company": "GeekBrains по направлению Python-разработчик",
+            "position": "Python-разработчик",
+            "description": "- Python (функциональное и объектно-ориентированное программирование)\n- разработка веб приложения с использованием Django\n- работа с ORM\n- знаний сторонних Python библиотек (request, selenium, scrapy);\n- разработка БД на MYSQL;\n- работа с системой контроля версий GIT;\n- работа с Unix-системами;\n- Адаптивная вёрстка сайтов с использованием HTML5 и CSS3\n"
+        },
+        {
+            "start": "01-05-2015",
+            "end": "01-06-2020",
+            "company": "Wall Street English",
+            "position": "Супервайзер по продажам",
+            "description": "• Оценка качества работы каждого сотрудника отдела;\n• Организация учебного процесса, знакомство новых сотрудников с политикой предприятия;\n• Осуществление продаж, заключение и ведение договоров с физическими и юридическими лицами на всех этапах;\n• Составление отчетности перед начальством;"
+        }
+    ],
+    "skill_set": [
+        "Python",
+        "Git",
+        "MySQL",
+        "Linux",
+        "Работа в команде",
+        "Английский язык"
+    ],
+    "skills": "Стек:\n• Python \n• Sql\n• Git\n• Linux\n\nПримеры кода:\n https://github.com/iamkirillnb\n\nПримеры проектов:\n- парсинг сайта wildberries ( сохранение в файл json определенных полей из товаров) \nhttps://github.com/iamkirillnb/scrapy_parser\n-парсинг новостной ленты vkontakte (выгрузка названия группы и даты публикации с описанием в excel и сохранение картинки с именем, которое совпадает со строкой новости в excel)\nhttps://github.com/iamkirillnb/vk_wall_parser_selenium\n- api на django rest framework- сервис по созданию короткой ссылки, и обработка ее активности. (аналог bitly)\nhttps://github.com/iamkirillnb/short_link\n- парсинг hh.ru (выгрузка топ 7 компаний по количеству вакансий в \"name\" отрасли за 'n' период времени\nhttps://github.com/iamkirillnb/pars_hh",
+    "recommendations": [
+        {}
+    ],
+    "attestation": [
+        {
+            "year": "2021",
+            "institution": "GeekBrains",
+            "organization_specialization": "GeekBrains, SQL"
+        },
+        {
+            "year": "2021",
+            "institution": "GeekBrains",
+            "organization_specialization": "GeekBrains, SQL"
+        },
+        {
+            "year": "2020",
+            "institution": "Stepik",
+            "organization_specialization": "Благотворительный фонд \"Айкью Опшн\", Python для начинающих"
+        },
+        {
+            "year": "2020",
+            "institution": "Stepik",
+            "organization_specialization": "Bioinformatics Institute, Программирование на Python"
+        },
+        {
+            "year": "2020",
+            "institution": "Stepik",
+            "organization_specialization": "Bioinformatics Institute, Python: основы и применение"
+        },
+        {
+            "year": "2020",
+            "institution": "GeekBrains",
+            "organization_specialization": "GeekBrains, Python основы"
+        },
+        {
+            "year": "2020",
+            "institution": "GeekBrains",
+            "organization_specialization": "GeekBrains, Linux. Рабочая станция."
+        },
+        {
+            "year": "2020",
+            "institution": "GeekBrains",
+            "organization_specialization": "GeekBrains, Git"
+        }
+    ],
+    "dop_info": [
+        {
+            "dop 1": "Гражданство: Россия",
+            "dop 2": "Разрешение на работу: Россия",
+            "dop 3": "Желательное время в пути до работы: Не имеет значения"
+        }
+    ],
+    "portfolio": {},
+    "resume_id": "3d11c83100080eb65e0039ed1f38506c6e7633",
+    "folder": "python25-35"
+}

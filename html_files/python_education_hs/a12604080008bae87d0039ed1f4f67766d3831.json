@@ -1,0 +1,88 @@
+{
+    "birth_date": "22 апреля 1998",
+    "gender": "Мужчина",
+    "area": "Москва",
+    "phone": "",
+    "email": "",
+    "metro": "",
+    "prava": [],
+    "title": "Junior Python Developer",
+    "specialization": [
+        {
+            "name": "Информационные технологии, Интернет, Мультимедиа",
+            "profarea_name": "Начало карьеры, студенты"
+        }
+    ],
+    "salary": {
+        "amount": 50000,
+        "currency": "руб."
+    },
+    "education_level": "Высшее образование (Бакалавр)",
+    "education": [
+        {
+            "year": 2022,
+            "name": "Московский государственный технологический университет \"Станкин\", Москва",
+            "faculty, speciality": "Институт информационных систем и технологий, Информатика и вычислительная техника, магистр"
+        },
+        {
+            "year": 2020,
+            "name": "Московский государственный технологический университет \"Станкин\", Москва",
+            "faculty, speciality": "Институт информационных систем и технологий, Информатика и вычислительная техника, бакалавр"
+        }
+    ],
+    "courses": [],
+    "certificates": [],
+    "language": [
+        {
+            "name": "Русский",
+            "level": "Родной"
+        },
+        {
+            "name": "Английский",
+            "level": "B1 - Средний"
+        }
+    ],
+    "experience": [],
+    "skill_set": [
+        "Обучаемость",
+        "Python",
+        "C/C++",
+        "C#",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Linux",
+        "ООП",
+        "SQL",
+        "Git",
+        "TensorFlow",
+        "Matplotlib",
+        "Pandas",
+        "SymPy",
+        "NumPy",
+        "SciPy",
+        "Plotly",
+        "OpenCV",
+        "PyTest",
+        "Django Rest Framework",
+        "Django Framework",
+        "Математическое моделирование",
+        "Математическая статистика",
+        "UML"
+    ],
+    "skills": "В последние годы я проходил обучение без возможности работать.\n\nВ качестве дипломного проекта разрабатывают Telegram bota для распознавания математических вырежений и построения графиков. Стек технологий OpenCV, TensorFlow, Pandas, Matplotlib, SymPy, NumPy, Telegram bot API\n\nЕсть опыт разработки десктопных приложений на Python с использованием PyQt (SQL, TCP socket)\n\nЕсть опыт в визуализации данных с помощью Plotly, Matplotlib\n\nЕсть опыт создание Django API используя Django Rest Framework\n\n",
+    "recommendations": [
+        {}
+    ],
+    "attestation": [],
+    "dop_info": [
+        {
+            "dop 1": "Гражданство: Россия",
+            "dop 2": "Разрешение на работу: Россия",
+            "dop 3": "Желательное время в пути до работы: Не имеет значения"
+        }
+    ],
+    "portfolio": {},
+    "resume_id": "a12604080008bae87d0039ed1f4f67766d3831",
+    "folder": "python_education_hs"
+}

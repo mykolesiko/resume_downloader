@@ -1,0 +1,125 @@
+{
+    "birth_date": null,
+    "gender": "Мужчина",
+    "area": "Москва",
+    "phone": "",
+    "email": "",
+    "metro": "",
+    "prava": [],
+    "title": "Python Developer(Разработчик)",
+    "specialization": [
+        {
+            "name": "Программирование, Разработка",
+            "profarea_name": "Информационные технологии, интернет, телеком"
+        },
+        {
+            "name": "Аналитик",
+            "profarea_name": "Информационные технологии, интернет, телеком"
+        },
+        {
+            "name": "Стартапы",
+            "profarea_name": "Информационные технологии, интернет, телеком"
+        }
+    ],
+    "salary": {
+        "amount": null,
+        "currency": null
+    },
+    "education_level": "Высшее образование (Бакалавр)",
+    "education": [
+        {
+            "year": 2018,
+            "name": "Московский государственный технический университет им. Н.Э. Баумана, Москва",
+            "faculty, speciality": "Факультет инженерного бизнеса и менеджмента, Управление финансовыми потоками на основе информационных технологий "
+        }
+    ],
+    "courses": [
+        {
+            "year": "2020",
+            "institution": "Нетология",
+            "organization + specialization": "ООО \"ЦОО Нетология-групп\", Deep Learning"
+        }
+    ],
+    "certificates": [],
+    "language": [
+        {
+            "name": "Русский",
+            "level": "Родной"
+        },
+        {
+            "name": "Английский",
+            "level": "B2 - Средне-продвинутый"
+        }
+    ],
+    "experience": [
+        {
+            "start": "01-01-2020",
+            "end": "01-01-2021",
+            "company": "Генотек",
+            "position": "Программист-разработчик",
+            "description": "- Поддержка существующего продукта. Портирование некоторой вычислительной части продукта на бессерверную среду выполнения.\n- Создание архитектуры хранения результатов тестов(Clickhouse, MongoDB).\n- Бэкенд для генеалогических деревьев(https://blog.genotek.ru/genealogical-tree + CI/CD"
+        },
+        {
+            "start": "01-03-2019",
+            "end": "01-12-2019",
+            "company": "ООО \"Ренессанс Брокер\"",
+            "position": "Специалист по IT - разработчик Python",
+            "description": "Создание инструментов для работы с FIX протоколом;\nПоддержка ПО(Quik, Tbricks);\nРабота с продуктами elastic.co(elasticsearch, kibana, etc);\nDocker(dockerfile, docker-compose, упаковка в образы, использование образов с hub)\nFlask, Dash by Plotly, Django"
+        },
+        {
+            "start": "01-10-2018",
+            "end": "01-12-2018",
+            "company": "Мобильные ТелеСистемы (МТС)",
+            "position": "Программист Python",
+            "description": "Работа с Hive, Teradata, Hadoop, Spark. Разработка архитектуры web-интерфейса(Django) для мониторинга работы кластеров и распределения данных."
+        },
+        {
+            "start": "01-11-2017",
+            "end": "01-10-2018",
+            "company": "Индивидуальное предпринимательство / частная практика / фриланс",
+            "position": "Фриланс",
+            "description": "Временный проект: модерация сайта, работа с административной частью, верстка.\n\nСайт: https://drive-on.ru/\n\nВременный проект: Модерация сайта рекламной компании \"Доктор МОМ\", тестирование.\n\nСайт: https://lechilki.doktormom.ru/ (закрыт)"
+        },
+        {
+            "start": "01-09-2016",
+            "end": "01-05-2017",
+            "company": "Инфортрейдинг",
+            "position": "Программист-разработчик",
+            "description": "Разработка и реализация алгоритмических торговых стратегий."
+        }
+    ],
+    "skill_set": [
+        "Python",
+        "Django Framework",
+        "Git",
+        "JavaScript",
+        "pandas",
+        "NumPy",
+        "SQL",
+        "Веб-программирование",
+        "Linux",
+        "Docker",
+        "Elasticsearch",
+        "MongoDB",
+        "VueJS",
+        "Тестирование",
+        "TDD",
+        "Pytorch",
+        "ClickHouse"
+    ],
+    "skills": "В свободное время я выращиваю свои pet-projects.\n\nBackend: \n- Django\n- Flask\n- PostgreSQL, MySQL,  ClickHouse\n- NoSQL(Elasticsearch, Mongodb)\n- TDD(тесты)\n\nFrontend:\n- HTML/CSS/JS\n- VueJS\n\nDevOps:\n- Docker\n\nData Science:\n- pandas\n- закончил курс по DeepLearning от Нетологии",
+    "recommendations": [
+        {}
+    ],
+    "attestation": [],
+    "dop_info": [
+        {
+            "dop 1": "Гражданство: Россия",
+            "dop 2": "Разрешение на работу: Россия",
+            "dop 3": "Желательное время в пути до работы: Не более часа"
+        }
+    ],
+    "portfolio": {},
+    "resume_id": "506ff7d500040d3a4b0039ed1f35497a7a5a52",
+    "folder": "python35-45"
+}

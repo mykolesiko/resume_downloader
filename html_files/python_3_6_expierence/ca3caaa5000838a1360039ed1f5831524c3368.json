@@ -1,0 +1,131 @@
+{
+    "birth_date": "22 января 1992",
+    "gender": "Мужчина",
+    "area": "Москва",
+    "phone": "",
+    "email": "",
+    "metro": "",
+    "prava": [
+        {
+            "prava1": "Имеется собственный автомобильПрава категории B",
+            "prava2": "Имеется собственный автомобиль"
+        }
+    ],
+    "title": "IOS разработчик",
+    "specialization": [
+        {
+            "name": "Программирование, Разработка",
+            "profarea_name": "Информационные технологии, интернет, телеком"
+        }
+    ],
+    "salary": {
+        "amount": null,
+        "currency": null
+    },
+    "education_level": "Высшее образование",
+    "education": [
+        {
+            "year": 2013,
+            "name": "Московский государственный университет им. М.В. Ломоносова, Москва",
+            "faculty, speciality": "Юридический, Гражданско-правовая"
+        }
+    ],
+    "courses": [
+        {
+            "year": "2020",
+            "institution": "udemy.com",
+            "organization + specialization": "Dr. Angela Yu, iOS 13 & Swift 5 - The Complete iOS App Development Bootcamp (https://www.udemy.com/course/ios-13-app-development-bootcamp/)"
+        },
+        {
+            "year": "2020",
+            "institution": "udemy.com",
+            "organization + specialization": "Jose Portilla, 2020 Complete Python Bootcamp: From Zero to Hero in Python (https://www.udemy.com/course/complete-python-bootcamp/)"
+        },
+        {
+            "year": "2020",
+            "institution": "udemy.com",
+            "organization + specialization": "Jose Portilla  (https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/), Python for Data Science and Machine Learning Bootcamp"
+        },
+        {
+            "year": "2020",
+            "institution": "udemy.com",
+            "organization + specialization": "Mohammad Azam, Mastering RxSwift in iOS "
+        },
+        {
+            "year": "2019",
+            "institution": "udemy.com",
+            "organization + specialization": "Иван Петриченко, WEB-разработчик 2020 (https://www.udemy.com/course/webdeveloper/)"
+        },
+        {
+            "year": "2019",
+            "institution": "udemy.com",
+            "organization + specialization": "Иван Петриченко, Полный курс по JavaScript + React - с нуля до результата (https://www.udemy.com/course/javascript_full/)"
+        }
+    ],
+    "certificates": [],
+    "language": [
+        {
+            "name": "Русский",
+            "level": "Родной"
+        },
+        {
+            "name": "Английский",
+            "level": "B2 - Средне-продвинутый"
+        }
+    ],
+    "experience": [
+        {
+            "start": "01-06-2020",
+            "end": "01-02-2021",
+            "company": "Registrator",
+            "position": "IOS разработчик",
+            "description": "Разработка мобильного приложения \"Registrator - Документы для ИП\" с нуля и публикация его в AppStore. \nСсылка на приложение в AppStore:\nhttps://apps.apple.com/ru/app/registrator-%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%B8%D0%BF/id1537879826"
+        },
+        {
+            "start": "01-01-2020",
+            "end": "01-06-2020",
+            "company": "TimePlaner",
+            "position": "IOS разработчик",
+            "description": "Разработка мобильного приложения TimePlaner и публикация его в AppStore. \nСсылка на приложение в AppStore: https://apps.apple.com/ru/app/timeplaner/id1515743894"
+        },
+        {
+            "start": "01-08-2015",
+            "end": "01-05-2019",
+            "company": "ООО \"СП ГРУПП\"",
+            "position": "Старший юрист",
+            "description": "Ведение судебной и претенциозной работы, составление договоров, подготовка корпоративных документов, консультирование клиентов компании по вопросам текущей деятельности. За время работы в компании провел более 100 судебных процессов в судах всех уровней более чем в 10 субъектах РФ. "
+        }
+    ],
+    "skill_set": [
+        "iOS",
+        "Git",
+        "HTML",
+        "JavaScript",
+        "CSS",
+        "Python",
+        "ООП",
+        "SWIFT",
+        "Machine Learning",
+        "SOLID",
+        "Firebase",
+        "Realm",
+        "CoreData",
+        "CocoaPods",
+        "RxSwift"
+    ],
+    "skills": "",
+    "recommendations": [
+        {}
+    ],
+    "attestation": [],
+    "dop_info": [
+        {
+            "dop 1": "Гражданство: Россия",
+            "dop 2": "Разрешение на работу: Россия",
+            "dop 3": "Желательное время в пути до работы: Не имеет значения"
+        }
+    ],
+    "portfolio": {},
+    "resume_id": "ca3caaa5000838a1360039ed1f5831524c3368",
+    "folder": "python_3_6_expierence"
+}

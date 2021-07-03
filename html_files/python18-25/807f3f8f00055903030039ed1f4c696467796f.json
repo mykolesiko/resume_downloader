@@ -1,0 +1,125 @@
+{
+    "birth_date": "10 June 1998",
+    "gender": "Male",
+    "area": "Moscow",
+    "phone": "",
+    "email": "",
+    "metro": "",
+    "prava": [],
+    "title": "Programmer",
+    "specialization": [
+        {
+            "name": "Software Development",
+            "profarea_name": "IT, Internet, Telecom"
+        },
+        {
+            "name": "Engineer",
+            "profarea_name": "IT, Internet, Telecom"
+        }
+    ],
+    "salary": {
+        "amount": null,
+        "currency": null
+    },
+    "education_level": "Higher education (bachelor)",
+    "education": [
+        {
+            "year": 2020,
+            "name": "East Ukrainian National University named after V. Dahl, Lugansk",
+            "faculty, speciality": "Computer Systems and Technologies, Software Engineering"
+        }
+    ],
+    "courses": [],
+    "certificates": [],
+    "language": [
+        {
+            "name": "Russian",
+            "level": "Native"
+        },
+        {
+            "name": "English",
+            "level": "B2 - Upper Intermediate"
+        },
+        {
+            "name": "Ukrainian",
+            "level": "C2 - Proficiency"
+        }
+    ],
+    "experience": [
+        {
+            "start": "01-01-2020",
+            "end": null,
+            "company": "AppQuantum",
+            "position": "python/node js developer",
+            "description": "Results were achieved:\n    - Created a Docker container for the work of the analytical department, which includes the necessary technology stack for the work\n    - Airflow-a pipeline of processes is configured that provides for cases of reassembling the necessary tasks for the project, without affecting other projects.\n    - Added preliminary tasks for validating the received data. Depending on the validation result, the choice of the next task is made.\n    - The gradual abandonment of the raw data in favor of aggregated data. All dependent processes were moved to work with a new data format, which increased the speed of scripts in Airflow. \n    - Facebook Facebook marketing API. It was necessary to upload data from the Facebook marketing API for a variety of advertising cabinet. This upload must be performed every day for all accounts. Accounts must be automatically loaded from the Facebook API. The data is needed for the analytics team to optimize ads companies. \n    - Tableau BI. Creating dashboards for displaying current data on in-app purchases, displaying events in realtime, marketing reports\n    - Payment validation service. A service for validating in-app purchases made in partner apps. Validation is performed according to internal rules and is also checked against data from the AppStore and Google Store. Payment validation accuracy is 95%\n    - Force Update Service. A service for forcing an app update if the app version is lower than the required one. The service helped speed up the process of updating users to new versions of applications. \n\nTechnology stack: Python, Pandas, Nodejs, fastAPI, Docker, Drone, Tableau, Clickhouse, Postgres"
+        },
+        {
+            "start": "01-07-2018",
+            "end": "01-09-2020",
+            "company": "Sandbox Interactive",
+            "position": "Customer Support agent",
+            "description": "Worked with the Zendesk support system.\n\nMain responsibilities:\n- Help players with any questions about the game\n- Solving user problems due to in-game errors\n- Work with player complaints and transfer them to other departments"
+        },
+        {
+            "start": "01-07-2018",
+            "end": "01-09-2020",
+            "company": "Sandbox Interactive",
+            "position": "QA Tester",
+            "description": "Manual testing of bug reports that come from players on the live server.\n\nFull testing of new updates for already known bugs that were in previous versions of the game.\n\nDescription of the necessary steps to reproduce the error in development tasks."
+        },
+        {
+            "start": "01-04-2019",
+            "end": "01-05-2020",
+            "company": "Freelance",
+            "position": "C# Developer",
+            "description": "Main responsibilities:\n- Development of new game mechanics\n- Optimization of the game operation\n- Testing functionality\n\nStack: Unity3D, DOTween\n\nI worked on the development of the following modules: 3-in-a-row mechanics, in-game balance system, database management, class system, pvp and pve mode system"
+        },
+        {
+            "start": "01-08-2018",
+            "end": "01-05-2019",
+            "company": "Tauron Glyph",
+            "position": "C# Developer",
+            "description": "Main responsibilities:\n    - Development of new game mechanics\n    - Optimization of the game operation\n    - Testing the functionality\n    - Implementation of frameworks\n    - Adding new animations and models\n\nStack: Unity3D, A* Pathfinding, DOTween\n\nHe worked on the development of the following modules: the system of skills and character parameters, the combat system, the movement system, the change of time of day."
+        },
+        {
+            "start": "01-06-2017",
+            "end": "01-03-2019",
+            "company": "Upwork",
+            "position": "Full-Stack developer",
+            "description": "Engaged in the implementation of freelance orders.\nBasically, there were the following orders:\n    - Install, update, configure the CMS.\n    - Layout of the site according to the PSD template.\n    - Writing scripts to automate actions in games.\n    - Correction of errors in the operation of sites, optimization of the site.\n\nStack: php, js, css, AutoIT"
+        }
+    ],
+    "skill_set": [
+        "C#",
+        "Linux",
+        "Python",
+        "Unity",
+        "TDD",
+        "SOLID",
+        "Tableau",
+        "JavaScript",
+        "Docker",
+        "pandas",
+        "fastify",
+        "fastapi",
+        "Redis",
+        "PostgreSQL",
+        "Clickhouse",
+        "SQL"
+    ],
+    "skills": "Hey! \n\nI've been studying IT and coding from childhood. \n\nIf the project is interesting, I'll do my best to work even outside of working ours.\n\nWhen I have spare time, I'm learning new skills and upgrading current ones. \n\nAnd, of course, in order to relax I'm reading and traveling.",
+    "recommendations": [
+        {}
+    ],
+    "attestation": [],
+    "dop_info": [
+        {
+            "dop 1": "Citizenship: Ukraine",
+            "dop 2": "Permission to work: Ukraine",
+            "dop 3": "Desired travel time to work: Doesn't matter"
+        }
+    ],
+    "portfolio": {},
+    "resume_id": "807f3f8f00055903030039ed1f4c696467796f",
+    "folder": "python18-25"
+}

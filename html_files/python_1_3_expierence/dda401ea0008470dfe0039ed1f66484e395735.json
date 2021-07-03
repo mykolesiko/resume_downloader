@@ -1,0 +1,114 @@
+{
+    "birth_date": "19 июля 1997",
+    "gender": "Мужчина",
+    "area": "Москва",
+    "phone": "",
+    "email": "",
+    "metro": "м. Речной вокзал",
+    "prava": [
+        {
+            "prava1": "Права категории B"
+        }
+    ],
+    "title": "Разработчик VR/AR (Unity, C#/Python)",
+    "specialization": [
+        {
+            "name": "Игровое ПО",
+            "profarea_name": "Информационные технологии, интернет, телеком"
+        },
+        {
+            "name": "Программирование, Разработка",
+            "profarea_name": "Информационные технологии, интернет, телеком"
+        },
+        {
+            "name": "Стартапы",
+            "profarea_name": "Информационные технологии, интернет, телеком"
+        }
+    ],
+    "salary": {
+        "amount": null,
+        "currency": null
+    },
+    "education_level": "Высшее образование (Магистр)",
+    "education": [
+        {
+            "year": 2022,
+            "name": "Московский авиационный институт (национальный исследовательский университет), Москва",
+            "faculty, speciality": "Информационные технологии и прикладная математика, Фундаментальная информатика и информационные технологии"
+        },
+        {
+            "year": 2019,
+            "name": "Казанский национальный исследовательский технический университет им. А.Н. Туполева, Казань",
+            "faculty, speciality": "ИКТЗИ, Прикладная информатика"
+        }
+    ],
+    "courses": [],
+    "certificates": [],
+    "language": [
+        {
+            "name": "Русский",
+            "level": "Родной"
+        },
+        {
+            "name": "Английский",
+            "level": "B1 - Средний"
+        }
+    ],
+    "experience": [
+        {
+            "start": "01-03-2019",
+            "end": "01-06-2020",
+            "company": "NobilisTeam",
+            "position": "Младший разработчик (C#)",
+            "description": "1. Разработка UI (JavaScript, CSS, HTML, VS Code)\n2. Разработка бизнес-логики и интеграции (C#, LINQ, SQL, Visual Studio 2019, SoapUI, Postman).\n3. Разработка SQL-скриптов: запросы (простые и сложные), представления, хранимые процедуры (SQL, dbForge Studio, MS SQL Studio)"
+        },
+        {
+            "start": "01-07-2018",
+            "end": "01-07-2018",
+            "company": "АО «БАРС Груп»",
+            "position": "Программист-стажер",
+            "description": "Проходил 2-х недельную производственную практику в компании АО «БАРС Груп», г. Казань. \nРазработал SOAP сервис с использование WPF, WCF для работы с БД PostgreSQL. \nПолучил и улучшил навыки в применении технологий PostgreSQL, WPF, WCF, Git."
+        }
+    ],
+    "skill_set": [
+        "C#",
+        "SQL",
+        "ООП",
+        ".NET Core",
+        "JavaScript",
+        "Xamarin.Forms",
+        "ASP.NET",
+        ".NET Framework",
+        "MVC",
+        "MS Visual Studio",
+        "HTML",
+        "CSS",
+        "SVN",
+        "LINQ",
+        "Visual Studio Code",
+        "Atlassian Jira",
+        "Git",
+        "Java",
+        "Intellij IDEA",
+        "xUnit",
+        "Модульное тестирование",
+        "MVVM",
+        "Python",
+        "Unity"
+    ],
+    "skills": "Трудолюбивый, быстро обучаюсь, нравится познавать новое, за чистоту и красоту кода, нравится программировать на C# и Java.\nИмею самостоятельный опыт работы с:\n- Xamarin.Forms\n- Spring Framework\n- ASP.NET Core\n- Entity Framework\n- WCF\n- JavaScript\n- Jquery\n- CSS\n- Python\n- Selenium\n- Freemarker, Razor\n- Angular, Vue\n\nБольшое желание развиваться по направлениям:\n- VR/AR & AI (Unity/Blender/Unreal Engine)\n- Разработка игр\n- Разработка мобильных приложений\n- Web-разработка\n\nНа данный момент продолжаю изучать и работать с:\n- Python 3.8\n- Unity\n- C#\n- Английский язык.\n\nВ 2020 году поступил в магистратуру в МАИ на программу \"Виртуальная/дополненная реальность и искусственный интеллект\"\n\nТекущие проекты на GitHub: https://github.com/Aynur19?tab=repositories",
+    "recommendations": [
+        {}
+    ],
+    "attestation": [],
+    "dop_info": [
+        {
+            "dop 1": "Гражданство: Россия",
+            "dop 2": "Разрешение на работу: Россия",
+            "dop 3": "Желательное время в пути до работы: Не имеет значения"
+        }
+    ],
+    "portfolio": {},
+    "resume_id": "dda401ea0008470dfe0039ed1f66484e395735",
+    "folder": "python_1_3_expierence"
+}

@@ -1,0 +1,151 @@
+{
+    "birth_date": "29 мая 1989",
+    "gender": "Мужчина",
+    "area": "Москва",
+    "phone": "",
+    "email": "",
+    "metro": "",
+    "prava": [],
+    "title": "Junior Python / Data Analysis / Data Science",
+    "specialization": [
+        {
+            "name": "Банковское ПО",
+            "profarea_name": "Информационные технологии, интернет, телеком"
+        },
+        {
+            "name": "Программирование, Разработка",
+            "profarea_name": "Информационные технологии, интернет, телеком"
+        }
+    ],
+    "salary": {
+        "amount": null,
+        "currency": null
+    },
+    "education_level": "Высшее образование",
+    "education": [
+        {
+            "year": 2014,
+            "name": "Луганский национальный аграрный университет, Луганск",
+            "faculty, speciality": "Экономический, Экономика предприятия"
+        }
+    ],
+    "courses": [
+        {
+            "year": "2020",
+            "institution": "Нетология",
+            "organization + specialization": "Нетология, Python-разработчик"
+        },
+        {
+            "year": "2018",
+            "institution": "WebCademy",
+            "organization + specialization": "WebCademy, Верстка сайтов HTML5 + CSS3"
+        }
+    ],
+    "certificates": [],
+    "language": [
+        {
+            "name": "Русский",
+            "level": "Родной"
+        },
+        {
+            "name": "Английский",
+            "level": "B2 - Средне-продвинутый"
+        }
+    ],
+    "experience": [
+        {
+            "start": "01-11-2020",
+            "end": null,
+            "company": "AGIMA",
+            "position": "Python разработчик",
+            "description": "Разработка приложений для анализа данных\nPython, Django, PostgreSQL, Celery, RabbitMQ, Clickhouse"
+        },
+        {
+            "start": "01-10-2014",
+            "end": null,
+            "company": "Агрохолдинг ПОИСК",
+            "position": "Менеджер",
+            "description": "Автоматизация работы, 1С, дизайн упаковочной продукции"
+        },
+        {
+            "start": "01-08-2020",
+            "end": "01-11-2020",
+            "company": "AGIMA",
+            "position": "Стажер-программист Python",
+            "description": "Разработка ERP системы\nPython, Django, DRF,  FastApi, PostgreSQL, Celery, Redis, RabbitMQ, Selenium"
+        },
+        {
+            "start": "01-03-2020",
+            "end": "01-03-2020",
+            "company": "Учебный проект Нетологии CustomersService",
+            "position": "Разработчик",
+            "description": "Сервис для розничной торговли\nPython 3.6, Django, Django REST Framework"
+        },
+        {
+            "start": "01-02-2020",
+            "end": "01-02-2020",
+            "company": "Учебный проект Нетологии DjangoShop",
+            "position": "Разработчик",
+            "description": "Интернет магазин\nPython 3.6, Django, PostgreSQL"
+        },
+        {
+            "start": "01-01-2020",
+            "end": "01-01-2020",
+            "company": "Учебный проект Нетологии VKinder",
+            "position": "Разработчик",
+            "description": "Сервис знакомств на основе vkontakte.\nPython 3.6, requests, vk api"
+        },
+        {
+            "start": "01-01-2013",
+            "end": "01-12-2013",
+            "company": "Rockwell Farms, North Carolina, USA",
+            "position": "Специалист по Greenhouse Controls Software",
+            "description": "Установка, настройка и эксплуатация оборудования Greenhouse Controls"
+        },
+        {
+            "start": "01-07-2011",
+            "end": "01-07-2012",
+            "company": "The Chef's Garden, Ohio, USA",
+            "position": "Специалист по Greenhouse Controls Software",
+            "description": "Установка, настройка и эксплуатация оборудования Argus Greenhouse Controls"
+        }
+    ],
+    "skill_set": [
+        "Python",
+        "HTML",
+        "Git",
+        "Django Framework",
+        "PostgreSQL",
+        "MySQL",
+        "ООП",
+        "CSS3",
+        "Linux",
+        "Bootstrap",
+        "HTML5",
+        "SQL",
+        "Django REST Framework",
+        "CSS",
+        "FastApi",
+        "Clickhouse",
+        "Selenium IDE",
+        "Pandas",
+        "NumPy",
+        "Jupiter",
+        "Docker"
+    ],
+    "skills": "",
+    "recommendations": [
+        {}
+    ],
+    "attestation": [],
+    "dop_info": [
+        {
+            "dop 1": "Гражданство: Россия",
+            "dop 2": "Разрешение на работу: Россия",
+            "dop 3": "Желательное время в пути до работы: Не имеет значения"
+        }
+    ],
+    "portfolio": {},
+    "resume_id": "833d5259000803a4880039ed1f6c3148415a6f",
+    "folder": "python25-35"
+}

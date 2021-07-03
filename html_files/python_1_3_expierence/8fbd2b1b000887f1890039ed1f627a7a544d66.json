@@ -1,0 +1,71 @@
+{
+    "birth_date": "29 ноября 2004",
+    "gender": "Мужчина",
+    "area": "Москва",
+    "phone": "",
+    "email": "",
+    "metro": "",
+    "prava": [],
+    "title": "Програмист Python",
+    "specialization": [
+        {
+            "name": "Программирование, Разработка",
+            "profarea_name": "Информационные технологии, интернет, телеком"
+        }
+    ],
+    "salary": {
+        "amount": null,
+        "currency": null
+    },
+    "education_level": "Образование",
+    "education": [],
+    "courses": [],
+    "certificates": [],
+    "language": [
+        {
+            "name": "Русский",
+            "level": "Родной"
+        },
+        {
+            "name": "Английский",
+            "level": "B1 - Средний"
+        }
+    ],
+    "experience": [
+        {
+            "start": "01-11-2018",
+            "end": "01-10-2020",
+            "company": "МАУ ДО Кванториум",
+            "position": "Middle Python Developer",
+            "description": "Разработка системы для контроля входа. Python3, PyTorch, opencv, postgresql, flask, html5+css+jquery."
+        }
+    ],
+    "skill_set": [
+        "Python1",
+        "Git1",
+        "Linux1",
+        "ООП",
+        "Nginx1",
+        "Flask",
+        "HTML",
+        "CSS",
+        "jQuery",
+        "JavaScript",
+        "PostgreSQL"
+    ],
+    "skills": "Основная деятельность - разработка на Python. Помимо этого изучил все, что указано в ключевых навыках. На среднем уровне разбираюсь в нейронных сетях. Быстро и легко обучаюсь новому. \nЯвляюсь самозанятым, можете сэкономить на налогах)",
+    "recommendations": [
+        {}
+    ],
+    "attestation": [],
+    "dop_info": [
+        {
+            "dop 1": "Гражданство: Россия",
+            "dop 2": "Разрешение на работу: Россия",
+            "dop 3": "Желательное время в пути до работы: Не имеет значения"
+        }
+    ],
+    "portfolio": {},
+    "resume_id": "8fbd2b1b000887f1890039ed1f627a7a544d66",
+    "folder": "python_1_3_expierence"
+}

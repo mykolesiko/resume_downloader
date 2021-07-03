@@ -1,0 +1,70 @@
+{
+    "birth_date": "17 октября 2002",
+    "gender": "Мужчина",
+    "area": "Москва",
+    "phone": "",
+    "email": "",
+    "metro": "м. Севастопольская",
+    "prava": [],
+    "title": "Backend Python Developer",
+    "specialization": [
+        {
+            "name": "Информационные технологии, Интернет, Мультимедиа",
+            "profarea_name": "Начало карьеры, студенты"
+        }
+    ],
+    "salary": {
+        "amount": 50000,
+        "currency": "руб."
+    },
+    "education_level": "Среднее специальное образование",
+    "education": [
+        {
+            "year": 2022,
+            "name": "Московский приборостроительный техникум",
+            "faculty, speciality": "Обеспечение информационной безопасности автоматизированных систем, Техник по защите информации"
+        }
+    ],
+    "courses": [],
+    "certificates": [],
+    "language": [
+        {
+            "name": "Русский",
+            "level": "Родной"
+        },
+        {
+            "name": "Английский",
+            "level": "A2 - Элементарный"
+        }
+    ],
+    "experience": [],
+    "skill_set": [
+        "Django",
+        "DRF",
+        "AWS",
+        "Heroku",
+        "Python",
+        "PostgreSQL",
+        "Git",
+        "Linux",
+        "HTML",
+        "CSS",
+        "SQL",
+        "JavaScript"
+    ],
+    "skills": "В данный момент являюсь студентом 3-его курса МПТ(Московского Приборостроительного Техникума РЭУ ИМ. Г.В. ПЛЕХАНОВА). \nУчусь по специальности \"Обеспечение информационной безопасности автоматизированных информационных систем\".\n\nGitHub аккаунт: https://github.com/broooke?tab=repositories\n\nМои проекты:\n\nКоммерческий сайт\nТехнологии: React, Redux, PostgreSQL, Django(DRF), AWS\nКод: https://github.com/broooke/fullstack-website-django-react\nСсылка на сайт: https://originalitems.herokuapp.com/#/\n\nПриложение для управления клиентами:\nТехнологии:Django, AWS\nКод:https://github.com/broooke/dashboard-app\nСсылка на сайт: https://dashboard-app-cli.herokuapp.com/\n\nОсновной стак технологий:\n-Python(Сдал сертификацию от Microsoft по Python ), Django, DRF, PostgreSQL, AWS, Heroku, Git, JS\n\nТакже имеются знания в следующих технологиях:\n-React, Redux(Базовый уровень)\n-Опыт проектирования сетей(Cisco Packet Tracer)\n-Опыт проектирования БД(Erwin, access)\n-Опыт разработки клиентского приложения на C#\n-Опыт в работе с Postman\n-Работа с Windows Server и дистрибутивами Ubuntu и Debian\n\nПрошел следующие курсы на Udemy:\nОсновы Python\nBackend разработчик(Django)\nFull Stack разработчик(React+Django)",
+    "recommendations": [
+        {}
+    ],
+    "attestation": [],
+    "dop_info": [
+        {
+            "dop 1": "Гражданство: Россия",
+            "dop 2": "Разрешение на работу: Россия",
+            "dop 3": "Желательное время в пути до работы: Не имеет значения"
+        }
+    ],
+    "portfolio": {},
+    "resume_id": "ef63dcc20008b4f0ae0039ed1f594465707678",
+    "folder": "python_education_ss"
+}

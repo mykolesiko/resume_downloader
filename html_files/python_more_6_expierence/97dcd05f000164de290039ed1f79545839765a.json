@@ -1,0 +1,220 @@
+{
+    "birth_date": "3 октября 1992",
+    "gender": "Мужчина",
+    "area": "Минск",
+    "phone": "",
+    "email": "",
+    "metro": "",
+    "prava": [],
+    "title": "Senior Bitrix Developer | Python Mobile Server Developer | Python Developer | PHP Developer",
+    "specialization": [
+        {
+            "name": "CTO, CIO, Директор по IT",
+            "profarea_name": "Информационные технологии, интернет, телеком"
+        },
+        {
+            "name": "Web инженер",
+            "profarea_name": "Информационные технологии, интернет, телеком"
+        },
+        {
+            "name": "Аналитик",
+            "profarea_name": "Информационные технологии, интернет, телеком"
+        }
+    ],
+    "salary": {
+        "amount": 3000,
+        "currency": "USD"
+    },
+    "education_level": "Высшее образование",
+    "education": [
+        {
+            "year": 2018,
+            "name": "Белорусский государственный университет, Минск",
+            "faculty, speciality": "Механико математический факультет, Инженер программист (Веб-технологии и компьютерное моделирование)"
+        },
+        {
+            "year": 2013,
+            "name": "Колледж: Аграрно-экономический '13",
+            "faculty, speciality": "Программное обеспечения информационных технологий, Техник программист в экономике"
+        }
+    ],
+    "courses": [
+        {
+            "year": "2013",
+            "institution": "Высшая математика",
+            "organization + specialization": "БГУ, Прикладная математика"
+        },
+        {
+            "year": "2013",
+            "institution": "Основы информационных технологий",
+            "organization + specialization": "БГУ, Прикладная информатика"
+        }
+    ],
+    "certificates": [],
+    "language": [
+        {
+            "name": "Русский",
+            "level": "Родной"
+        },
+        {
+            "name": "Английский",
+            "level": "A2 - Элементарный"
+        },
+        {
+            "name": "Немецкий",
+            "level": "A2 - Элементарный"
+        }
+    ],
+    "experience": [
+        {
+            "start": "01-02-2017",
+            "end": null,
+            "company": "ООО Бонер",
+            "position": "Mobile Backend/Server Python Developer | Backend/Server architect",
+            "description": "Backend:\n- Django/Django REST framework\n- Python worker async utility\n- Celery\n\nDatabases:\n- MySQL\n- PostgeSQL ( + clustering mode)\n- SQLite\n- MongoDB\n- Redis ( + clustering mode)\n\nSearch engines:\n- ElasticSearch\n- Sphinx\n\nAutomate:\n- Ansible\n- Fabric\n\nDevOps:\n- Fluent with Linux environment\n- MacOS\n- Amazon Web Services (EC2, S3)\n- Kubernetes/Docker\n- Nginx\n- uWSGI\n\nOther skills:\n- Designing highly loaded systems\n- Design RESTFull API\n- RabbitMQ (AMQP/STOMP/MQTT)\n- Erlang (Modification of modules)\n- Asyncio\n- JSON, XML, msgpack"
+        },
+        {
+            "start": "01-09-2015",
+            "end": "01-02-2017",
+            "company": "ООО «Аймаркет Трейд»",
+            "position": "Team lead/Senior Bitrix Developer/Senior PHP developer/",
+            "description": "За время работы приходилось выполнять следующие обязанности:\n\nРазработка.\n•\tРазбор уже реализованных решений  \n•\tПоддержка уже существующего кода\n•\tАлгоритмическое улучшение работоспособности существующего кода \n•\tПоддержка парсеров отзывов о магазине (shop.by, 1k.by, onliner.by, migom.by, market.yandex.by, tam.by) для Битрикса\n•\tПоддержка парсеров товаров (shop.by, 1k.by, onliner.by, migom.by, market.yandex.by, tam.by) для Битрикса\n•\tРазработка модулей для CMS Битрикс\n•\tРазработка компонентов для CMS Битрикс\n•\tПодключение платежных онлайн систем к магазину (ЕРИП, WebPay)\n•\tРазработка нестандартного обмена между 1С и сайтом\n•\tПрограммное внедрение технических заданий по SEO в Битрикс \n•\tРазработка не типового функционала\n•\tРазработка маркетингового функционала\n•\tИнтерграция сайта с zoomos.by\n•\tИнтерграция сайта с Universal Google Analytics  \n•\tПрограмной внедрение Google Ecommerce Analytics\n•\tРазработка компонента своих товарных рекомендаций\n•\tРазработка и внедрения на сайт своего Call Tracking\n•\tРазвертывание и поддержка боевого окружения проекта (DevOps)\n•\tУправление командой из 10 человек\n•\tРазработка планов улучшению текущей архитектуры проекта \n•\tУвеличение скорости загрузки сайта \n•\tВнедрение триггерных Email рассылок\n•\tПеренос сайта на адаптивную верстку\n•\tПеренос сайта на D7\n•\tПодбор персонала (рекрутинг) - мной был подобраны в штат большая часть отдела\n•\tРазработка выгрузок (фидов) из Битрикс магазина в разные торговые агрегаторы как shop.by, 1k.by, onliner.by, migom.by, market.yandex.by, tam.by\n•\tРазработка выгрузок (фидов) из Битрикс магазина в системы контекстной рекламы Яндекс.Директ и Google AdWords"
+        },
+        {
+            "start": "01-09-2013",
+            "end": "01-08-2015",
+            "company": "ООО \"ЭталонОкна\"",
+            "position": "Инженер-программист (Руководитель отдела разработки ПО и маркетинга)",
+            "description": "За время работы приходилось выполнять следующие обязанности:\n\nРазработка.\n•\tРазработка прототипов новых программных решений \n•\tПроектирование программной архитектуры приложений\n•\tВерстка прототипов (html5, css)\n•\tИнтеграция верстки в шаблоны компонентов CMS Битрикс \n•\tРазработка компонентов для CMS Битрикс\n•\tРазработка модулей для CMS Битрикс\n•\tТестирование программных решений\n•\tПроведение циклических тестов интерфейса сайта для увеличение конверсии \n\nМаркетинг – продажи в интернете. \n•\tРазработка графического дизайна \n•\tРазработка стратегий продажи продукта компании в интернете\n•\tРазработка рекламных компаний в Яндекс Директе\n•\tРазработка рекламных компаний в Google AdWords\n•\tРазработка рекламных компаний в тизерных сетях (Advert,  МаркетГид и т.д)\n•\tРазработка рекламных компаний в социальных сетях (VK, FB, ОД, Мой Мир)\n•\tРазработка маркетинговых акций \n•\tАрбитраж трафика \n•\tКомпенсация трафика \n•\tМаркетинговые исследования\n•\tАнализ эффективности вложений в рекламу \n•\tПроектировка фирменных Landing Page\n•\tПрограммная разработка Landing Page\n•\tЗапуск рекламных компаний для Landing Page\n\nДругие обязанности \n•\tРабота с внешними подрядчиками \n•\tВедение документооборота с внешними подрядчиками (договоры, счета, акты)\n•\tПринятие работ от сторонних подрядчиков \n•\tТехнический аудит верстки\n•\tТехнический аудит программного кода"
+        },
+        {
+            "start": "01-01-2013",
+            "end": "01-08-2013",
+            "company": "Веб-студия Joywin",
+            "position": "Менеджер проектов",
+            "description": "• Управление проектами\n• Разработка разнообразных планов (change management, risk management, resource management, requirements management e.t.)\n• Общение с заказчиком, организация встреч и других различных событий и мероприятий\n• Составление и обработка требований\n• Бизнес аналитика\n• Управление ресурсами, распределение задач и нагрузок (люди на проекте) \n• Создание различного рода проектной документации\n• Контроль сроков и времени исполнения (time management)"
+        },
+        {
+            "start": "01-11-2012",
+            "end": "01-01-2013",
+            "company": "Веб-студия ПартнерPro",
+            "position": "Team Leader Programmer",
+            "description": "• Разработка фирменное CSM. (подробности подлежат неразглашению)\n• Ведение проектов\n• Контроль качества\n• Проектирования программных систем\n• Прототипирование\n• Создание отчетной документации"
+        },
+        {
+            "start": "01-11-2010",
+            "end": "01-06-2012",
+            "company": "Веб-студия Woit-Company",
+            "position": "Менеджер проектов",
+            "description": "• Составление технического задания проектов\n• Распределение работы между специалистами, составление общей картины проекта, контроль каждого этапа создания\n• Контроль исполнения (проверка кодов, шаблонов эскизов)\n• Работа с клиентом\n• Управление командой\n• Работа в команде с программистами дизайнерами и верстальщиками\n• Сдача проекта (контроль завершённости, доменных имён, выбор хостинга)\n• Управление и ведение проектов по Agile/Scrum/XP методологиям"
+        }
+    ],
+    "skill_set": [
+        "1С-Битрикс",
+        "Assembler",
+        "Django Framework",
+        "IBM Rational",
+        "Linux",
+        "MacOS",
+        "Microsoft Access",
+        "MSVisio",
+        "MySQL",
+        "PyCharm",
+        "Python",
+        "Visual C++",
+        "Windows Os",
+        "XML",
+        "Git",
+        "Scrum",
+        "JavaScript",
+        "Delphi",
+        "Axure RP",
+        "UML",
+        "AngularJS",
+        "HTML5",
+        "CSS3",
+        "API",
+        "REST",
+        "Битрикс24‎",
+        "PostgreSQL",
+        "jQuery",
+        "PHP",
+        "LAMP"
+    ],
+    "skills": "Личные качества: Креативный, трудолюбивый, упорный, всегда стемится к наилучшему решению задачи.\n\nOpen source projects:\nhttps://github.com/folt/marshmallow-geojson\n\nПрофессиональные навыки:\nЯзыки программирования: python, C++, Delphi, PHP, SQL, Assembler\nБазы данных: MySQL, SQLite, Microsoft SQL Server, Access\nОперационные системы: Windows (продвинутый), Linux (продвинутый), MacOS (продвинутый)\nСреды разработки: PyCharm, VisualStudio 2008/2010, MSVisio, IBM Rational, Photoshop\nFramework, CMS: Django,WordPress, DataLife Engine\nДругое: HTML, CSS, AJAX, XML, AngularJS\n\n- Знания и опыт использования методов моделирования и описания бизнес- процессов (в нотациях IDEFХ, EPC, UML).\n- Работа с CRM\n- Опыт работы в IT индустрии на менеджерских позициях\n- Умение выстраивать процессы производства и взаимодействия с другими отделами\n- Наличие успешно реализованных и действующих крупных проектов\n- Опыт управления командой от 5 чел\n- Ответственность и целеустремленность\n- Знание Axure\n- Знание Python/Django\n- Знание Системы \"1С:Предприятие\"\n- Знание «1С-Битрикс: Управление сайтом» \n- Знание «1С-Битрикс: Корпоративный портал»",
+    "recommendations": [
+        {}
+    ],
+    "attestation": [
+        {
+            "year": "2014",
+            "institution": "Технология Композитный сайт",
+            "organization_specialization": "1С Битрикс/1c-bitrix, Технология Композитный сайт\\BX-Compozit"
+        },
+        {
+            "year": "2014",
+            "institution": "Технология Композитный сайт",
+            "organization_specialization": "1С Битрикс/1c-bitrix, Технология Композитный сайт\\BX-Compozit"
+        },
+        {
+            "year": "2014",
+            "institution": "Элементы управления. Обучающий курс",
+            "organization_specialization": "1С Битрикс/1c-bitrix, Элементы управления. Обучающий курс\\BX-ADM001"
+        },
+        {
+            "year": "2013",
+            "institution": "Контент-менеджер",
+            "organization_specialization": "1С Битрикс/1c-bitrix, Контент-менеджер/BXS-CM"
+        },
+        {
+            "year": "2013",
+            "institution": "Администратор сервиса Битрикс24 (коробочная версия)",
+            "organization_specialization": "1С Битрикс/1c-bitrix, Администратор сервиса Битрикс24 (коробочная версия)\\BXP-ADM"
+        },
+        {
+            "year": "2013",
+            "institution": "Администратор. Базовый",
+            "organization_specialization": "1С Битрикс/1c-bitrix, Администратор. Базовый\\BXS-ADM-Base"
+        },
+        {
+            "year": "2013",
+            "institution": "Администратор. Модули",
+            "organization_specialization": "1С Битрикс/1c-bitrix, Администратор. Модули\\BXS-ADM-Mod"
+        },
+        {
+            "year": "2013",
+            "institution": "Администратор. Бизнес",
+            "organization_specialization": "1С Битрикс/1c-bitrix, Администратор. Бизнес\\BXS-ADM-Bus"
+        },
+        {
+            "year": "2013",
+            "institution": "Разработчик Bitrix Framework",
+            "organization_specialization": "1С Битрикс/1c-bitrix, Разработчик Bitrix Framework\\BX-Dev"
+        },
+        {
+            "year": "2013",
+            "institution": "Курс для хостеров",
+            "organization_specialization": "1С Битрикс/1c-bitrix, Курс для хостеров\\BX-Host"
+        },
+        {
+            "year": "2013",
+            "institution": "Конфигурирование веб-систем для оптимальной работы",
+            "organization_specialization": "1С Битрикс/1c-bitrix, Конфигурирование веб-систем для оптимальной работы\\BX-CONF003"
+        }
+    ],
+    "dop_info": [
+        {
+            "dop 1": "Гражданство: Беларусь",
+            "dop 2": "Разрешение на работу: Беларусь",
+            "dop 3": "Желательное время в пути до работы: Не имеет значения"
+        }
+    ],
+    "portfolio": {
+        "portfolio_item 0": "https://hhcdn.ru/photo/410282680.png?t=1613979746&h=zI-wN30Mn1Jv7ade0SfwAA",
+        "portfolio_item 1": "https://hhcdn.ru/photo/410282851.png?t=1613979746&h=bAodjMwRbZP5MCqGOZrx0Q",
+        "portfolio_item 2": "https://hhcdn.ru/photo/410283043.png?t=1613979746&h=2GfuQKdYPrhsItJwIibBpg",
+        "portfolio_item 3": "https://hhcdn.ru/photo/410283237.png?t=1613979746&h=kl4KNiFaMKM6Iw2tGAJtwA"
+    },
+    "resume_id": "97dcd05f000164de290039ed1f79545839765a",
+    "folder": "python_more_6_expierence"
+}

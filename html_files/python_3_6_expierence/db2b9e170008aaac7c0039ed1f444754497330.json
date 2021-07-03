@@ -1,0 +1,117 @@
+{
+    "birth_date": "19 ноября 1991",
+    "gender": "Мужчина",
+    "area": "Москва",
+    "phone": "",
+    "email": "",
+    "metro": "",
+    "prava": [
+        {
+            "prava1": "Права категории B, C"
+        }
+    ],
+    "title": "Python Developer",
+    "specialization": [
+        {
+            "name": "Программирование, Разработка",
+            "profarea_name": "Информационные технологии, интернет, телеком"
+        },
+        {
+            "name": "Аналитик",
+            "profarea_name": "Информационные технологии, интернет, телеком"
+        }
+    ],
+    "salary": {
+        "amount": null,
+        "currency": null
+    },
+    "education_level": "Высшее образование",
+    "education": [
+        {
+            "year": 2017,
+            "name": "Тульский государственный университет",
+            "faculty, speciality": "Системы автоматического управления, Системы управления движением и навигация"
+        },
+        {
+            "year": 2014,
+            "name": "Тульский государственный университет",
+            "faculty, speciality": "Системы автоматического управления, Системы управления летательными аппаратами"
+        }
+    ],
+    "courses": [
+        {
+            "year": "2020",
+            "institution": "Moscow Institute of Physics and Technology",
+            "organization + specialization": "Coursera, Математика и Python для анализа данных"
+        },
+        {
+            "year": "2020",
+            "institution": "Bioinformatics Institute",
+            "organization + specialization": "Stepik, Основы статистики"
+        },
+        {
+            "year": "2020",
+            "institution": "University of California, Davis",
+            "organization + specialization": "Coursera, SQL for Data Science"
+        },
+        {
+            "year": "2020",
+            "institution": "Moscow Institute of Physics and Technology",
+            "organization + specialization": "Coursera, Обучение на размеченных данных"
+        },
+        {
+            "year": "2020",
+            "institution": "DataCamp",
+            "organization + specialization": "DataCamp, Python Data Science Toolbox"
+        },
+        {
+            "year": "2019",
+            "institution": "Bioinformatics Institute",
+            "organization + specialization": "Stepik, Программирование на Python"
+        }
+    ],
+    "certificates": [],
+    "language": [
+        {
+            "name": "Русский",
+            "level": "Родной"
+        }
+    ],
+    "experience": [
+        {
+            "start": "01-03-2017",
+            "end": null,
+            "company": "ПАО «Красногорский завод им. С.А. Зверева»",
+            "position": "Инженер-конструктор",
+            "description": "Выполнение экспериментов, испытаний, наблюдений;\n\nТехническое обеспечение исследований, разработка предложения по его улучшению;\n\nРазработка конструкторской документации;\n\nСоставление кинематических схем, общих компоновок отдельных элементов конструкций на основании принципиальных схем и эскизных проектов;\n\nПроведение технических расчетов;\n\nУчастие в проведении лабораторных, стендовых и наземных испытаний.\n"
+        }
+    ],
+    "skill_set": [
+        "Python",
+        "Git",
+        "Scikit-learn",
+        "pandas",
+        "NumPy",
+        "OpenCV",
+        "Jupyter",
+        "Spyder",
+        "SQLite",
+        "Anaconda",
+        "Scipy"
+    ],
+    "skills": "Уверенное знание Python и основных библиотек (pandas, numpy, scikit-learn, tensorflow), его фреймворков, основных понятиях и методах математической статистики. Хорошее знание методов машинного обучения.",
+    "recommendations": [
+        {}
+    ],
+    "attestation": [],
+    "dop_info": [
+        {
+            "dop 1": "Гражданство: Россия",
+            "dop 2": "Разрешение на работу: Россия",
+            "dop 3": "Желательное время в пути до работы: Не имеет значения"
+        }
+    ],
+    "portfolio": {},
+    "resume_id": "db2b9e170008aaac7c0039ed1f444754497330",
+    "folder": "python_3_6_expierence"
+}

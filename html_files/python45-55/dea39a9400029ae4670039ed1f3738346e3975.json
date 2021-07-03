@@ -1,0 +1,98 @@
+{
+    "birth_date": "5 мая 1975",
+    "gender": "Мужчина",
+    "area": "Москва",
+    "phone": "",
+    "email": "",
+    "metro": "",
+    "prava": [],
+    "title": "Робототехника Lego WeDo, Minestorm EV3. Программирование на Scratch  и Python",
+    "specialization": [
+        {
+            "name": "Преподавание",
+            "profarea_name": "Наука, образование"
+        }
+    ],
+    "salary": {
+        "amount": null,
+        "currency": null
+    },
+    "education_level": "Высшее образование",
+    "education": [
+        {
+            "year": 1995,
+            "name": "Владимирский государственный университет им. А.Г. и Н.Г. Столетовых, Владимир",
+            "faculty, speciality": "педагогический"
+        }
+    ],
+    "courses": [
+        {
+            "year": "2020",
+            "institution": "Geek Brains",
+            "organization + specialization": "mail.ru group, Phyton"
+        },
+        {
+            "year": "2020",
+            "institution": "stepik.org",
+            "organization + specialization": "Bioinformatics Institute, Python: основы и применение"
+        },
+        {
+            "year": "2019",
+            "institution": "UniorCode",
+            "organization + specialization": "Juniorcode, Scratch"
+        },
+        {
+            "year": "2018",
+            "institution": "CODE",
+            "organization + specialization": "Code, Визуальное программирование"
+        },
+        {
+            "year": "2016",
+            "institution": "LEGO",
+            "organization + specialization": "Академия образовательных решений LEGO, Lego Minestorme & WeDo"
+        }
+    ],
+    "certificates": [],
+    "language": [
+        {
+            "name": "Русский",
+            "level": "Родной"
+        },
+        {
+            "name": "Немецкий",
+            "level": "A1 - Начальный"
+        }
+    ],
+    "experience": [
+        {
+            "start": "01-05-2015",
+            "end": null,
+            "company": "Образовательные учереждения",
+            "position": "преподаватель",
+            "description": "Педагогическая деятельность"
+        }
+    ],
+    "skill_set": [
+        "Пользователь ПК",
+        "Преподаватель",
+        "программирование",
+        "робототехника"
+    ],
+    "skills": "",
+    "recommendations": [
+        {}
+    ],
+    "attestation": [],
+    "dop_info": [
+        {
+            "dop 1": "Гражданство: Россия",
+            "dop 2": "Разрешение на работу: Россия",
+            "dop 3": "Желательное время в пути до работы: Не более часа"
+        }
+    ],
+    "portfolio": {
+        "portfolio_item 0": "https://hhcdn.ru/photo/489923132.jpeg?t=1613942566&h=AZWIKUy-qTFHnLKDcNV2Uw"
+    },
+    "resume_id": "dea39a9400029ae4670039ed1f3738346e3975",
+    "folder": "python45-55"
+}

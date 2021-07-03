@@ -1,0 +1,104 @@
+{
+    "birth_date": "29 сентября 1988",
+    "gender": "Мужчина",
+    "area": "Москва",
+    "phone": "",
+    "email": "",
+    "metro": "",
+    "prava": [],
+    "title": "Senior Python разработчик",
+    "specialization": [
+        {
+            "name": "Игровое ПО",
+            "profarea_name": "Информационные технологии, интернет, телеком"
+        },
+        {
+            "name": "Программирование, Разработка",
+            "profarea_name": "Информационные технологии, интернет, телеком"
+        },
+        {
+            "name": "Стартапы",
+            "profarea_name": "Информационные технологии, интернет, телеком"
+        }
+    ],
+    "salary": {
+        "amount": 190000,
+        "currency": "руб."
+    },
+    "education_level": "Высшее образование",
+    "education": [
+        {
+            "year": 2010,
+            "name": "Гомельский государственный университет им. Ф. Скорины, Гомель",
+            "faculty, speciality": "Математика. Компьютерные науки, Математика. Компьютерные науки"
+        }
+    ],
+    "courses": [],
+    "certificates": [],
+    "language": [
+        {
+            "name": "Русский",
+            "level": "Родной"
+        },
+        {
+            "name": "Английский",
+            "level": "B1 - Средний"
+        }
+    ],
+    "experience": [
+        {
+            "start": "01-01-2019",
+            "end": null,
+            "company": "Yotek",
+            "position": "Senior Python разработчик",
+            "description": "Проекты: \nBackend для мобильных приложений, чат-боты, аналитика крипторынка."
+        },
+        {
+            "start": "01-08-2018",
+            "end": "01-06-2019",
+            "company": "Play2Live",
+            "position": "Senior Python разработчик",
+            "description": "Проект:\nBattlearena\n\nТехнологии:\npython3, django, django-rest-framework, celery, postgresql (RDS), docker, terraform, unit tests, Amazon Cognito, AWS Lambda\n\nРоль: Архитектура, разработка, частичный менеджмент"
+        },
+        {
+            "start": "01-06-2015",
+            "end": "01-07-2018",
+            "company": "LeverX",
+            "position": "Senior Python разработчик",
+            "description": "Проект:\nExternal Services\n\nТехнологии:\npython, django, django-rest-framework, celery, jquery, postgresql, redis\n\nРоль: разработка"
+        },
+        {
+            "start": "01-06-2010",
+            "end": "01-11-2014",
+            "company": "XIM",
+            "position": "Python разработчик",
+            "description": "Проект: корпоративная ERP-система (Enterprise Resource Planning)\n\nТехнологии: python, django, mysql\n\nRole in project: backend-разработка"
+        }
+    ],
+    "skill_set": [
+        "Python",
+        "JavaScript",
+        "Git",
+        "MongoDB",
+        "SQL",
+        "MySQL",
+        "SVN",
+        "PostgreSQL",
+        "Eclipse"
+    ],
+    "skills": "",
+    "recommendations": [
+        {}
+    ],
+    "attestation": [],
+    "dop_info": [
+        {
+            "dop 1": "Гражданство: Беларусь",
+            "dop 2": "Разрешение на работу: Россия",
+            "dop 3": "Желательное время в пути до работы: Не имеет значения"
+        }
+    ],
+    "portfolio": {},
+    "resume_id": "3f0fb142000888d1ca0039ed1f796e766d4136",
+    "folder": "python25-35"
+}

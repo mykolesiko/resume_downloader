@@ -1,0 +1,79 @@
+{
+    "birth_date": "15 января 1992",
+    "gender": "Мужчина",
+    "area": "Москва",
+    "phone": "",
+    "email": "",
+    "metro": "м. Юго-Западная",
+    "prava": [],
+    "title": "Аналитик (Python, SQL)",
+    "specialization": [
+        {
+            "name": "Передача данных и доступ в интернет",
+            "profarea_name": "Информационные технологии, интернет, телеком"
+        },
+        {
+            "name": "Аналитик",
+            "profarea_name": "Информационные технологии, интернет, телеком"
+        },
+        {
+            "name": "Интернет",
+            "profarea_name": "Информационные технологии, интернет, телеком"
+        }
+    ],
+    "salary": {
+        "amount": 30000,
+        "currency": "руб."
+    },
+    "education_level": "Образование",
+    "education": [],
+    "courses": [],
+    "certificates": [],
+    "language": [
+        {
+            "name": "Русский",
+            "level": "Родной"
+        },
+        {
+            "name": "Английский",
+            "level": "C1 - Продвинутый"
+        }
+    ],
+    "experience": [
+        {
+            "start": "01-01-2017",
+            "end": null,
+            "company": "Web developer python",
+            "position": "Web developer python",
+            "description": "Создание сайтов с Джанго,\nСоздание Питон приложений ЕДА,\nУстановка сайт на хероку."
+        }
+    ],
+    "skill_set": [
+        "Ответственность",
+        "Python",
+        "Linux",
+        "MySQL",
+        "HTML",
+        "JavaScript",
+        "Git",
+        "CSS",
+        "Django Framework",
+        "jQuery",
+        "Bootstrap"
+    ],
+    "skills": "Я веб девелопер питон, и я работаю на питон, Джанго.\nЯ умею использовать гит и Линукс.",
+    "recommendations": [
+        {}
+    ],
+    "attestation": [],
+    "dop_info": [
+        {
+            "dop 1": "Гражданство: Республика Конго",
+            "dop 2": "Разрешение на работу: Россия",
+            "dop 3": "Желательное время в пути до работы: Не имеет значения"
+        }
+    ],
+    "portfolio": {},
+    "resume_id": "e3ccb9fc0008b709890039ed1f787366774a56",
+    "folder": "python25-35"
+}

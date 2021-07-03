@@ -1,0 +1,85 @@
+{
+    "birth_date": "7 сентября 1997",
+    "gender": "Мужчина",
+    "area": "Москва",
+    "phone": "",
+    "email": "",
+    "metro": "",
+    "prava": [
+        {
+            "prava1": "Права категории B"
+        }
+    ],
+    "title": "Python-разработчик",
+    "specialization": [
+        {
+            "name": "Информационные технологии, Интернет, Мультимедиа",
+            "profarea_name": "Начало карьеры, студенты"
+        },
+        {
+            "name": "Административный персонал",
+            "profarea_name": "Начало карьеры, студенты"
+        },
+        {
+            "name": "Финансы, Банки, Инвестиции",
+            "profarea_name": "Начало карьеры, студенты"
+        }
+    ],
+    "salary": {
+        "amount": null,
+        "currency": null
+    },
+    "education_level": "Высшее образование (Бакалавр)",
+    "education": [
+        {
+            "year": 2020,
+            "name": "Московский институт электронной техники, Зеленоград",
+            "faculty, speciality": "МПСУ, ИВТ"
+        }
+    ],
+    "courses": [],
+    "certificates": [],
+    "language": [
+        {
+            "name": "Русский",
+            "level": "Родной"
+        },
+        {
+            "name": "Английский",
+            "level": "A1 - Начальный"
+        }
+    ],
+    "experience": [
+        {
+            "start": "01-10-2020",
+            "end": null,
+            "company": "Корпорация ЭЛАР",
+            "position": "Технолог",
+            "description": "Работал с СУБД sql server"
+        }
+    ],
+    "skill_set": [
+        "Python",
+        "tensorflow",
+        "image classification",
+        "Программировал stm32",
+        "keil uvision",
+        "SQL",
+        "numpy"
+    ],
+    "skills": "6 месяцев работал в sql разработке.",
+    "recommendations": [
+        {}
+    ],
+    "attestation": [],
+    "dop_info": [
+        {
+            "dop 1": "Гражданство: Россия",
+            "dop 2": "Разрешение на работу: Россия",
+            "dop 3": "Желательное время в пути до работы: Не имеет значения"
+        }
+    ],
+    "portfolio": {},
+    "resume_id": "ea5db04a0007f887ff0039ed1f764e4b6a3867",
+    "folder": "python_no_expierence"
+}

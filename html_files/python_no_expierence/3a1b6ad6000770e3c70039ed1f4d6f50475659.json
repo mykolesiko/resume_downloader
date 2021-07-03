@@ -1,0 +1,72 @@
+{
+    "birth_date": "3 сентября 1998",
+    "gender": "Мужчина",
+    "area": "Москва",
+    "phone": "",
+    "email": "",
+    "metro": "м. Парк Победы",
+    "prava": [],
+    "title": "Junior Python",
+    "specialization": [
+        {
+            "name": "Информационные технологии, Интернет, Мультимедиа",
+            "profarea_name": "Начало карьеры, студенты"
+        }
+    ],
+    "salary": {
+        "amount": null,
+        "currency": null
+    },
+    "education_level": "Неоконченное высшее образование",
+    "education": [
+        {
+            "year": 2023,
+            "name": "Московский государственный технический университет им. Н.Э. Баумана, Москва",
+            "faculty, speciality": "РК6, Системы автоматизированного проектирования"
+        }
+    ],
+    "courses": [],
+    "certificates": [],
+    "language": [
+        {
+            "name": "Русский",
+            "level": "Родной"
+        },
+        {
+            "name": "Английский",
+            "level": "C1 - Продвинутый"
+        }
+    ],
+    "experience": [],
+    "skill_set": [
+        "Python",
+        "C++",
+        "Git",
+        "ООП",
+        "MongoDB",
+        "SQL",
+        "Bash",
+        "C/C++",
+        "HTML",
+        "MySQL",
+        "PostgreSQL",
+        "Nginx",
+        "Django Framework",
+        "CSS"
+    ],
+    "skills": "Студент 2-го курса РК6 МГТУ им. Н. Э. Баумана.\nИзучал C и C++ в вузе, python сам. Больше всего предпочитаю python, но также готов попробовать Новый для себя язык программирования, если это потребуется. Ответственен к своим обязанностям, всегда открыт к новым знаниям.\ngithub.com/plaguedoctor39 мои проекты",
+    "recommendations": [
+        {}
+    ],
+    "attestation": [],
+    "dop_info": [
+        {
+            "dop 1": "Гражданство: Россия",
+            "dop 2": "Разрешение на работу: Россия",
+            "dop 3": "Желательное время в пути до работы: Не более часа"
+        }
+    ],
+    "portfolio": {},
+    "resume_id": "3a1b6ad6000770e3c70039ed1f4d6f50475659",
+    "folder": "python_no_expierence"
+}

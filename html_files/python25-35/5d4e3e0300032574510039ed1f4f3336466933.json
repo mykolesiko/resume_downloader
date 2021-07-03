@@ -1,0 +1,100 @@
+{
+    "birth_date": "16 сентября 1994",
+    "gender": "Мужчина",
+    "area": "Москва",
+    "phone": "",
+    "email": "",
+    "metro": "м. Университет",
+    "prava": [],
+    "title": "Python junior",
+    "specialization": [
+        {
+            "name": "Другое",
+            "profarea_name": "Начало карьеры, студенты"
+        }
+    ],
+    "salary": {
+        "amount": 55000,
+        "currency": "руб."
+    },
+    "education_level": "Высшее образование",
+    "education": [
+        {
+            "year": 2017,
+            "name": "Московский банковский институт, Москва",
+            "faculty, speciality": "Банковское дело, Финансы и кредит"
+        }
+    ],
+    "courses": [
+        {
+            "year": "2021",
+            "institution": "GeekBrains",
+            "organization + specialization": "GeekBrains, python developer"
+        }
+    ],
+    "certificates": [],
+    "language": [
+        {
+            "name": "Русский",
+            "level": "Родной"
+        },
+        {
+            "name": "Английский",
+            "level": "B1 - Средний"
+        }
+    ],
+    "experience": [
+        {
+            "start": "01-11-2015",
+            "end": null,
+            "company": "ВТБ",
+            "position": "Главный менеджер",
+            "description": "Работа с клиентом вип формата, проведение операций, оформление страховых продуктов."
+        },
+        {
+            "start": "01-03-2015",
+            "end": "01-07-2015",
+            "company": "КБ Росинтербанк",
+            "position": "Операционист",
+            "description": "Обслуживание физических лиц"
+        },
+        {
+            "start": "01-06-2013",
+            "end": "01-02-2015",
+            "company": "БАНК УРАЛСИБ",
+            "position": "Менеджер по автокредитованию",
+            "description": "Прием заявления на получение кредита, предоставление заявки на рассмотрение кредитного комитета, подписание договора, консультирование клиентов по кредитным продуктам банка."
+        }
+    ],
+    "skill_set": [
+        "Работа в команде",
+        "Ориентация на результат",
+        "Грамотная речь"
+    ],
+    "skills": "Давно хочется присоединтся к миру IT Индустрии, хочется приложить свои усилия к созданию чего-то нового или модернизации текущего.\nПочти год изучаю python в GeekBrains, имею базовые знания :\npython, MySQL, CSS, HTML, JS. \nБуду рад получить Ваши тестовые задания!!!\n\n\n",
+    "recommendations": [
+        {}
+    ],
+    "attestation": [
+        {
+            "year": "2021",
+            "institution": "GeekBrains",
+            "organization_specialization": "GeekBrains, python"
+        },
+        {
+            "year": "2021",
+            "institution": "GeekBrains",
+            "organization_specialization": "GeekBrains, python"
+        }
+    ],
+    "dop_info": [
+        {
+            "dop 1": "Гражданство: Россия",
+            "dop 2": "Разрешение на работу: Россия",
+            "dop 3": "Желательное время в пути до работы: Не имеет значения"
+        }
+    ],
+    "portfolio": {},
+    "resume_id": "5d4e3e0300032574510039ed1f4f3336466933",
+    "folder": "python25-35"
+}

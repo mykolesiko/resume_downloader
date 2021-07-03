@@ -1,0 +1,67 @@
+{
+    "birth_date": "30 июля 1997",
+    "gender": "Мужчина",
+    "area": "Москва",
+    "phone": "",
+    "email": "",
+    "metro": "м. Технопарк",
+    "prava": [],
+    "title": "Python Junior Developer",
+    "specialization": [
+        {
+            "name": "Информационные технологии, Интернет, Мультимедиа",
+            "profarea_name": "Начало карьеры, студенты"
+        }
+    ],
+    "salary": {
+        "amount": null,
+        "currency": null
+    },
+    "education_level": "Высшее образование (Бакалавр)",
+    "education": [
+        {
+            "year": 2019,
+            "name": "Саратовский государственный университет им. Н.Г. Чернышевского, Саратов",
+            "faculty, speciality": "Физический, Биофизика и лазерная оптика"
+        }
+    ],
+    "courses": [],
+    "certificates": [],
+    "language": [
+        {
+            "name": "Русский",
+            "level": "Родной"
+        },
+        {
+            "name": "Английский",
+            "level": "C1 - Продвинутый"
+        }
+    ],
+    "experience": [],
+    "skill_set": [
+        "Django Framework",
+        "Python 3",
+        "HTML",
+        "Git",
+        "Linux",
+        "ORM",
+        "Selenium",
+        "Jinja",
+        "SQL"
+    ],
+    "skills": "В последние годы я проходил обучение в вузе.\n",
+    "recommendations": [
+        {}
+    ],
+    "attestation": [],
+    "dop_info": [
+        {
+            "dop 1": "Гражданство: Россия",
+            "dop 2": "Разрешение на работу: Россия",
+            "dop 3": "Желательное время в пути до работы: Не имеет значения"
+        }
+    ],
+    "portfolio": {},
+    "resume_id": "7e4d9df60008973e5d0039ed1f45456c41306e",
+    "folder": "python18-25"
+}

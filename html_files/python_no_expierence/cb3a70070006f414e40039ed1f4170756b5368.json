@@ -1,0 +1,77 @@
+{
+    "birth_date": "7 ноября 1999",
+    "gender": "Мужчина",
+    "area": "Москва",
+    "phone": "",
+    "email": "",
+    "metro": "м. Савеловская",
+    "prava": [],
+    "title": "junior python программист",
+    "specialization": [
+        {
+            "name": "Информационные технологии, Интернет, Мультимедиа",
+            "profarea_name": "Начало карьеры, студенты"
+        }
+    ],
+    "salary": {
+        "amount": 40000,
+        "currency": "руб."
+    },
+    "education_level": "Неоконченное высшее образование",
+    "education": [
+        {
+            "year": 2022,
+            "name": "Школа 21",
+            "faculty, speciality": "нет, нет"
+        },
+        {
+            "year": 2018,
+            "name": "Санкт-Петербургский государственный политехнический университет, Санкт-Петербург",
+            "faculty, speciality": "Институт прикладной математики и механики, Математика и компьютерные науки"
+        }
+    ],
+    "courses": [],
+    "certificates": [],
+    "language": [
+        {
+            "name": "Русский",
+            "level": "Родной"
+        },
+        {
+            "name": "Английский",
+            "level": "B2 - Средне-продвинутый"
+        }
+    ],
+    "experience": [],
+    "skill_set": [
+        "Python",
+        "SQL",
+        "ООП",
+        "Git",
+        "C",
+        "Java",
+        "HTML",
+        "CSS",
+        "Django Framework",
+        "PostgreSQL",
+        "Atlassian Jira",
+        "docker",
+        "Linux",
+        "C++"
+    ],
+    "skills": "",
+    "recommendations": [
+        {}
+    ],
+    "attestation": [],
+    "dop_info": [
+        {
+            "dop 1": "Гражданство: Россия",
+            "dop 2": "Разрешение на работу: Россия",
+            "dop 3": "Желательное время в пути до работы: Не более часа"
+        }
+    ],
+    "portfolio": {},
+    "resume_id": "cb3a70070006f414e40039ed1f4170756b5368",
+    "folder": "python_no_expierence"
+}

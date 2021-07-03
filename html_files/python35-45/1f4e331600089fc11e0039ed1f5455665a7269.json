@@ -1,0 +1,110 @@
+{
+    "birth_date": null,
+    "gender": "Мужчина",
+    "area": "Москва",
+    "phone": "",
+    "email": "",
+    "metro": "",
+    "prava": [
+        {
+            "prava1": "Права категории B"
+        }
+    ],
+    "title": "Программист Python",
+    "specialization": [
+        {
+            "name": "Начальный уровень, Мало опыта",
+            "profarea_name": "Информационные технологии, интернет, телеком"
+        },
+        {
+            "name": "Программирование, Разработка",
+            "profarea_name": "Информационные технологии, интернет, телеком"
+        },
+        {
+            "name": "Сетевые технологии",
+            "profarea_name": "Информационные технологии, интернет, телеком"
+        }
+    ],
+    "salary": {
+        "amount": null,
+        "currency": null
+    },
+    "education_level": "Высшее образование",
+    "education": [
+        {
+            "year": 2018,
+            "name": "Московский технический университет связи и информатики, Москва",
+            "faculty, speciality": "Факультет сети и системы связи"
+        }
+    ],
+    "courses": [
+        {
+            "year": "2021",
+            "institution": "Программирование Telegram-ботов",
+            "organization + specialization": "Udemy"
+        },
+        {
+            "year": "2020",
+            "institution": "Основы Python",
+            "organization + specialization": "Letpy"
+        }
+    ],
+    "certificates": [],
+    "language": [
+        {
+            "name": "Русский",
+            "level": "Родной"
+        },
+        {
+            "name": "Английский",
+            "level": "A2 - Элементарный"
+        }
+    ],
+    "experience": [
+        {
+            "start": "01-09-2020",
+            "end": null,
+            "company": "Индивидуальное предпринимательство / частная практика / фриланс",
+            "position": "Фрилансер",
+            "description": "1) Web-разработка на стеке Python,Jango, PostgreSQL, Docker, HTML, CSS, JS.\n2) Компьютерная помощь. По требованию могу представить ссылку на profi.ru"
+        },
+        {
+            "start": "01-06-2018",
+            "end": null,
+            "company": "Государственная IT-компания ",
+            "position": "Сетевой инженер",
+            "description": "1) Администрирование компьютерных сетей, систем виртуализации(VMware).\n2) Работа с СЗИ(SecretNet Studio, VipNet Administrator, VipNet client,VipNet Coordinator, Цент Администрирования Kaspersky).\n3) Обслуживание оргтехники, подключение.\n4) Настройка сетевого оборудования ( Cisco, D-Link, Hp)."
+        }
+    ],
+    "skill_set": [
+        "Разработка web-приложений и telegram-ботов на Python",
+        "НСД \"SecretNet\"",
+        "Kaspersky Labs",
+        "Cisco",
+        "Active Directory",
+        "VMware",
+        "Веб-программирование",
+        "Python",
+        "Django Framework",
+        "HTML",
+        "HTML5",
+        "CSS",
+        "Ext JS",
+        "УЦ VipNet"
+    ],
+    "skills": "Программист-фрилансер. \nРаботаю на стеке HTML-CSS-Js-Python-Django-PostgreSQL.\nРаботаю с git, docker.\nПо требованию могу предоставить ссылки на github, Фриланс аккаунт.",
+    "recommendations": [
+        {}
+    ],
+    "attestation": [],
+    "dop_info": [
+        {
+            "dop 1": "Гражданство: Россия",
+            "dop 2": "Разрешение на работу: Россия",
+            "dop 3": "Желательное время в пути до работы: Не имеет значения"
+        }
+    ],
+    "portfolio": {},
+    "resume_id": "1f4e331600089fc11e0039ed1f5455665a7269",
+    "folder": "python35-45"
+}

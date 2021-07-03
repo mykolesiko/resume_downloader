@@ -1,0 +1,74 @@
+{
+    "birth_date": "18 июля 1998",
+    "gender": "Мужчина",
+    "area": "Москва",
+    "phone": "",
+    "email": "",
+    "metro": "",
+    "prava": [],
+    "title": "Junior Python",
+    "specialization": [
+        {
+            "name": "Административный персонал",
+            "profarea_name": "Начало карьеры, студенты"
+        },
+        {
+            "name": "Продажи",
+            "profarea_name": "Начало карьеры, студенты"
+        },
+        {
+            "name": "Финансы, Банки, Инвестиции",
+            "profarea_name": "Начало карьеры, студенты"
+        }
+    ],
+    "salary": {
+        "amount": null,
+        "currency": null
+    },
+    "education_level": "Высшее образование",
+    "education": [
+        {
+            "year": 2021,
+            "name": "Национальный исследовательский ядерный университет \"МИФИ\", Москва",
+            "faculty, speciality": "ЛаПлаз"
+        }
+    ],
+    "courses": [],
+    "certificates": [],
+    "language": [
+        {
+            "name": "Русский",
+            "level": "Родной"
+        },
+        {
+            "name": "Английский",
+            "level": "B2 - Средне-продвинутый"
+        }
+    ],
+    "experience": [],
+    "skill_set": [
+        "Обучаемость",
+        "Деловая коммуникация",
+        "Python",
+        "Linux",
+        "Bash",
+        "Adobe Photoshop",
+        "Английский язык",
+        "MySQL"
+    ],
+    "skills": "Студент, ищущий стажировку в направлении ML, анализ данных.\n\n\nhttps://colab.research.google.com/drive/1spvFcmRdr0d94xFyyKD4ik9afnSTFJdw?usp=sharing - задача предсказания победы по первым пяти минутам \n\nhttps://colab.research.google.com/drive/1T37vrZ-X1yaNH9JsNpL6UGpzyVMIkTfw?usp=sharing - задача классификации картинок чисел\n\nhttps://colab.research.google.com/drive/1u2fzTceJ-kMToJhjkURamNJyO-_MtcAb?usp=sharing - разверточный анализ данных \n\nhttps://colab.research.google.com/drive/1FHb1oC7wqIPA5DnPGNojiWnRCFsdUIUJ?usp=sharing - проект по mail \n\nпроекты, выполненные мной.\n",
+    "recommendations": [
+        {}
+    ],
+    "attestation": [],
+    "dop_info": [
+        {
+            "dop 1": "Гражданство: Россия",
+            "dop 2": "Разрешение на работу: Россия",
+            "dop 3": "Желательное время в пути до работы: Не имеет значения"
+        }
+    ],
+    "portfolio": {},
+    "resume_id": "828db7f300081c2b500039ed1f587736653462",
+    "folder": "python_no_expierence"
+}

@@ -1,0 +1,88 @@
+{
+    "birth_date": "29 января 2001",
+    "gender": "Мужчина",
+    "area": "Москва",
+    "phone": "",
+    "email": "",
+    "metro": "",
+    "prava": [
+        {
+            "prava1": "Права категории B"
+        }
+    ],
+    "title": "Программист Python",
+    "specialization": [
+        {
+            "name": "Информационные технологии, Интернет, Мультимедиа",
+            "profarea_name": "Начало карьеры, студенты"
+        }
+    ],
+    "salary": {
+        "amount": null,
+        "currency": null
+    },
+    "education_level": "Неоконченное высшее образование",
+    "education": [
+        {
+            "year": 2022,
+            "name": "Московский авиационный институт (национальный исследовательский университет), Москва",
+            "faculty, speciality": "Факультет системы управления, информатики и электроэнергетики, Программная инженерия"
+        }
+    ],
+    "courses": [
+        {
+            "year": "2021",
+            "institution": "MLcourse.ai",
+            "organization + specialization": "Mail.ru Group"
+        },
+        {
+            "year": "2020",
+            "institution": "Основы программирования на Python (HSE University)",
+            "organization + specialization": "Coursera"
+        },
+        {
+            "year": "2020",
+            "institution": "Введение в машинное обучение(HSE University, Yandex school of data analysis)",
+            "organization + specialization": "Coursera"
+        }
+    ],
+    "certificates": [],
+    "language": [
+        {
+            "name": "Русский",
+            "level": "Родной"
+        },
+        {
+            "name": "Английский",
+            "level": "B1 - Средний"
+        }
+    ],
+    "experience": [],
+    "skill_set": [
+        "Python",
+        "C/C++",
+        "Oracle Pl/SQL",
+        "JupyterNotebook",
+        "NumPy",
+        "Pandas",
+        "Matplotlib",
+        "Git",
+        "Seaborn",
+        "Plotly"
+    ],
+    "skills": "Здравствуйте, меня зовут Юрий! Я студент 3-го курса Московского Авиационного Института по специальности «Программная Инженерия». Имею знания языков программирования: C/C++, Oracle SQL, Python3.\nВо время учебы приобрел знания в высшей математике, Мат. Статистике и теории вероятностей, структурах и алгоритмах обработки данных. \nСвободное время уделяю изучению языка Python, в частности основ Data Sciense и ML.\nИмеются знания таких библиотек, как Pandas, MatPlotlib, NumPy и другие.\nИз основных личных качеств хочется выделить трудолюбие, чувство ответственности, креативность, постоянное желание развиваться и работать над собой.\nБлагодаря своему возрасту и большим амбициям готов постоянно учиться и совершенствоваться.\nМои работы можно найти на GitHub: https://github.com/Ysavoskin",
+    "recommendations": [
+        {}
+    ],
+    "attestation": [],
+    "dop_info": [
+        {
+            "dop 1": "Гражданство: Россия",
+            "dop 2": "Разрешение на работу: Россия",
+            "dop 3": "Желательное время в пути до работы: Не имеет значения"
+        }
+    ],
+    "portfolio": {},
+    "resume_id": "0bc73da80008adceb80039ed1f577641336d34",
+    "folder": "python_no_expierence"
+}

@@ -1,0 +1,74 @@
+{
+    "birth_date": "8 июня 2005",
+    "gender": "Мужчина",
+    "area": "Брянск",
+    "phone": "",
+    "email": "",
+    "metro": "",
+    "prava": [],
+    "title": "Программист",
+    "specialization": [
+        {
+            "name": "Информационные технологии, Интернет, Мультимедиа",
+            "profarea_name": "Начало карьеры, студенты"
+        }
+    ],
+    "salary": {
+        "amount": 50000,
+        "currency": "руб."
+    },
+    "education_level": "Образование",
+    "education": [],
+    "courses": [
+        {
+            "year": "2020",
+            "institution": "Основы программирования на языке Python",
+            "organization + specialization": "ФГБОУ ВО «БГИТУ» на основе Яндекс. Лицея, Основы программирования на языке Python"
+        },
+        {
+            "year": "2016",
+            "institution": "Программист C# 1 степени",
+            "organization + specialization": "АЙТИ-СКУЛ, Программист C# 1 степени"
+        }
+    ],
+    "certificates": [],
+    "language": [
+        {
+            "name": "Русский",
+            "level": "Родной"
+        }
+    ],
+    "experience": [],
+    "skill_set": [
+        "Обучаемость",
+        "Python",
+        "C#",
+        "Git"
+    ],
+    "skills": "Программист",
+    "recommendations": [
+        {}
+    ],
+    "attestation": [
+        {
+            "year": "2020",
+            "institution": "ФГБОУ ВО «БГИТУ»",
+            "organization_specialization": "Яндекс. Лицей, Основы программирования на языке Python"
+        },
+        {
+            "year": "2020",
+            "institution": "ФГБОУ ВО «БГИТУ»",
+            "organization_specialization": "Яндекс. Лицей, Основы программирования на языке Python"
+        }
+    ],
+    "dop_info": [
+        {
+            "dop 1": "Гражданство: Россия",
+            "dop 2": "Разрешение на работу: Россия",
+            "dop 3": "Желательное время в пути до работы: Не имеет значения"
+        }
+    ],
+    "portfolio": {},
+    "resume_id": "f0b53c50000741e02f0039ed1f6942634b5333",
+    "folder": "python_no_expierence"
+}

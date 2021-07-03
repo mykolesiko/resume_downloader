@@ -1,0 +1,113 @@
+{
+    "birth_date": "23 апреля 1998",
+    "gender": "Мужчина",
+    "area": "Москва",
+    "phone": "",
+    "email": "",
+    "metro": "",
+    "prava": [],
+    "title": "стажер в отдел продуктовой аналитики",
+    "specialization": [
+        {
+            "name": "Аналитик",
+            "profarea_name": "Информационные технологии, интернет, телеком"
+        }
+    ],
+    "salary": {
+        "amount": null,
+        "currency": null
+    },
+    "education_level": "Высшее образование",
+    "education": [
+        {
+            "year": 2019,
+            "name": "Московский государственный технический университет им. Н.Э. Баумана, Москва",
+            "faculty, speciality": "Романо-германские языки, Прикладная лингвистика"
+        }
+    ],
+    "courses": [],
+    "certificates": [],
+    "language": [
+        {
+            "name": "Русский",
+            "level": "Родной"
+        },
+        {
+            "name": "Английский",
+            "level": "C1 - Продвинутый"
+        },
+        {
+            "name": "Китайский",
+            "level": "B1 - Средний"
+        }
+    ],
+    "experience": [
+        {
+            "start": "01-08-2020",
+            "end": "01-11-2020",
+            "company": "Bell Integrator",
+            "position": "Аналитик",
+            "description": "-аналитика мобильного приложения\n-аналитика вэб-приложения\n-работа с БД SQL (ORACLE)\n-написание документации\n-тестирование продукта\n-частичное участие в UX\n-ведение demo"
+        },
+        {
+            "start": "01-02-2020",
+            "end": "01-08-2020",
+            "company": "MOLGA Consulting (МОЛГА Консалтинг)",
+            "position": "Младший консультант SAP",
+            "description": "-работа с системой SAP ERP\n-полный цикл сопровождения бизнеса на всех этапах проекта\n-постановка ТЗ разработчикам\n-обучение конечных пользователей"
+        },
+        {
+            "start": "01-05-2019",
+            "end": "01-07-2019",
+            "company": "Сбербанк",
+            "position": "Стажер разработчик Python",
+            "description": "Летняя стажировка. Сфера автотестирования. Django + sql"
+        }
+    ],
+    "skill_set": [
+        "Python sql (ORACLE, MySql), sqlAlchemy, Pandas, Seaborn, Numpy, базовые библиотеки(socket, path...",
+        "A/B тесты",
+        "Статистические критерии (Стьюдента, Манна-Уитни, Тьюки, ANOVA"
+    ],
+    "skills": "Курсы:\n\nKaggle Pandas, \nKaggle визуализация данных (seaborn),\nLinkedIn The essential elements of Data Mining,\nStepik Основы мат. статистики  \n\nИмеется свой проект: клон telegram бота написанный на python с нижеупомянутыми библиотеками\n",
+    "recommendations": [
+        {}
+    ],
+    "attestation": [
+        {
+            "year": "2021",
+            "institution": "Stepik",
+            "organization_specialization": "Анатолий Карпов, Математическая статистика"
+        },
+        {
+            "year": "2021",
+            "institution": "Stepik",
+            "organization_specialization": "Анатолий Карпов, Математическая статистика"
+        },
+        {
+            "year": "2020",
+            "institution": "LinkedIn",
+            "organization_specialization": "Certificate Id: AXBtxKVzsCZh8Vc78h6U3lfsZWuB, The Essential Elements of Predictive Analytics and Data Mining"
+        },
+        {
+            "year": "2020",
+            "institution": "Kaggle",
+            "organization_specialization": "Kaggle, Pandas library"
+        },
+        {
+            "year": "2020",
+            "institution": "Kaggle",
+            "organization_specialization": "Визуализация данных, Seaborn library"
+        }
+    ],
+    "dop_info": [
+        {
+            "dop 1": "Гражданство: Россия",
+            "dop 2": "Разрешение на работу: Россия",
+            "dop 3": "Желательное время в пути до работы: Не имеет значения"
+        }
+    ],
+    "portfolio": {},
+    "resume_id": "f45c17f60008a7d8b70039ed1f377a737a6966",
+    "folder": "python_1_3_expierence"
+}
